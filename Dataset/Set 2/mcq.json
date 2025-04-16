@@ -1,0 +1,3622 @@
+[
+    {
+        "question": "According to the Ordnance and Admiralty Lands Act, who divides the lands into two classes?",
+        "options": [
+            "The Minister of Finance",
+            "The Governor in Council",
+            "The Supreme Court",
+            "The Minister of Public Works"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Railway Belt Act, what does 'Railway Belt' refer to?",
+        "options": [
+            "A tract of land in Alberta.",
+            "A tract of land in British Columbia granted to the Dominion Government for railway construction.",
+            "All land adjacent to any railway in Canada.",
+            "A specific railway company's land holdings."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Manitoba Supplementary Provisions Act, what is the purpose of the land allotment described in Section 3?",
+        "options": [
+            "To provide funding for infrastructure projects in Manitoba.",
+            "To serve as an endowment for the University of Manitoba.",
+            "To establish a new agricultural research center.",
+            "To compensate Indigenous communities for land claims."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Railway Belt Water Act, who is deemed to own the water in a watercourse within the Railway Belt?",
+        "options": [
+            "The riparian proprietor",
+            "The Crown",
+            "The Board of Investigation",
+            "The Minister of the Interior"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Indian Soldier Settlement Act, which of the following sections of the Soldier Settlement Act are NOT applicable to Indian settlers?",
+        "options": [
+            "Sections three, four, eight, nine, ten, eleven, fourteen, twenty-nine, subsection two of fifty-one, and sixty-one.",
+            "All sections are applicable.",
+            "Only sections related to financial matters.",
+            "Only sections related to land ownership."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Manitoba Natural Resources Act, who administers the Crown lands, mines, and minerals within the province?",
+        "options": [
+            "The Government of Canada",
+            "The Hudson's Bay Company",
+            "The Province of Manitoba",
+            "The Superintendent General of Indian Affairs"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Boundary Waters Treaty, which use of boundary waters has the highest precedence?",
+        "options": [
+            "Uses for power and irrigation",
+            "Uses for navigation",
+            "Uses for domestic and sanitary purposes",
+            "Uses for industrial purposes"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Kingsmere Park Act, who is responsible for managing and controlling the buildings, yards, orchards, and gardens within Kingsmere Park?",
+        "options": [
+            "The Federal District Commission",
+            "The Minister of Public Works and Government Services",
+            "The Governor in Council",
+            "The Trustees of William Lyon Mackenzie King's will"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Government Annuities Act, what does 'annuitant' mean?\n",
+        "options": [
+            "A person who sells annuities.",
+            "A person in receipt of or entitled to the receipt of an annuity.",
+            "A government employee administering annuities.",
+            "A person who purchases annuities."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Government Annuities Act, what is the maximum age for an annuity to commence, regarding purchase price terms?\n",
+        "options": [
+            "Seventy-five years",
+            "Eighty years",
+            "Eighty-five years",
+            "Ninety years"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Public Service Pension Adjustment Act, what does 'child' mean?",
+        "options": [
+            "A person under 18 years of age.",
+            "A person who is in receipt of a pension by virtue of being the child of an employee.",
+            "A person who is financially dependent on an employee.",
+            "A person who is both a child and an orphan."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Queen Elizabeth II Canadian Research Fund Act, what is the primary purpose of the Fund?",
+        "options": [
+            "To fund research on adult diseases.",
+            "To assist research into the diseases of children.",
+            "To provide financial aid to medical students.",
+            "To regulate medical practices in Canada."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Marine War Risks Act, what does 'vessel' NOT include?",
+        "options": [
+            "Ship registered in Canada",
+            "Boat chartered by a Canadian",
+            "Cargo",
+            "Water craft owned by a Canadian"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the National Archives of Canada Act, what does 'government institution' mean?",
+        "options": [
+            "Any organization that receives federal funding.",
+            "An institution listed in Schedule I to the Access to Information Act or the schedule to the Privacy Act, or any institution designated by regulations of the Governor in Council.",
+            "Any department within the federal government.",
+            "A library or museum."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the cookie policy mentioned in the text, what is the purpose of saving cookies on a device?",
+        "options": [
+            "To track user location for advertising purposes",
+            "To ensure proper operation and security of the website, help statistical analysis of its usage, improve its functionality, or record navigational choices you make",
+            "To collect personal information for marketing purposes",
+            "To slow down website performance and consume storage space"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, which Act amended the Income Tax Act regarding the transfer of small business or family farm or fishing corporation?",
+        "options": [
+            "Bill C-208 assented to 2021 06 29",
+            "Bill C-2 assented to 2021 12 17",
+            "Bill C-30 assented to 2021 06 29",
+            "Bill C-14 assented to 2021 05 06"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Public Pensions Reporting Act, who is responsible for conducting actuarial reviews of pension plans?",
+        "options": [
+            "The Minister of Finance",
+            "The Chief Actuary of the Office of the Superintendent of Financial Institutions",
+            "The Governor General in Council",
+            "The Comptroller General of Canada"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Non-smokers Health Act, what does 'designated smoking area' mean?",
+        "options": [
+            "An area where smoking is permitted with no restrictions.",
+            "An enclosed room designated for smoking.",
+            "An area other than an enclosed room that is designated for smoking.",
+            "Any area where an employer allows smoking."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Office of the Superintendent of Financial Institutions Act, what is the primary purpose of the Act?",
+        "options": [
+            "To regulate all businesses in Canada.",
+            "To ensure that financial institutions and pension plans are regulated to contribute to public confidence in the Canadian financial system.",
+            "To provide financial assistance to struggling businesses.",
+            "To promote international trade and investment."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the provided text, what does 'amended Act' refer to?",
+        "options": [
+            "The Income War Tax Act",
+            "The Income Tax Act (R.S.C. 1952, c. 148) as amended by S.C. 1970-71-72, c. 63, s. 1 and subsequent Acts",
+            "The Interpretation Act",
+            "The Civil Marriage Act"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Hazardous Materials Information Review Act, what does 'CAS registry number' mean?",
+        "options": [
+            "A number assigned by the Chemical Abstracts Service",
+            "A number assigned by the International Union of Pure and Applied Chemistry",
+            "A number assigned by the Minister of Health",
+            "A number assigned by the Canadian Labour Code"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Under what condition can the Minister disclose confidential business information without consent according to the Hazardous Materials Information Review Act?",
+        "options": [
+            "When requested by a competitor of the business",
+            "To address serious and imminent danger to human health, safety, or the environment",
+            "When the information is over five years old",
+            "When the business has not paid the prescribed fee"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to section 54(1), under what condition is a person NOT entitled to file a claim for exemption in relation to a controlled product?",
+        "options": [
+            "If they file a notice of intent after the specified period.",
+            "If they do not pay the required fee.",
+            "If they are already exempt.",
+            "If the product is not hazardous."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Investment Canada Act, what does 'Canadian' mean?",
+        "options": [
+            "Only a Canadian citizen.",
+            "A permanent resident, a Canadian citizen, or a Canadian government entity.",
+            "A permanent resident for at least 5 years.",
+            "Any individual residing in Canada."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Motor Vehicle Transport Act, what does 'extra provincial bus undertaking' mean?",
+        "options": [
+            "Transport of goods by motor vehicle",
+            "Transport of passengers or passengers and goods by bus that connects provinces",
+            "Transport within a single province",
+            "Transport regulated by municipal laws"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Official Languages Act, which of the following is NOT a purpose of the Act?",
+        "options": [
+            "Ensure respect for English and French as official languages.",
+            "Support the development of English and French linguistic minority communities.",
+            "Advance the equality of status and use of English and French.",
+            "Promote Indigenous languages over official languages."
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Railway Safety Act, what are the objectives of the Act?",
+        "options": [
+            "To promote the safety and security of the public and personnel in railway operations, encourage collaboration, recognize the responsibility of companies to manage risks, and facilitate a modern regulatory scheme.",
+            "To increase railway profits and reduce environmental regulations",
+            "To privatize railway operations and minimize government oversight",
+            "To promote truck transportations and weaken the railway system"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Parliamentary Employment and Staff Relations Act, what does the term 'bargaining agent' mean?",
+        "options": [
+            "A group of two or more employees.",
+            "An employee organization certified by the Board as bargaining agent for a bargaining unit.",
+            "The Federal Public Sector Labour Relations and Employment Board.",
+            "An agreement in writing containing terms of employment."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what is a 'grievance' under the Parliamentary Employment and Staff Relations Act?",
+        "options": [
+            "A complaint in writing presented by an employee.",
+            "A dispute arising in connection with a collective agreement.",
+            "An arbitral award made by the Board.",
+            "A regulation made by the Board."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the text, what is the designation of the statutes declared to be law?",
+        "options": [
+            "Statutes of Canada 1985",
+            "Revised Statutes of Canada 1985",
+            "Consolidated Statutes of Canada",
+            "Federal Statutes"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the short title of the Act described in the document?",
+        "options": [
+            "Atlantic Canada Opportunities Agency Act",
+            "Enterprise Cape Breton Corporation Act",
+            "Government Organization Act Atlantic Canada 1987",
+            "Justice Laws Web Site Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Lobbying Act, what is considered a designated public office holder?",
+        "options": [
+            "A member of the House of Commons only",
+            "A minister of the Crown or a minister of state",
+            "A judge receiving a salary under the Judges Act",
+            "A member of the Royal Canadian Mounted Police"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the International Centre for Human Rights and Democratic Development Act, what is a major object of the Centre?",
+        "options": [
+            "To promote tourism in Canada.",
+            "To help reduce the gap between states' adherence to human rights agreements and their actual practices.",
+            "To regulate international trade agreements.",
+            "To provide financial aid to Canadian citizens."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Fish Inspection Act, what does 'fish' include?",
+        "options": [
+            "Shellfish and crustaceans only",
+            "Marine animals only",
+            "Any fish including shellfish, crustaceans, and marine animals, and any parts, products, or by-products thereof",
+            "Only fish processed for export"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Freshwater Fish Marketing Act, who appoints the Chairperson and President of the Freshwater Fish Marketing Corporation?",
+        "options": [
+            "The Board of Directors",
+            "The Minister",
+            "The Governor in Council",
+            "The Lieutenant Governor in Council"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the provided text, what does 'fish' include under the Fisheries Act?",
+        "options": [
+            "Only marine animals.",
+            "Only shellfish and crustaceans.",
+            "Parts of fish, shellfish, crustaceans, marine animals, and their eggs and juvenile stages.",
+            "Only the eggs, sperm, spawn, larvae, spat, and juvenile stages of fish."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Fisheries Development Act, what does 'fishery products' include?",
+        "options": [
+            "Only fish intended for human consumption.",
+            "Only products derived from processing fish.",
+            "Any fishery resources and any products derived from fishery resources.",
+            "Only marine mammals and plants."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Fisheries Improvement Loans Act, what does the term 'fisherman' mean?",
+        "options": [
+            "A person who catches fish for personal consumption.",
+            "A person who has a prescribed interest in a fishing vessel or weir and whose principal occupation is participation in a primary fishing enterprise.",
+            "A person who owns a fishing vessel.",
+            "A person who sells fishing equipment."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Fitness and Amateur Sport Act, what can the Minister provide assistance for?",
+        "options": [
+            "The promotion and development of Canadian participation in national and international amateur sport",
+            "The provision of financial assistance to professional athletes",
+            "The regulation of international sport competitions held in Canada",
+            "The construction of fitness facilities across Canada"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to Article III of the Food and Agriculture Organization of the United Nations Act, how many votes does each member nation have in the Conference?",
+        "options": [
+            "One",
+            "Two",
+            "Based on population",
+            "Determined by contribution"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Food and Drugs Act, what does the term 'device' NOT include if it performs actions solely by specific means?",
+        "options": [
+            "Pharmacological means",
+            "Immunological means",
+            "Metabolic means",
+            "Mechanical means"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Act, which of the following statements about advertising a food, drug, cosmetic, or device is true?",
+        "options": [
+            "Advertising to the general public is permitted as long as it's not misleading.",
+            "Advertising as a treatment for diseases listed in Schedule A.1 is prohibited.",
+            "Advertising is allowed if authorized by regulation, even for contraceptive devices.",
+            "Advertising can be done in any language as long as it is accurate."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what is the definition of 'food for a special dietary purpose'?",
+        "options": [
+            "A food that is represented as being healthier than regular food.",
+            "A food that has been specially processed or formulated to meet the particular requirements of an individual due to a disease or to be the sole or primary source of nutrition.",
+            "Any food that is marketed towards individuals with dietary restrictions.",
+            "Food that is enriched with vitamins and minerals."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Foreign Enlistment Act, what is included in the definition of 'armed forces'?",
+        "options": [
+            "Army, naval, and air forces or services only",
+            "Combatant forces only",
+            "Army, naval, and air forces or services, combatant or non-combatant",
+            "Surgical, medical, and nursing services under the Canadian Red Cross"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Under the Foreign Extraterritorial Measures Act, what does \"antitrust law\" mean?",
+        "options": [
+            "A law that prevents monopolies.",
+            "A law concerning foreign relations.",
+            "A law governing international trade agreements.",
+            "A law related to criminal activities outside Canada."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Forestry Act, what does 'Minister' refer to?",
+        "options": [
+            "Minister of Environment",
+            "Minister of Natural Resources",
+            "Minister of Agriculture",
+            "Prime Minister"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Garnishment Attachment and Pension Diversion Act, what does 'Her Majesty' refer to?",
+        "options": [
+            "The Queen of England",
+            "Her Majesty in right of Canada",
+            "The Prime Minister of Canada",
+            "The Governor General of Canada"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Geneva Conventions Act, what happens if a grave breach causes the death of a person?",
+        "options": [
+            "The person is liable to imprisonment for a term not exceeding fourteen years.",
+            "The person is liable to imprisonment for life.",
+            "The person is subject to a fine determined by the court.",
+            "The person is exempt from punishment if they are a protected person."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Government Corporations Operation Act, what does 'corporation' mean in this Act?\n",
+        "options": [
+            "A company incorporated under Part I of the Canada Corporations Act",
+            "A corporation incorporated under the Canada Business Corporations Act, all shares of which are owned by Her Majesty",
+            "Both A and B",
+            "A company owned by private individuals"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Government Employees Compensation Act, what does the term 'accident' include?",
+        "options": [
+            "Only physical injuries",
+            "Only intentional acts by the employer",
+            "A wilful act not being the act of the employee and a fortuitous event",
+            "Only events occurring at the workplace"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Governor General's Act, from what fund is the Governor General's salary paid?",
+        "options": [
+            "General Revenue Fund",
+            "Provincial Revenue Fund",
+            "Consolidated Revenue Fund",
+            "Municipal Revenue Fund"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Hazardous Products Act, what does the term 'container' include?",
+        "options": [
+            "Only bags and barrels",
+            "A bag, barrel, bottle, box, can, cylinder, drum, or similar package or receptacle",
+            "Only storage tanks",
+            "Any receptacle used for transportation"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Under which circumstance can the Governor in Council make regulations regarding hazardous products without consulting with the government of each province?",
+        "options": [
+            "During a national emergency",
+            "When the Minister deems it unnecessary",
+            "Never",
+            "After consultation by the Minister with the government of each province"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Historic Sites and Monuments Act, what does 'historic place' mean?",
+        "options": [
+            "Only sites of battles",
+            "A site, building, or other place of national historic interest or significance",
+            "Any place older than 100 years",
+            "Only places designated by the Minister"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Holidays Act, which day is observed as Remembrance Day?",
+        "options": [
+            "November 1st",
+            "November 11th",
+            "December 25th",
+            "January 1st"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Holidays Act, when is Victoria Day celebrated?",
+        "options": [
+            "The last Monday in May",
+            "The first Monday in May",
+            "The first Monday immediately preceding May 25",
+            "May 24th"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Under the Inquiries Act, who can appoint commissioners to investigate and report on the state and management of a department's business?",
+        "options": [
+            "The Governor General",
+            "The minister presiding over the department",
+            "The Supreme Court of Canada",
+            "Parliament"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Interest Act, what happens when interest is payable but no rate is fixed by agreement or law?",
+        "options": [
+            "The rate of interest is set at 4% per annum.",
+            "The rate of interest is set at 5% per annum.",
+            "The rate of interest is determined by the lender.",
+            "No interest is payable."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the International Boundary Commission Act, what is the maximum width of the vista that the Commission can clear from the land of any person to maintain the boundary?",
+        "options": [
+            "5 feet",
+            "10 feet",
+            "15 feet",
+            "20 feet"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the International Boundary Waters Treaty Act, what body has the power to take evidence on oath and compel the attendance of witnesses during joint sessions in Canada?",
+        "options": [
+            "The Federal Court",
+            "The Governor in Council",
+            "The International Joint Commission",
+            "The Minister of Foreign Affairs"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the International Development Financial Institutions Assistance Act, what does 'institution' refer to?",
+        "options": [
+            "Any organization receiving Canadian financial assistance.",
+            "Any international financial institution named in the schedule.",
+            "Only banks that promote social and economic development.",
+            "Institutions defined by the Minister of Finance."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the International Development Research Centre Act, who appoints the Chairperson of the Board?",
+        "options": [
+            "The President of the Centre",
+            "The Board of Governors",
+            "The Governor in Council",
+            "The Minister of Finance"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Identification of Criminals Act, which of the following individuals may be fingerprinted or photographed?",
+        "options": [
+            "Anyone suspected of a crime",
+            "Any person who is in lawful custody charged with an indictable offence",
+            "Anyone who has been apprehended under any Act",
+            "Anyone who the police deem necessary"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the International River Improvements Act, what is required to construct an international river improvement?",
+        "options": [
+            "A permit from the local municipality",
+            "A licence issued under this Act",
+            "Approval from the International Joint Commission",
+            "An environmental impact assessment"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Importation of Intoxicating Liquors Act, which of the following is NOT a valid reason to import intoxicating liquor into a province from outside Canada?",
+        "options": [
+            "For sacramental purposes",
+            "For medicinal purposes",
+            "For manufacturing purposes other than beverages",
+            "For personal consumption without a permit"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Income Tax Conventions Interpretation Act, what does 'convention' mean?",
+        "options": [
+            "Only agreements related to income tax between Canada and another state.",
+            "Any convention or agreement between Canada and another state relating to tax on income, including protocols or supplementary agreements.",
+            "Only protocols related to income tax between Canada and another state.",
+            "Any agreement between Canada and another state."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Indian Act, what does the term 'band' refer to?",
+        "options": [
+            "A group of Inuit people",
+            "A body of Indians for whose use and benefit lands are held by Her Majesty",
+            "A council of elected officials",
+            "A geographical location within a reserve"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Indian Oil and Gas Act, what does \"condensate\" refer to?",
+        "options": [
+            "A gaseous mixture of hydrocarbons.",
+            "A solid mixture of hydrocarbons.",
+            "A liquid mixture consisting mainly of pentanes and heavier hydrocarbons that is condensed from natural gas.",
+            "A type of oil found only on First Nation lands."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Under the Indian Oil and Gas Act, what authority does the Minister have regarding contracts on lands set aside for land claim settlements?",
+        "options": [
+            "The Minister can only grant contracts with terms identical to pre-existing agreements.",
+            "The Minister has no authority over contracts on these lands.",
+            "The Minister can grant contracts with similar terms and conditions to those in effect before the lands were set aside as a reserve.",
+            "The Minister must obtain unanimous consent from all First Nation members before granting any contract."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Industrial and Regional Development Act, what does 'approved lender' mean?",
+        "options": [
+            "A lender approved by Statistics Canada",
+            "A lender defined by provincial regulations",
+            "A lender as defined by the regulations under this Act",
+            "A lender approved by the Minister of Western Economic Diversification"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Industrial Design Act, what does 'design' or 'industrial design' mean?",
+        "options": [
+            "Features of shape, configuration, pattern or ornament.",
+            "A technical drawing of an industrial product.",
+            "The functional aspects of an industrial product.",
+            "The marketing strategy for an industrial product."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Judges Act, what constitutes an 'associate judge'?",
+        "options": [
+            "A judge of the Supreme Court of Canada",
+            "An associate judge of the Federal Court or Tax Court of Canada, including a supernumerary associate judge",
+            "Any judge appointed before February 17, 1975",
+            "A judge of a provincial superior court"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, 'Eastern Canada' is defined as:",
+        "options": [
+            "All provinces east of Manitoba",
+            "All that part of Canada lying east of the eighty-ninth meridian of west longitude and such other areas in Ontario as the Governor in Council may designate",
+            "The Atlantic provinces only",
+            "Ontario, Quebec, and the Maritimes"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "The purpose of the Livestock Feed Assistance Act is to ensure which of the following for livestock feeders?",
+        "options": [
+            "Lowest possible feed grain prices",
+            "Availability of feed grain, adequate storage space, price stability, and fair equalization of feed grain prices",
+            "Subsidized veterinary care",
+            "Guaranteed profits"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Labour Adjustment Benefits Act, what does 'average weekly insurable earnings' mean in respect of an employee?",
+        "options": [
+            "The employee's total earnings for the past year divided by 52.",
+            "The weekly average of the employee's insurable earnings as determined under the Employment Insurance Act.",
+            "The employee's highest weekly earnings during their employment.",
+            "The average wage for similar positions in the same industry."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Members of Parliament Retiring Allowances Act, what does 'average annual sessional indemnity' refer to?",
+        "options": [
+            "The total sessional indemnity received during a member's entire career.",
+            "The average annual salary received by a member during their time in Parliament.",
+            "The average annual sessional indemnity received during any five-year period of pensionable service selected by the member.",
+            "The sessional indemnity received in the member's final year of service."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Under the Merchant Seamen Compensation Act, what does \"accident\" include?",
+        "options": [
+            "Only physical injuries sustained on the job",
+            "A wilful act of a seaman",
+            "A fortuitous event caused by a physical cause",
+            "Only injuries that occur within Canadian waters"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Ministries and Ministers of State Act, what must a proclamation establishing a ministry of State specify?",
+        "options": [
+            "The budget allocated to the ministry.",
+            "The name of the ministry, the matters it addresses, and the assigned powers.",
+            "The location of the ministry's headquarters.",
+            "The qualifications required for ministry staff."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Motor Vehicle Fuel Consumption Standards Act, what does 'company' mean?",
+        "options": [
+            "A person engaged in manufacturing motor vehicles in Canada.",
+            "A person engaged in importing motor vehicles into Canada.",
+            "A person selling motor vehicles to others for resale obtained directly from a manufacturer or importer.",
+            "All of the above"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the National Housing Act, what is the primary purpose related to financing for housing?",
+        "options": [
+            "To maximize profits for lenders",
+            "To promote housing affordability and choice",
+            "To increase housing prices",
+            "To restrict access to housing finance"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the National Library Act, what does the term 'book' include?",
+        "options": [
+            "Only printed documents",
+            "Documents and papers only",
+            "Library matter of every kind and description",
+            "Only documents published by a publisher"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the short title of RSC 1985, c. N-17?",
+        "options": [
+            "The Sovereignty Act",
+            "The Beaver Act",
+            "The National Symbol of Canada Act",
+            "The Canada Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Natural Sciences and Engineering Research Council Act, who appoints the members of the Council?",
+        "options": [
+            "The President of the Council",
+            "The Minister of Industry",
+            "The Governor in Council",
+            "The Vice President of the Council"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, who is responsible for making the additional financial assistance payments to Newfoundland and Labrador?",
+        "options": [
+            "The Premier of Newfoundland and Labrador",
+            "The Minister of Justice",
+            "The Minister of Finance",
+            "The Prime Minister of Canada"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Northern Pipeline Act, what agreement is referenced in Schedule I?",
+        "options": [
+            "Agreement between Canada and Mexico",
+            "Agreement between Canada and the United States",
+            "Agreement between Canada and Britain",
+            "Agreement between Canada and Russia"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Northwest Territories Act, what does the term 'intoxicant' include?",
+        "options": [
+            "Alcohol only",
+            "Alcohol and alcoholic beverages",
+            "Any drinkable liquid capable of human consumption",
+            "Any intoxicating liquor or combination of liquors and mixed liquor"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Northwest Territories Act, who may appoint a Deputy Commissioner of the Territories?",
+        "options": [
+            "The Commissioner",
+            "The Council",
+            "The Governor in Council",
+            "The Minister of Indian Affairs and Northern Development"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Northwest Territories Act, what is the duration of each Council, unless dissolved earlier?",
+        "options": [
+            "Two years",
+            "Three years",
+            "Four years",
+            "Five years"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Nuclear Liability Act, what is the limit of insurance an operator must maintain?",
+        "options": [
+            "Fifty million dollars",
+            "Seventy-five million dollars",
+            "One hundred million dollars",
+            "One billion dollars"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the short title of the Act described in the document?",
+        "options": [
+            "National Symbols Act",
+            "Canada Act",
+            "National Anthem Act",
+            "O Canada Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the National Capital Act, what does \"Her Majesty\" refer to?",
+        "options": [
+            "The Queen of England",
+            "Her Majesty in right of Canada",
+            "The Governor General",
+            "The Prime Minister"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, which of the following best describes the purpose of cookies on the CanLII website?",
+        "options": [
+            "To track user activity for advertising purposes",
+            "To ensure proper operation and security of the website, help statistical analysis, improve functionality, or record navigational choices.",
+            "To collect personal information for marketing purposes",
+            "To restrict access to certain parts of the website"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what is the role of the Chief of Defence Staff?",
+        "options": [
+            "To manage website cookies",
+            "Appointment, rank and duties of Chief of Defence Staff.",
+            "To provide legal advice to the Minister",
+            "To oversee civilian dental treatment"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the National Energy Board Act, what does 'abandoned pipeline' refer to?",
+        "options": [
+            "A pipeline that is no longer in operation but remains in place with the Board's approval.",
+            "A pipeline that has been completely removed from its location.",
+            "A pipeline that is temporarily out of service for maintenance.",
+            "A pipeline that is still operational but is under review for potential closure."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Act, what entity is responsible for establishing manufacturing standards for the national flag of Canada?",
+        "options": [
+            "The Department of Canadian Heritage",
+            "The Standards Council of Canada",
+            "The Canadian General Standards Board",
+            "The National Research Council"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Official Residences Act, which of the following residences is maintained for the Prime Minister of Canada?",
+        "options": [
+            "The lands described in Schedule II",
+            "The lands described in Schedule I",
+            "The lands described in Schedule III",
+            "Any lands in the National Capital Region"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Oil Substitution and Conservation Act, what does the term 'Minister' refer to?",
+        "options": [
+            "The Minister of Finance",
+            "The Minister of Natural Resources",
+            "The Prime Minister",
+            "The Minister of Energy"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the provided text, what does the term 'allowance' mean in the context of the Old Age Security Act?",
+        "options": [
+            "A payment made to veterans.",
+            "The allowance authorized to be paid under Part III of the Act.",
+            "A general welfare payment.",
+            "A tax credit for seniors."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Pesticide Residue Compensation Act, who may be designated as an inspector?",
+        "options": [
+            "Any person",
+            "Any qualified person",
+            "Only government employees",
+            "Only members of the RCMP"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Petroleum and Gas Revenue Tax Act, what does 'approved recovery project' mean?",
+        "options": [
+            "A project certified by the Minister of Finance to have commenced operations after March 31, 1985.",
+            "A water flood or major expansion to a water flood certified by the Minister of Natural Resources to have commenced operations after March 31, 1985.",
+            "Any energy project that commenced operations after 1982.",
+            "A project certified by the Minister of Finance and Minister of Environment."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Pilotage Act, what is the primary purpose of the Act?",
+        "options": [
+            "To regulate all shipping activities in Canada.",
+            "To establish a framework for pilotage services promoting safety and efficiency.",
+            "To control the financial aspects of marine transportation.",
+            "To manage environmental regulations related to shipping."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Postal Services Interruption Relief Act, what is the minimum duration of a postal service interruption that must occur before a person can apply for relief?",
+        "options": [
+            "24 hours",
+            "36 hours",
+            "48 hours",
+            "72 hours"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Prairie Farm Rehabilitation Act, who designates the Minister for the purposes of this Act?",
+        "options": [
+            "The Prime Minister",
+            "The Governor in Council",
+            "Parliament",
+            "The Treasury Board"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Prairie Grain Advance Payments Act, what does 'advance payment' mean?",
+        "options": [
+            "A payment for grain made to a producer under the authority of this Act.",
+            "A payment for grain after delivery to the Canadian Wheat Board.",
+            "A payment for storage fees of grain.",
+            "A payment for transportation of grain."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Precious Metals Marking Act, what does the term 'article' mean?",
+        "options": [
+            "Any article of merchandise, including any portion thereof.",
+            "Only fully assembled items made of precious metals.",
+            "Only distinct parts of articles of merchandise.",
+            "Only articles designated by specific regulations."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the text, what body can administer an oath to a witness examined at the bar?",
+        "options": [
+            "The Supreme Court of Canada",
+            "The Senate or the House of Commons",
+            "The provincial legislature",
+            "The Governor General"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what happens to civil or criminal proceedings if a certificate from the Speaker or Clerk of the Senate or House of Commons is presented stating that the published material was authorized by either house?",
+        "options": [
+            "The proceedings continue as normal.",
+            "The proceedings are immediately stayed.",
+            "The proceedings are transferred to a different court.",
+            "The proceedings are reviewed by a special committee."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Prisons and Reformatories Act, what does 'prison' mean?",
+        "options": [
+            "A place of confinement including penitentiaries.",
+            "A place of confinement for young offenders only.",
+            "A place of confinement other than a penitentiary as defined in Part I of the Corrections and Conditional Release Act.",
+            "A place of confinement specifically for those serving sentences for civil contempt."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Privacy Act, what does 'personal information' NOT include for the purposes of sections 7, 8, and 26 and section 19 of the Access to Information Act?\n",
+        "options": [
+            "Information relating to race or ethnic origin",
+            "Information about a deceased individual for more than 20 years",
+            "The personal opinions or views of the individual",
+            "The address or fingerprints of the individual"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to Article 5 of the Agreement on the Status of NATO National Representatives, what is the extent of immunity waiver?",
+        "options": [
+            "It extends to measures of execution.",
+            "It extends to detention of property.",
+            "It does not extend to any measure of execution or detention of property.",
+            "It extends to both execution and detention of property."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Provincial Subsidies Act, what consideration was given to the Province of New Brunswick for repealing export duties on lumber?",
+        "options": [
+            "An annual subsidy of fifty thousand dollars.",
+            "An annual subsidy of one hundred thousand dollars.",
+            "An annual subsidy of one hundred and fifty thousand dollars.",
+            "An annual subsidy of two hundred thousand dollars."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Public Documents Act, which of the following documents is NOT explicitly mentioned as potentially being on paper instead of parchment?",
+        "options": [
+            "Commission under the Great Seal",
+            "Letters patent of Canada",
+            "Public writ",
+            "Land grant letters patent"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Public Officers Act, who may make regulations regarding commissions for officers in the federal public administration?",
+        "options": [
+            "The Registrar General of Canada",
+            "The Governor in Council",
+            "Parliament",
+            "The Privy Council"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Public Servants Inventions Act, who determines questions about whether an invention is vested in Her Majesty?",
+        "options": [
+            "The Commissioner of Patents",
+            "The Federal Court",
+            "The appropriate minister",
+            "The Governor in Council"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the text, what does 'deployment' mean in the context of the Public Service Employment Act?",
+        "options": [
+            "The transfer of an employee from one position to another",
+            "The process of laying off employees",
+            "The promotion of an employee to a higher position",
+            "The resignation of an employee from their current position"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Public Service Rearrangement and Transfer of Duties Act, who has the authority to transfer powers, duties, or functions within the federal public administration?",
+        "options": [
+            "The Prime Minister",
+            "The Governor in Council",
+            "The Chief Justice of Canada",
+            "The Clerk of the Privy Council"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what does 'arbitral award' mean?",
+        "options": [
+            "An award made by a conciliator.",
+            "An award made by an arbitration board or an arbitrator in respect of a dispute.",
+            "An agreement in writing entered into under this Act.",
+            "A decision made by the Chairperson of the Board."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what does \"contributor\" mean in the context of the Public Service Superannuation Act?",
+        "options": [
+            "A person required by section 5 to contribute to the Public Service Pension Fund.",
+            "A person who has never contributed to the Superannuation Account or the Public Service Pension Fund.",
+            "A person who is exempt from contributing to the Public Service Pension Fund.",
+            "A person who is not employed in the public service."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the text, what does \"award\" mean?",
+        "options": [
+            "Only a pension payable under this Act",
+            "Only compensation payable under this Act",
+            "A pension, compensation, an allowance or a bonus payable under this Act",
+            "Only a bonus payable under this Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What period is denoted by the term World War I according to the Pension Act?",
+        "options": [
+            "August 4, 1914 and August 31, 1921",
+            "September 1, 1939 and April 1, 1947",
+            "June 25, 1950 to July 27, 1953",
+            "August 14, 1914 and November 11, 1918"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the text, what constitutes \"improper conduct\"?",
+        "options": [
+            "Wilful disobedience of orders",
+            "Vicious or criminal conduct",
+            "Wilful self-inflicted wounding",
+            "All of the above"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Pest Control Products Act, what does 'control product' mean?",
+        "options": [
+            "Only products that kill pests.",
+            "Any product, device, organism, substance, or thing that is manufactured, represented, sold, or used as a means for directly or indirectly controlling, preventing, destroying, mitigating, attracting, or repelling any pest.",
+            "Only pesticides used in agriculture.",
+            "Products approved by the Minister of Health."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Quarantine Act, what does 'conveyance' mean?",
+        "options": [
+            "Only ships and boats",
+            "Any means of transporting persons, goods, or cargo",
+            "Specifically trains and aircraft",
+            "Only motor vehicles and trailers"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Under the Quarantine Act, who can establish quarantine stations in Canada?",
+        "options": [
+            "The provincial health minister",
+            "The municipal government",
+            "The Minister of Health",
+            "The Prime Minister"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Radiation Emitting Devices Act, what does 'advertise' include?",
+        "options": [
+            "Only direct promotion of a device",
+            "Any representation for promoting a radiation emitting device, directly or indirectly",
+            "Only representations made through official channels",
+            "Only representations approved by the Minister of Health"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Under the Radiocommunication Act, what does 'broadcasting' mean?",
+        "options": [
+            "Any radiocommunication intended for direct reception by the general public.",
+            "Any radiocommunication that is encrypted.",
+            "Any radiocommunication that is transmitted by a network operation.",
+            "Any radiocommunication that requires a subscription fee."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Radiocommunication Act, what is the definition of 'harmful interference'?",
+        "options": [
+            "Any interference to radiocommunication.",
+            "An adverse effect of electromagnetic energy that endangers safety-related radiocommunication systems or degrades radio apparatus.",
+            "Any unauthorized use of radio apparatus.",
+            "Any telecommunication that is not encrypted."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Railway Relocation and Crossing Act, what does 'Agency' refer to?",
+        "options": [
+            "The Minister of Transport",
+            "The Canadian Transportation Agency",
+            "Statistics Canada",
+            "The Minister of Public Works and Government Services"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Resources and Technical Surveys Act, which of the following falls under the definition of 'technical surveys'?",
+        "options": [
+            "Agricultural surveys",
+            "Economic forecasts",
+            "Geophysical surveys",
+            "Demographic studies"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Revolving Funds Act, which of the following can the Minister of Agriculture and Agri-Food make expenditures for?",
+        "options": [
+            "Operation of the National Film Board",
+            "Passport services",
+            "Race track supervision in Canada",
+            "Operation of airports"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Royal Canadian Mint Act, what is the authorized capital of the Mint?",
+        "options": [
+            "Fifty million dollars",
+            "Twenty million dollars",
+            "Forty million dollars",
+            "One hundred million dollars"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Legislation Revision and Consolidation Act, what does 'Commission' refer to?",
+        "options": [
+            "The Minister of Justice",
+            "The Governor General",
+            "The Statute Revision Commission",
+            "The Clerk of the Privy Council"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the text, what is the role of the Minister of Justice and Attorney General of Canada in relation to the Statute Revision Commission?",
+        "options": [
+            "To serve as a member of the Commission",
+            "To provide direction to the Commission",
+            "To appoint members to the Commission",
+            "Both B and C"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Publication of Statutes Act, who has custody of the original Acts of Parliament?",
+        "options": [
+            "The Minister of Public Works and Government Services",
+            "The Clerk of the Parliaments",
+            "The Queen's Printer",
+            "The Governor General"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what is the purpose of cookies on the CanLII website?",
+        "options": [
+            "To track users' personal information for advertising.",
+            "To ensure proper operation and security of the website, help statistical analysis, improve functionality, or record navigational choices.",
+            "To prevent users from accessing certain parts of the website.",
+            "To collect data for marketing purposes."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, who appoints the Port Warden of the Harbor of Quebec?",
+        "options": [
+            "The Governor in Council",
+            "The Board of Trade and Industry",
+            "The Senate and House of Commons",
+            "The Collector of Customs"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Act, what emblem and badge does the Canadian Red Cross Society have the right to use?",
+        "options": [
+            "A Red Crescent on a white ground",
+            "A Red Cross on a white ground",
+            "A Maple Leaf on a white ground",
+            "The Union Jack"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Returned Soldiers Insurance Act, what could the Minister enter into a contract for?",
+        "options": [
+            "Sale of land to returned soldiers",
+            "Insurance contract with returned soldiers or their widows/widowers",
+            "Employment opportunities for veterans",
+            "Educational grants for veterans' children"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, who appoints the members of the Lake of the Woods Control Board?",
+        "options": [
+            "The Prime Minister of Canada and the Premier of Ontario",
+            "The Governor General in Council, the Lieutenant Governor of Ontario in Council, and the Lieutenant Governor of Manitoba in Council",
+            "The International Joint Commission",
+            "The Senate and House of Commons of Canada"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the agreement, who exercises the power or right reserved to the Minister of the Interior regarding the transferred lands?",
+        "options": [
+            "The Governor in Council",
+            "The Lieutenant Governor of the Province in Council",
+            "The Parliament of Canada",
+            "The Attorney General of British Columbia"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the short title of this Act?",
+        "options": [
+            "The Revenue Act 1936",
+            "The Loan Act 1936",
+            "The Consolidated Act 1936",
+            "The Public Service Act 1936"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to Section 1, the works of Hudson Bay Mining and Smelting Co Limited are declared to be for the advantage of which entities?",
+        "options": [
+            "Manitoba only",
+            "Saskatchewan only",
+            "Both Manitoba and Saskatchewan",
+            "Canada as a whole"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what is the maximum interest rate that can be charged on the loan to the Government of New Brunswick?",
+        "options": [
+            "3%",
+            "4.25%",
+            "4.375%",
+            "5%"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Indian Reserves of Nova Scotia Act, what does 'minerals' NOT include?",
+        "options": [
+            "Salt",
+            "Oil",
+            "Sand",
+            "Coal"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the short title of the Act?",
+        "options": [
+            "The Resources Act",
+            "The School Act",
+            "Natural Resources Transfer School Lands Amendment Act 1961",
+            "The Lands Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Roosevelt Campobello International Park Commission Act, which of the following definitions is correct?",
+        "options": [
+            "Agreement means the agreement between the Government of Canada and the Government of the United States of America relating to the establishment of the Roosevelt Campobello International Park Commission.",
+            "Commission means the Minister of Foreign Affairs.",
+            "Park means any park in Canada.",
+            "Minister means the Roosevelt Campobello International Park."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to Section 1 of the Act, the Air Regulations and amendments are deemed to have been made by whom and with whose approval?",
+        "options": [
+            "The Prime Minister with the approval of the Senate",
+            "The Minister of Transport with the approval of the Governor in Council",
+            "The Chief Justice of Canada with the approval of Parliament",
+            "The Speaker of the House with the approval of the Senate"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Olympic 1976 Act, what does 'Olympic' mean?",
+        "options": [
+            "The 1972 Winter Olympic Games",
+            "The 1976 Summer Olympic Games",
+            "Any Olympic games held in Canada",
+            "The Special Olympics"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Under the Olympic 1976 Act, who is authorized to administer the promotion, distribution, and merchandising of Olympic coins?",
+        "options": [
+            "The Minister of Finance",
+            "The Governor in Council",
+            "The Olympic Corporation",
+            "The Postmaster General"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "What year was the Representation Act enacted?",
+        "options": [
+            "1967",
+            "1974",
+            "1982",
+            "1990"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Government Annuities Improvement Act, after the commencement of the act, can new annuity contracts be entered into under the Government Annuities Act?",
+        "options": [
+            "Yes, without any restrictions.",
+            "No, unless provided by the terms of an existing contract or paragraph 7(b) of this Act.",
+            "Yes, only with the approval of the Governor in Council.",
+            "No, under any circumstances."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what body is initially vested with the powers to administer pensions, grants, and allowances related to the Halifax explosion of 1917 after the dissolution of the Halifax Relief Commission?",
+        "options": [
+            "The Minister of Finance",
+            "The Canadian Pension Commission",
+            "The General Assembly of Nova Scotia",
+            "The Governor in Council"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the James Bay and Northern Quebec Native Claims Settlement Act, what does 'Agreement' refer to?",
+        "options": [
+            "An agreement solely between the Grand Council of the Crees and the Government of Canada.",
+            "The agreement between the Grand Council of the Crees of Quebec, the Northern Quebec Inuit Association, the Government of Quebec, la Soci\u00e9t\u00e9 d'\u00e9nergie de la Baie James, la Soci\u00e9t\u00e9 de d\u00e9veloppement de la Baie James, la Commission hydro-\u00e9lectrique de Qu\u00e9bec, and the Government of Canada dated November 11, 1975, as amended.",
+            "Any agreement related to native claims in Northern Quebec.",
+            "An agreement strictly between the Inuit and the Government of Quebec."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what is the par value of each share of the Continental Bank of Canada's authorized capital stock?",
+        "options": [
+            "$5",
+            "$10",
+            "$20",
+            "$50"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the act, what condition allows the Governor in Council to grant an immediate annuity to Mr. Justice Donald Raymond Morand?",
+        "options": [
+            "If he has served for more than 10 years and resigns before age 60.",
+            "If he has continued in office for more than fifteen years but has not attained the age of sixty-five years and resigns to become the Ombudsman of Ontario.",
+            "If he has reached the age of sixty-five years and retires from the Supreme Court of Ontario.",
+            "If he is removed from his position due to permanent infirmity."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to Section 1 of the Act, which of the following orders are deemed to have the same force and effect as if made pursuant to an Act of Parliament specifically authorizing them?",
+        "options": [
+            "Postmaster General Authority to Prescribe Fees Order P.C. 1976-2073 only",
+            "Postmaster General Authority to Prescribe Fees Order P.C. 1978-883 only",
+            "Postmaster General Authority to Prescribe Fees Order P.C. 1979-88 only",
+            "All Postmaster General Authority to Prescribe Fees Orders mentioned in Section 1"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the subject of the Fort Nelson Indian Reserve Minerals Revenue Sharing Act?",
+        "options": [
+            "Sharing of revenues from forestry within the Fort Nelson Indian Reserve.",
+            "Sharing of revenues from the exploitation of minerals in the Fort Nelson Indian Reserve.",
+            "Land claims settlement with the Fort Nelson Indian Band.",
+            "Environmental regulations for mining in British Columbia."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the provided text, what does 'Category IA N land' mean?",
+        "options": [
+            "Land administered by the Cree band.",
+            "Land for the exclusive use and benefit of the Naskapi band, transferred by Quebec to Canada.",
+            "Land designated for commercial development.",
+            "Land co-managed by the federal and provincial governments."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Pioneer Trust Payment Continuation Act, who may enter into agreements on behalf of Her Majesty to continue payments under guaranteed income averaging certificates?",
+        "options": [
+            "The Minister of Justice",
+            "The Minister of State Finance",
+            "The Governor of the Bank of Canada",
+            "The Prime Minister"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What does the term 'Agreement' refer to in this Act?",
+        "options": [
+            "Any contract involving Indigenous bands in Canada",
+            "The Memorandum of Agreement between various parties regarding mercury pollution claims",
+            "An agreement under the Canada Health Act",
+            "The Escrow Agreement"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what does 'Minister' refer to?",
+        "options": [
+            "Minister of Finance",
+            "Minister of Justice",
+            "Minister of Transport",
+            "Prime Minister"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the text, what year was the Representation Act assented to?",
+        "options": [
+            "1981",
+            "1985",
+            "1986",
+            "1987"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, which of the following countries' debts are forgiven?",
+        "options": [
+            "Senegal",
+            "Ghana",
+            "Togo",
+            "Nigeria"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Postal Services Continuation Act, 1987, what does 'collective agreement' refer to?",
+        "options": [
+            "The agreement currently being negotiated between the employer and the union.",
+            "The collective agreement between the employer and the union that expired on September 30, 1986.",
+            "Any agreement between postal workers.",
+            "An agreement regarding the terms of CanLII's privacy policy."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what does 'agreement' refer to?",
+        "options": [
+            "A purchase and sale agreement respecting assets in the Northwest Territories.",
+            "The purchase and sale agreement respecting assets in the Yukon Territory.",
+            "An agreement between the Minister and the Commission.",
+            "An agreement regarding pension rights."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Prince Rupert Grain Handling Operations Act, what does 'arbitrator' mean?",
+        "options": [
+            "A person appointed to resolve disputes under the Canada Labour Code.",
+            "The arbitrator appointed by the Minister pursuant to subsection 7(1) of this Act.",
+            "A representative of the Grain Workers Union Local 333.",
+            "An officer of the Prince Rupert Grain Ltd."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Indian Lands Agreement 1986 Act, what does the term 'agreement' refer to?",
+        "options": [
+            "An agreement between any band of Indians and the Government of Canada",
+            "The agreement between the Government of Canada and the Government of Ontario set out in the schedule",
+            "Any agreement related to Indian lands",
+            "An agreement between the Government of Ontario and a specific band of Indians"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, which period are orders related to imported fresh fruits and vegetables declared validly made?",
+        "options": [
+            "January 1, 1970 to January 10, 1980",
+            "January 1, 1972 to January 10, 1985",
+            "June 28, 1984 to January 10, 1985",
+            "March 22, 1988 to Present"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Forgiveness of Debts sub Saharan Africa Act, what happens to the debts owed by certain sub-Saharan African countries to the Government of Canada?\n(a) They are renegotiated.\n(b) They are forgiven.\n(c) They are transferred to another entity.\n(d) They are deferred.",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Plant Breeders Rights Act, what does 'advertise' mean in relation to a plant variety?",
+        "options": [
+            "To distribute material to the public to promote the sale of propagating material.",
+            "To keep information secret for competitive advantage.",
+            "To exclusively sell harvested material.",
+            "To offer plant varieties only to research institutions."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Plant Breeders Rights Act, which of the following is NOT a condition for granting plant breeder's rights?",
+        "options": [
+            "The plant variety must be a new variety.",
+            "The plant variety must be clearly distinguishable from all varieties whose existence is a matter of common knowledge.",
+            "The plant variety must be able to produce a yield 20% higher than existing varieties.",
+            "The plant variety must be stable in its essential characteristics."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Plant Breeders Rights Act, who can apply for plant breeder's rights?",
+        "options": [
+            "Only Canadian citizens who are breeders.",
+            "A breeder or their legal representative who is a citizen or resident in Canada, a country of the Union, or an agreement country.",
+            "Any individual who discovers a new plant variety in Canada.",
+            "Only corporations with establishments in Canada."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Health of Animals Act, what does the term 'animal' include?",
+        "options": [
+            "Only livestock",
+            "An embryo and a fertilized egg or ovum",
+            "Only domesticated animals",
+            "Only mammals"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Plant Protection Act, what is the primary purpose of the Act?",
+        "options": [
+            "To regulate international trade of plants",
+            "To protect plant life and the agricultural and forestry sectors of the Canadian economy by preventing the spread of pests",
+            "To promote the growth of the agricultural sector",
+            "To provide compensation for plant diseases"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Integrated Circuit Topography Act, what does 'commercially exploit' mean?",
+        "options": [
+            "To reverse engineer a product.",
+            "To sell, lease, offer, or exhibit for sale or lease, or otherwise distribute for a commercial purpose.",
+            "To use for personal research only.",
+            "To manufacture in a foreign country."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Museums Act, what role do museums play in relation to Canada's heritage?",
+        "options": [
+            "Museums are primarily for entertainment purposes.",
+            "Museums play an essential role in preserving and promoting Canada's heritage.",
+            "Museums are only for the use of academic researchers.",
+            "Museums are responsible for creating new heritage."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Hibernia Development Project Act, what does 'Board' mean?",
+        "options": [
+            "The Canada-Newfoundland Offshore Petroleum Board",
+            "The Minister of Natural Resources",
+            "The Governor in Council",
+            "Her Majesty in right of Canada"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Nordion and Theratronics Divestiture Authorization Act, what does 'Minister' refer to?",
+        "options": [
+            "The Minister of Health",
+            "Such member of the Queen's Privy Council for Canada as may be designated by the Governor in Council for the purposes of this Act",
+            "The Minister of Industry",
+            "The Prime Minister"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Petro Canada Public Participation Act, what is the primary function of the 'Minister'?",
+        "options": [
+            "Overseeing environmental regulations.",
+            "Managing the day-to-day operations of Petro Canada.",
+            "Being designated by the Governor in Council for the purposes of this Act.",
+            "Representing the interests of Petro Canada's shareholders."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Public Sector Compensation Act, what does 'compensation' NOT include?",
+        "options": [
+            "Pay",
+            "Benefits",
+            "Perquisites",
+            "Payments under the Supplementary Retirement Benefits Act"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Postal Services Continuation Act, 1991, what does the term 'arbitrator' mean?",
+        "options": [
+            "A mediator selected by both parties to resolve disputes.",
+            "An individual appointed by the Minister to resolve collective agreement issues.",
+            "A judge presiding over labor disputes.",
+            "A representative from the Canada Post Corporation."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the short title of this Act?",
+        "options": [
+            "Violence Against Women Act",
+            "National Day of Remembrance Act",
+            "University of Montreal Act",
+            "December 6th Act"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, when was the Miscellaneous Statute Law Amendment Act 1991 assented to?",
+        "options": [
+            "1991-01-01",
+            "1992-02-28",
+            "1996-09-03",
+            "2025-01-22"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Referendum Act, what does 'contribution' NOT include?",
+        "options": [
+            "Money provided as a loan with normal interest.",
+            "Volunteer labor.",
+            "Goods and services at commercial value.",
+            "Gifts used for the referendum."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Northwest Territories Waters Act, who has the property rights to waters in the Northwest Territories?",
+        "options": [
+            "The Minister of Indian Affairs and Northern Development",
+            "The Northwest Territories Water Board",
+            "Her Majesty in right of Canada",
+            "Domestic users"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Pension Benefits Division Act, what does 'agreement' refer to?",
+        "options": [
+            "An agreement related to spousal support.",
+            "An agreement referred to in subparagraph 4(2)(b)(ii).",
+            "An agreement between the Minister and the pension plan member.",
+            "An agreement regarding division of property other than pension benefits."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What act is repealed by this legislation?",
+        "options": [
+            "Income Tax Act",
+            "Children's Special Allowances Act",
+            "Family Allowances Act",
+            "Canada Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Gwich'in Land Claim Settlement Act, what does 'Agreement' refer to?",
+        "options": [
+            "Any agreement involving land claims in Canada",
+            "The specific agreement between Her Majesty the Queen in right of Canada and the Gwich'in Tribal Council signed on April 22, 1992",
+            "A generic term for land claim settlements",
+            "An agreement ratified by the Yukon Legislative Assembly"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Motor Vehicle Safety Act, what does the term 'company' mean?",
+        "options": [
+            "A person engaged in the business of manufacturing vehicles or equipment in Canada.",
+            "A person who imports a vehicle or article of equipment into Canada for personal use.",
+            "A person who occasionally sells vehicles or equipment for profit.",
+            "A person who only leases vehicles or equipment."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Marine Insurance Act, what does 'goods' refer to?",
+        "options": [
+            "Personal effects",
+            "Provisions for use on board a ship",
+            "Merchandise",
+            "Stores for use on board a ship"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Under the Marine Insurance Act, what is a 'marine adventure'?",
+        "options": [
+            "Earning freight",
+            "Maritime perils exposure",
+            "Incurring liability to a third party",
+            "All of the above"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "Who appoints the Commissioner of Nunavut?",
+        "options": [
+            "The Legislative Assembly of Nunavut",
+            "The Governor in Council",
+            "The Premier of Nunavut",
+            "The Chief Justice of the Nunavut Court of Justice"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Nunavut Land Claims Agreement Act, what does 'Agreement' refer to?",
+        "options": [
+            "The Constitution Act, 1982",
+            "The land claims agreement between the Inuit of the Nunavut Settlement Area and Her Majesty the Queen in right of Canada",
+            "Any law passed by the Parliament of Canada",
+            "The regulations set forth by the Governor in Council"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what is the maximum term for which the Chairperson of the Round Table can be appointed?",
+        "options": [
+            "2 years",
+            "3 years",
+            "4 years",
+            "5 years"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Land Titles Repeal Act, what does 'Territory' refer to?",
+        "options": [
+            "Yukon",
+            "Northwest Territories",
+            "Nunavut",
+            "Yukon or the Northwest Territories, as the case may require"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Northumberland Strait Crossing Act, what does the term 'crossing' mean?",
+        "options": [
+            "An agreement entered into pursuant to section 4",
+            "A fixed structure that provides a means of crossing the Northumberland Strait",
+            "The Minister of Public Works and Government Services",
+            "The consumer price index for any period"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, which of the following is NOT an objective of the North American Free Trade Agreement?",
+        "options": [
+            "Eliminate barriers to trade",
+            "Promote conditions of fair competition",
+            "Increase investment opportunities",
+            "Regulate environmental protection standards"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the National Sports of Canada Act, which sport is recognized as the national winter sport of Canada?",
+        "options": [
+            "Lacrosse",
+            "Football",
+            "Ice hockey",
+            "Baseball"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the National Sports of Canada Act, which sport is recognized as the national summer sport of Canada?",
+        "options": [
+            "Ice hockey",
+            "Lacrosse",
+            "Basketball",
+            "Soccer"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Migratory Birds Convention Act, what does 'migratory bird' include?",
+        "options": [
+            "Only adult birds",
+            "Sperm, eggs, embryos, tissue cultures, and parts of the bird",
+            "Birds that migrate internationally",
+            "Birds listed in the Species at Risk Act"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Marine Transportation Security Act, what does 'authorized screening' entail?",
+        "options": [
+            "A) Anything required to be done under regulation, security measure, or security rule for the control of persons or goods to prevent unauthorized possession of weapons.",
+            "B) Only physical searches conducted by security inspectors.",
+            "C) Measures taken exclusively by the Minister of Transport.",
+            "D) Random checks conducted without any specific regulation."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Income Tax Conventions Implementation Act 1995, which of the following bodies may make regulations necessary for carrying out the Convention?",
+        "options": [
+            "The Minister of Finance",
+            "The Minister of Justice",
+            "The Minister of National Revenue",
+            "The Prime Minister"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what does 'agreement' refer to?",
+        "options": [
+            "Any agreement involving the Pictou Landing Indian Band",
+            "The agreement concluded on July 20, 1993, between Her Majesty in right of Canada and the Pictou Landing Indian Band",
+            "An agreement related to Indian moneys",
+            "An agreement about individual claims of band members"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Maintenance of Railway Operations Act, what does 'collective agreement' mean in Part I and Part II?",
+        "options": [
+            "An agreement that expired on December 31, 1995.",
+            "An agreement that expired on December 31, 1993, including related arrangements concerning terms and conditions of employment or benefits related to employment.",
+            "Any agreement currently in effect between the employer and a union.",
+            "An agreement specifically related to wages and benefits."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what is the Bank of Canada's role in promoting the economic and financial welfare of Canada?",
+        "options": [
+            "Auditing financial institutions",
+            "Providing settlement means for Canadian dollar payments",
+            "Enforcing international trade agreements",
+            "Regulating consumer credit rates"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Under which circumstance can the Governor of the Bank issue a directive to a participant of a designated clearing and settlement system?",
+        "options": [
+            "If the participant's capital adequacy is deemed insufficient.",
+            "If the designated clearing and settlement system does not have a clearing house located in Canada.",
+            "If the participant's corporate governance is under review.",
+            "If the participant's investment management practices are deemed risky."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Law Commission of Canada Act, who appoints the Commissioners?",
+        "options": [
+            "The Prime Minister",
+            "The Governor in Council on the recommendation of the Minister of Justice",
+            "The Chief Justice of Canada",
+            "The Senate and House of Commons"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, which of the following actions is deemed to have been validly taken?",
+        "options": [
+            "Actions related to the World Bank.",
+            "Actions related to the Global Environment Facility Trust Fund.",
+            "Actions taken after Order in Council P.C. 1996-1784 came into force.",
+            "Actions related to the International Monetary Fund."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Income Tax Conventions Implementation Act 1996, what happens when there's an inconsistency between the Act and other laws (general rule)?",
+        "options": [
+            "The other laws prevail.",
+            "The Income Tax Conventions Interpretation Act prevails.",
+            "This Act prevails to the extent of the inconsistency.",
+            "The Minister of National Revenue decides."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Nelson House First Nation Flooded Land Act, what does the term 'agreement' mean?",
+        "options": [
+            "An agreement related to fishing rights.",
+            "The agreement concluded between Her Majesty in right of Canada, Her Majesty in right of Manitoba, the Manitoba Hydro Electric Board, and the Nelson House First Nation relating to the comprehensive implementation of the Flood Agreement.",
+            "An agreement about land usage.",
+            "An agreement solely between the Nelson House First Nation and the federal government."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Postal Services Continuation Act 1997, which of the following is NOT a condition that the Canada Post Corporation must meet, according to the guiding principle for the mediator arbitrator?",
+        "options": [
+            "Operate efficiently",
+            "Improve productivity",
+            "Meet acceptable standards of service",
+            "Increase postal rates significantly"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Nuclear Safety and Control Act, what is the primary purpose of the Act?",
+        "options": [
+            "To promote the use of nuclear energy",
+            "To regulate nuclear energy and substances to prevent unreasonable risks",
+            "To encourage international trade of nuclear materials",
+            "To develop new nuclear technologies"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Mi'kmaq Education Act, what agreement is central to the exercise of jurisdiction in relation to education by the communities?",
+        "options": [
+            "The Indian Act",
+            "The Canada Not-for-profit Corporations Act",
+            "The agreement between Her Majesty the Queen in right of Canada and the Mi'kmaq Bands in Nova Scotia",
+            "The Statutory Instruments Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Income Tax Conventions Implementation Act 1998, which Minister may make regulations necessary for carrying out an agreement?",
+        "options": [
+            "Minister of Finance",
+            "Minister of Justice",
+            "Minister of National Revenue",
+            "Prime Minister"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Preclearance Act, what does 'goods' include?",
+        "options": [
+            "Means of transport, animals, and plants",
+            "Documents in any form",
+            "Anything prescribed by regulation",
+            "All of the above, except anything prescribed by regulation"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "Under the Preclearance Act, what is the primary purpose of designating preclearance areas?",
+        "options": [
+            "To facilitate the enforcement of Canadian law",
+            "To allow preclearance officers to preclear travellers and goods for entry into the United States",
+            "To detain travellers suspected of offences",
+            "To provide a space for customs officers to conduct examinations"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what does 'First Nation land' include?",
+        "options": [
+            "Only reserve land",
+            "Only lands set aside",
+            "Reserve land or lands set aside to which a land code applies",
+            "Land owned outright by the First Nation"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to section 16, after the coming into force of a land code, interests or rights may be acquired or granted in First Nation land only:?",
+        "options": [
+            "With the approval of the Minister",
+            "In accordance with the Indian Act",
+            "In accordance with the land code of the First Nation",
+            "With the consent of the Governor in Council"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what is the primary objective of the Public Sector Pension Investment Board?",
+        "options": [
+            "To maximize returns with minimal risk.",
+            "To ensure compliance with government regulations.",
+            "To provide financial advice to public sector employees.",
+            "To promote economic growth in Canada."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the document, which Minister may make regulations necessary for carrying out an agreement?",
+        "options": [
+            "Minister of Finance",
+            "Minister of Justice",
+            "Minister of National Revenue",
+            "Prime Minister"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the document, within how many days must the Minister of Finance publish a notice of the day an agreement enters into force in the Canada Gazette?",
+        "options": [
+            "30 days",
+            "60 days",
+            "90 days",
+            "120 days"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the short title of SC 2000 c 12?",
+        "options": [
+            "Benefits and Obligations Act",
+            "Modernization Act",
+            "Modernization of Benefits and Obligations Act",
+            "Canadian Statutes Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Proceeds of Crime Money Laundering and Terrorist Financing Act, which of the following entities is NOT subject to Part 1 of the Act?",
+        "options": [
+            "Authorized foreign banks",
+            "Cooperative credit societies",
+            "Legal firms providing legal services to the public",
+            "Life insurance companies"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Manitoba Claim Settlement Implementation Act, what does 'Agreement' refer to?",
+        "options": [
+            "An agreement between the Norway House Cree Nation and the Canadian government",
+            "The agreement concluded between Her Majesty in right of Canada, Her Majesty in right of Manitoba, the Manitoba Hydro Electric Board, and the Norway House Cree Nation relating to the comprehensive implementation of the Flood Agreement Accord",
+            "An agreement solely between the Norway House Cree Nation and Manitoba Hydro Electric Board",
+            "An agreement related to land claims in Alberta and Saskatchewan"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Personal Information Protection and Electronic Documents Act (PIPEDA), what does 'business contact information' primarily facilitate?",
+        "options": [
+            "Communication with individuals in a personal capacity",
+            "Communication with individuals in relation to their employment, business, or profession",
+            "Tracking personal health information",
+            "Facilitating unsolicited marketing communications"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Under what circumstances can an organization collect personal information without an individual's knowledge or consent, according to the provided text?",
+        "options": [
+            "When the organization deems it more efficient.",
+            "When the collection is clearly in the interests of the individual and consent cannot be obtained in a timely way.",
+            "When the information is already available in public records.",
+            "When the organization is a small business."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what is the purpose of the Nisga'a Final Agreement?",
+        "options": [
+            "To establish a new relationship among the Nisga'a Nation, Canada, and British Columbia.",
+            "To assert the sovereignty of the Crown.",
+            "To promote litigation and conflict.",
+            "To alter the Constitution of Canada."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Immigration and Refugee Protection Act, what is the composition of the Immigration and Refugee Board?",
+        "options": [
+            "Refugee Protection Division, Immigration Division, and Federal Court",
+            "Refugee Protection Division, Refugee Appeal Division, Immigration Division, and Immigration Appeal Division",
+            "Immigration Division and Immigration Appeal Division",
+            "Refugee Protection Division, Refugee Appeal Division, and Supreme Court of Canada"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Income Tax Conventions Implementation Act 2001, what prevails in the event of inconsistency between a tax convention and other laws (excluding the Income Tax Conventions Interpretation Act)?",
+        "options": [
+            "The other laws prevail.",
+            "The tax convention prevails.",
+            "The Minister of National Revenue decides.",
+            "The Minister of Finance decides."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Marine Liability Act, what does 'Admiralty Court' mean?",
+        "options": [
+            "A provincial court dealing with maritime issues",
+            "The Federal Court",
+            "An international court for maritime law",
+            "A local court near the sea"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Under the Marine Liability Act, which of the following is included in the definition of 'dependant' in relation to an injured or deceased person?",
+        "options": [
+            "Business partner",
+            "A person who occasionally received gifts from the injured person",
+            "An individual who was cohabiting with the injured or deceased person in a conjugal relationship for at least one year",
+            "A distant relative who lived in another country"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Kanesatake Interim Land Base Governance Act, what does 'Agreement' refer to?",
+        "options": [
+            "An agreement regarding land use standards with the Municipality of Oka.",
+            "The Agreement with respect to Kanesatake Governance of the Interim Land Base between the Mohawks of Kanesatake and Her Majesty in right of Canada signed on December 21, 2000.",
+            "Any agreement regarding the appointment of justices of the peace.",
+            "An agreement to amend the schedule of the Act."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what does 'designated Inuit organization' mean, except in the case of jointly owned lands?",
+        "options": [
+            "An organization designated in the public record maintained by Tunngavik being responsible for any function under corresponding provisions of the Agreement.",
+            "Makivik acting jointly with an organization determined under paragraph a.",
+            "Nunavut Tunngavik Incorporated.",
+            "The Inuit of northern Quebec."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the text, what does 'carving stone' mean?",
+        "options": [
+            "Construction stone, sand, gravel, limestone, marble, gypsum, shale, clay, volcanic ash, earth, soil, diatomaceous earth, ochre, marl and peat.",
+            "Precious and base metals and other non-living naturally occurring substances whether solid, liquid or gaseous and includes coal, oil and gas but does not include water.",
+            "Serpentinite, argillite or soapstone that is suitable for carving.",
+            "Any land that has the status of Inuit Owned Land under the Agreement."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Royal Assent Act, how often must royal assent be signified in Parliament assembled?",
+        "options": [
+            "At least once a year",
+            "At least twice a year",
+            "At least three times a year",
+            "At least four times a year"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Legislative Instruments Re-enactment Act, what constitutes a 'legislative instrument'?",
+        "options": [
+            "Only instruments enacted after September 15, 1988.",
+            "Instruments enacted before September 15, 1988, by the Governor in Council or a minister of the Crown.",
+            "Any document published in the Canada Gazette.",
+            "Only regulations passed by the Senate."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Pest Control Products Act, what is the Minister's primary objective in administering the Act?",
+        "options": [
+            "To promote the sale of pest control products.",
+            "To prevent unacceptable risks to individuals and the environment from the use of pest control products.",
+            "To support the agricultural industry.",
+            "To encourage the use of biotechnology in pest control."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what date is designated as National Acadian Day?",
+        "options": [
+            "June 19",
+            "August 1",
+            "August 15",
+            "December 25"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Injured Military Members Compensation Act, what condition must be met for an injury to be considered for compensation?",
+        "options": [
+            "The injury must be self-inflicted.",
+            "The injury must be attributable to the person's service with the Canadian Forces.",
+            "The loss must have occurred more than 90 days after the injury.",
+            "The person must be entitled to a lump sum payment under an insurance plan provided by the Government of Canada."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the First Nations Goods and Services Tax Act, what does the term 'authorized body of a first nation' mean?",
+        "options": [
+            "The Minister of Finance",
+            "The council of the band",
+            "The body of the first nation that has the authority to enter into an administration agreement",
+            "The governing body listed in Schedule 1"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the text, what is the mandate of the Public Service Commission?",
+        "options": [
+            "To manage government finances.",
+            "To appoint persons to the public service and conduct investigations.",
+            "To regulate international trade.",
+            "To oversee national defense."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the short title of SC 2003 c 22?",
+        "options": [
+            "Public Service Labour Relations Act",
+            "Financial Administration Act",
+            "Public Service Modernization Act",
+            "Canadian Centre for Management Development Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what is Yom ha Shoah?",
+        "options": [
+            "A day to celebrate Canadian history",
+            "A day to commemorate the end of World War II",
+            "Holocaust Memorial Day",
+            "A day for national reconciliation"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Physical Activity and Sport Act, what is the role of the Sport Dispute Resolution Centre of Canada?",
+        "options": [
+            "To promote physical activity and sport in Canada",
+            "To provide a national alternative dispute resolution service for sport disputes",
+            "To financially support Canadian athletes",
+            "To regulate doping in sport"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Library and Archives of Canada Act, who appoints the Librarian and Archivist of Canada?",
+        "options": [
+            "The Minister",
+            "The Governor in Council",
+            "The Senate",
+            "The House of Commons"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "What year was the Public Safety Act enacted?",
+        "options": [
+            "2000",
+            "2002",
+            "2004",
+            "2006"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what is the total amount the Minister of Finance may allocate to the provinces for diagnostic and medical equipment in the fiscal year beginning April 1, 2004?",
+        "options": [
+            "250 million",
+            "500 million",
+            "750 million",
+            "1 billion"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Quarantine Act, what is a communicable disease?",
+        "options": [
+            "A disease listed in the schedule of the Quarantine Act.",
+            "A disease caused by environmental factors.",
+            "Any illness requiring hospitalization.",
+            "A disease affecting only animals."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Labrador Inuit Land Claims Agreement Act, in the event of a conflict between the Agreement and federal or provincial law, which prevails?",
+        "options": [
+            "Federal Law",
+            "Provincial Law",
+            "The Agreement",
+            "This Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act, what is the primary purpose of the Act?",
+        "options": [
+            "To regulate offshore petroleum resources.",
+            "To implement the Canada-Newfoundland and Labrador Arrangement and the Canada-Nova Scotia Arrangement.",
+            "To amend the Excise Tax Act.",
+            "To define fiscal equalization payments."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Greenhouse Gas Technology Investment Fund Act, what is the role of the advisory board?",
+        "options": [
+            "To enforce regulations on greenhouse gas emissions.",
+            "To advise the Minister on matters respecting grants or contributions.",
+            "To manage the Greenhouse Gas Technology Investment Fund.",
+            "To represent Canada at international climate change conferences."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Highway 30 Completion Bridges Act, which entity is authorized to construct and maintain the bridges over the St. Lawrence River and Beauharnois Canal?",
+        "options": [
+            "The Federal Government of Canada",
+            "The Province of Quebec",
+            "The City of Salaberry de Valleyfield",
+            "The City of Beauharnois"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what does 'aircraft objects' mean?",
+        "options": [
+            "Objects used to build aircrafts",
+            "Objects defined in Article I(2)(c) of the Aircraft Protocol",
+            "Any object in an aircraft",
+            "Aircrafts only"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Under this Act, what is the definition of 'Convention'?",
+        "options": [
+            "A meeting of international leaders",
+            "An agreement between Canada and other nations",
+            "The Convention on International Interests in Mobile Equipment set out in Schedule 1",
+            "A set of guidelines for aircraft maintenance"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Remote Sensing Space Systems Act, who is the \"Minister\" subject to section 3?",
+        "options": [
+            "Minister of National Defence",
+            "Minister of Innovation, Science and Economic Development",
+            "Minister of Foreign Affairs",
+            "Minister of Public Safety and Emergency Preparedness"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Public Servants Disclosure Protection Act, what does 'reprisal' mean?",
+        "options": [
+            "A reward for disclosing wrongdoing",
+            "A measure taken against a public servant for making a protected disclosure",
+            "A promotion given to a public servant",
+            "A bonus for good performance"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the First Nations Oil and Gas and Moneys Management Act, what does 'contract' mean?",
+        "options": [
+            "Only a lease granting a subsurface right in land.",
+            "Only a permit granting a surface right in land.",
+            "A licence, permit, or lease granting a surface or subsurface right or interest in land, or an instrument evidencing an easement, a right of way, a right of entry or any other disposition of a right or interest in land that is granted, issued or made for the purposes of oil or gas exploration or exploitation.",
+            "Any agreement between a First Nation and a company."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Internment of Persons of Ukrainian Origin Recognition Act, with whom shall the Government of Canada undertake negotiations?",
+        "options": [
+            "The Ukrainian Embassy",
+            "The Ukrainian Canadian Congress, the Ukrainian Canadian Civil Liberties Association, and the Ukrainian Canadian Foundation of Taras Shevchenko",
+            "The Canadian Museum of History",
+            "The Library of Parliament"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the First Nations Commercial and Industrial Development Act, what does 'first nation' mean?",
+        "options": [
+            "A municipality within a province",
+            "A band as defined in the Indian Act",
+            "Any group of Indigenous peoples",
+            "A commercial entity owned by Indigenous peoples"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what does the term 'local revenues' refer to?",
+        "options": [
+            "Moneys raised under a local revenue law and payments made in lieu of tax.",
+            "Taxes administered by His Majesty in right of Canada.",
+            "Royalties payable under the Framework Agreement.",
+            "Transfers from provincial governments."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the First Nations Jurisdiction Over Education in British Columbia Act, what does 'Authority' refer to?",
+        "options": [
+            "The Minister of Crown-Indigenous Relations",
+            "The Governor in Council",
+            "The First Nations Education Authority",
+            "A participating First Nation's council"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Mackenzie Gas Project Impacts Act, what does 'Corporation' refer to?",
+        "options": [
+            "The Corporation for the Mitigation of Mackenzie Gas Project Impacts",
+            "The National Energy Board",
+            "Imperial Oil Resources Ventures Limited",
+            "The Minister of Indian Affairs and Northern Development"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Who appoints the President of the Public Health Agency of Canada?",
+        "options": [
+            "The Minister of Health",
+            "The Chief Public Health Officer",
+            "The Governor in Council",
+            "The House of Commons"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Olympic and Paralympic Marks Act, what does COCCOC stand for?",
+        "options": [
+            "Canadian Olympic Committee",
+            "Canadian Organizing Committee for Olympic and Paralympic Games",
+            "Council of Canadian Olympic Committee",
+            "Committee of Canadian Olympic and Paralympic Competitors"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Kyoto Protocol Implementation Act, what is the purpose of the Act?",
+        "options": [
+            "To ensure Canada takes effective and timely action to meet its obligations under the Kyoto Protocol.",
+            "To promote international cooperation on climate change.",
+            "To establish a national carbon trading market.",
+            "To provide financial assistance to developing countries for climate change mitigation."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Railway Continuation Act 2007, what happens to the term of each collective agreement?",
+        "options": [
+            "It expires immediately.",
+            "It is extended to include the period beginning on January 1, 2007, and ending on the day on which new collective agreements come into effect.",
+            "It remains the same.",
+            "It is subject to renegotiation."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what are the Ministers required to do within nine months of the Act coming into force?",
+        "options": [
+            "Repeal the Canadian Environmental Protection Act, 1999",
+            "Make a regulation to add perfluorooctane sulfonate and its salts to the Virtual Elimination List",
+            "Amend the definition of 'Ministers'",
+            "Create a new list of toxic substances"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Heritage Lighthouse Protection Act, what does 'alter' include?",
+        "options": [
+            "Routine maintenance and repairs",
+            "To restore or renovate",
+            "Minor cosmetic changes",
+            "Emergency repairs"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Official Development Assistance Accountability Act, what is a central focus of Canadian official development assistance abroad?",
+        "options": [
+            "Military Aid",
+            "Poverty Reduction",
+            "Trade Agreements",
+            "Cultural Exchange"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what is the maximum aggregate amount that the Minister of Finance may pay to the trust?",
+        "options": [
+            "$500,000,000",
+            "$750,000,000",
+            "$1,000,000,000",
+            "$1,500,000,000"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Kelowna Accord Implementation Act, who is responsible for preparing the annual report to Parliament?",
+        "options": [
+            "The Prime Minister of Canada",
+            "The Minister of Justice",
+            "The Minister of Indian Affairs and Northern Development",
+            "The Minister of Finance"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what day is designated as National Peacekeepers Day?",
+        "options": [
+            "August 8",
+            "August 9",
+            "August 10",
+            "June 18"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Nunavik Inuit Land Claims Agreement Act, what prevails in the event of an inconsistency between the Agreement and the Act?",
+        "options": [
+            "The Act",
+            "The Agreement",
+            "A court decision",
+            "A subsequent amendment"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what is the primary purpose of National Blood Donor Week?",
+        "options": [
+            "To raise awareness of the importance of blood donation",
+            "To compensate blood donors for their altruism",
+            "To regulate the Canadian blood system",
+            "To promote international blood donation efforts"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Act, what does 'Agreement' refer to?",
+        "options": [
+            "The Tax Treatment Agreement",
+            "The Maa nulth First Nations Final Agreement between the Maanulth First Nations, Canada, and British Columbia",
+            "The Fisheries Act",
+            "The Indian Act"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Public Sector Equitable Compensation Act, who is considered the employer of officers and non-commissioned members of the Canadian Forces?",
+        "options": [
+            "The Treasury Board",
+            "The Department of National Defence",
+            "The Prime Minister",
+            "The Senate"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Human Pathogens and Toxins Act, Risk Group 4 pathogens pose what level of risk to individuals and public health?",
+        "options": [
+            "Low risk to individuals, low risk to public health",
+            "Moderate risk to individuals, low risk to public health",
+            "High risk to individuals, low risk to public health",
+            "High risk to individuals, high risk to public health"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Payment Card Networks Act, which of the following is the definition of an 'acquirer'?",
+        "options": [
+            "An entity that operates a payment card network.",
+            "An entity that issues payment cards.",
+            "An entity that enables merchants to accept payments by payment card.",
+            "The Minister of Finance."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What year was the Jobs and Economic Growth Act assented to?",
+        "options": [
+            "2009",
+            "2010",
+            "2011",
+            "2012"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what date is this statute current to?",
+        "options": [
+            "2024-01-22",
+            "2025-01-22",
+            "2023-01-22",
+            "2026-01-22"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the National Holocaust Monument Act, who is responsible for the construction of the Monument?",
+        "options": [
+            "The Council",
+            "The Minister",
+            "The National Capital Commission",
+            "The Historic Sites and Monuments Board of Canada"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Protection of Residential Mortgage or Hypothecary Insurance Act, what is the definition of an 'approved mortgage insurer'?",
+        "options": [
+            "A mortgage insurer designated under section 4 of the Act.",
+            "Any corporation referred to in subsection 13(1) of the Insurance Companies Act.",
+            "A liquidator appointed under the Winding-up and Restructuring Act.",
+            "A mortgage or hypothecary lender designated under section 10 of the Act."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Restoring Mail Delivery for Canadians Act, which of the following is NOT a defined term?",
+        "options": [
+            "Arbitrator",
+            "Collective Agreement",
+            "Minister",
+            "Mediator"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Act, what is the role of the Minister of Agriculture and Agri-Food concerning the Corporation's application for continuance?",
+        "options": [
+            "To automatically approve the application.",
+            "To deny the application without providing reason.",
+            "To approve the application before it's submitted to applicable authorities.",
+            "To submit the application to applicable authorities."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what does 'child pornography' mean?",
+        "options": [
+            "Material deemed inappropriate for children by community standards",
+            "Images of children engaged in sexual activity",
+            "Has the same meaning as in subsection 163(1.1) of the Criminal Code",
+            "Any depiction of a minor"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Justice for Victims of Terrorism Act, 'person' includes:",
+        "options": [
+            "A. Individuals only",
+            "B. Organizations as defined in section 2 of the Criminal Code",
+            "C. Foreign states",
+            "D. Listed entities"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Purple Day Act, what are people encouraged to do on March 26th?",
+        "options": [
+            "Wear red to support heart health.",
+            "Wear purple to indicate their support for people with epilepsy.",
+            "Attend a parade.",
+            "Donate to a political campaign."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Pooled Registered Pension Plans Act, who is responsible for the control and supervision of the administration of the Act?",
+        "options": [
+            "The administrator of the plan",
+            "The Minister of Finance",
+            "The Superintendent of Financial Institutions",
+            "The Governor in Council"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Integrated Cross border Law Enforcement Operations Act, what is the role of the Commissioner of the Royal Canadian Mounted Police?",
+        "options": [
+            "They are the central authority for Canada.",
+            "They manage integrated cross border operations with the US Coast Guard.",
+            "They appoint officers from the United States as cross border maritime law enforcement officers.",
+            "They recommend individuals for appointment as cross border maritime law enforcement officers in the United States."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Act, what day is designated as National Philanthropy Day?",
+        "options": [
+            "November 1st",
+            "November 15th",
+            "December 25th",
+            "January 1st"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Protecting Air Service Act, which of the following is NOT a potential penalty for an individual contravening the Act?",
+        "options": [
+            "A fine of not more than $50,000 if acting as an officer or representative of the employer or union",
+            "A fine of not more than $1,000 in other cases",
+            "A term of imprisonment",
+            "A fine for each day the offence continues"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Under the Protecting Air Service Act, the term 'employer' specifically refers to:",
+        "options": [
+            "Any airline operating in Canada",
+            "Air Canada",
+            "The Minister of Labour",
+            "The International Association of Machinists and Aerospace Workers"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Restoring Rail Service Act, what is the definition of 'employer'?",
+        "options": [
+            "The Minister of Labour",
+            "The Canadian Pacific Railway",
+            "The Teamsters Canada Rail Conference",
+            "An arbitrator appointed under the Act"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what agreements allow for the establishment of a regime for determining terms and conditions of access to lands?",
+        "options": [
+            "Gwich'in, Sahtu, Inuvialuit, and Tlicho Agreements",
+            "Only the Gwich'in and Sahtu Agreements",
+            "Only the Inuvialuit and Tlicho Agreements",
+            "None of the above"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the text, what does 'Agreement' refer to?",
+        "options": [
+            "The James Bay and Northern Quebec Agreement",
+            "The Nunavut Act",
+            "The land claims agreement between the Inuit of the Nunavut Settlement Area and Her Majesty the Queen in right of Canada",
+            "The Impact Assessment Act"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What date is designated as Korean War Veterans Day according to this Act?",
+        "options": [
+            "June 25th",
+            "July 27th",
+            "June 19th",
+            "January 22nd"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Language Skills Act, which of the following positions requires proficiency in both official languages at the time of appointment?",
+        "options": [
+            "A. Director of the Canadian Security Intelligence Service",
+            "B. The Auditor General of Canada",
+            "C. The Chief Justice of the Supreme Court of Canada",
+            "D. The Minister of Finance"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Mackenzie Gas Project Impacts Fund Act, what is the Mackenzie gas project?",
+        "options": [
+            "A pipeline project in Alberta",
+            "A project involving the development of natural gas fields and related infrastructure in the Northwest Territories",
+            "A renewable energy initiative in Yukon",
+            "A mining operation in Nunavut"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the First Nations Financial Transparency Act, what is the primary purpose of the Act?",
+        "options": [
+            "To manage First Nations elections",
+            "To enhance the financial accountability and transparency of First Nations",
+            "To regulate First Nations land claims",
+            "To promote First Nations cultural activities"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Qalipu Mi kmaq First Nation Act, what does 'band' mean?",
+        "options": [
+            "A group of indigenous people.",
+            "A specific community within Newfoundland.",
+            "Has the same meaning as in subsection 2(1) of the Indian Act.",
+            "An organization representing the Mi'kmaq people."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the maximum duration for which a Legislative Assembly can continue after the return of writs for a general election?",
+        "options": [
+            "3 years",
+            "4 years",
+            "5 years",
+            "6 years"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the New Bridge for the St Lawrence Act, what does 'bridge' include?",
+        "options": [
+            "Only the bridge replacing the Champlain Bridge.",
+            "Only the bridge replacing the Nuns Island Bridge.",
+            "Both bridges replacing the Champlain and Nuns Island Bridges, as well as the approaches to both bridges.",
+            "Only the spans over the St. Lawrence River."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, when is National Hunting Trapping and Fishing Heritage Day observed?",
+        "options": [
+            "The first Saturday in September",
+            "The third Saturday in September",
+            "November 6th",
+            "January 22nd"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Prohibiting Cluster Munitions Act, what is the definition of a 'cluster munition'?",
+        "options": [
+            "A conventional munition designed to disperse or release explosive submunitions.",
+            "Any munition containing explosives.",
+            "A nuclear weapon.",
+            "A munition used exclusively for air defense."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "Under what condition can the Minister of National Defence exempt a person from Section 6 of the Prohibiting Cluster Munitions Act?",
+        "options": [
+            "If the person is destroying a cluster munition on behalf of the Canadian Forces.",
+            "If the person is a foreign national.",
+            "If the person is acting against the Canadian interest.",
+            "If the person is a civilian."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "What is the purpose of the Lincoln Alexander Day Act?",
+        "options": [
+            "To establish a new legal holiday in Canada.",
+            "To honor Lincoln Alexander's contributions to Canada.",
+            "To amend the Constitution of Canada.",
+            "To regulate race relations in Canada."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, when is National Health and Fitness Day celebrated?",
+        "options": [
+            "The first Monday in June",
+            "The first Saturday in July",
+            "The first Saturday in June",
+            "December 16th"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the text, what is one reason the Indian Act needs replacement?",
+        "options": [
+            "It provides an adequate legislative framework for First Nations communities.",
+            "It reflects the modern relationship between the government and First Nations.",
+            "It is an outdated colonial statute leading to differential treatment.",
+            "It has been recently updated and modernized."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what day is designated as Pope John Paul II Day?",
+        "options": [
+            "October 16",
+            "April 2",
+            "December 16",
+            "January 22"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the First Nations Elections Act, what is the minimum age an elector must be on election day?",
+        "options": [
+            "16 years old",
+            "18 years old",
+            "21 years old",
+            "Any age"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what must be the first priority of the Minister when considering all aspects of the management of the Park?",
+        "options": [
+            "Economic development",
+            "Maintenance or restoration of ecological integrity",
+            "Public access",
+            "Agricultural activities"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, which department is designated as the main point of contact with the Government of Canada in respect of the death of a Canadian citizen or resident?",
+        "options": [
+            "Department of Justice",
+            "Department of Finance",
+            "Department of Employment and Social Development",
+            "Health Canada"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the High Risk Child Sex Offender Database Act, what is the primary purpose of establishing a publicly accessible database?",
+        "options": [
+            "To provide rehabilitation services to offenders",
+            "To enhance public safety by providing information on high-risk offenders",
+            "To track the movement of convicted child sex offenders",
+            "To punish offenders for their crimes"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Prevention of Terrorist Travel Act, who is designated as 'judge'?",
+        "options": [
+            "The Chief Justice of the Supreme Court",
+            "The Minister of Public Safety",
+            "The Chief Justice of the Federal Court or a judge of that Court designated by the Chief Justice",
+            "A provincial court judge"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Nuclear Liability and Compensation Act, what is the primary purpose of the legislation?",
+        "options": [
+            "To promote nuclear energy production.",
+            "To govern civil liability and compensation for damage in case of a nuclear incident.",
+            "To regulate the Canadian Nuclear Safety Commission.",
+            "To establish international agreements on nuclear safety."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what is the limit of an operator's liability for damage resulting from a nuclear incident after a certain period?",
+        "options": [
+            "$650 million",
+            "$750 million",
+            "$850 million",
+            "$1 billion"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Act, when is National Fiddling Day celebrated?",
+        "options": [
+            "The first Saturday in May",
+            "The third Saturday in May",
+            "March 31st",
+            "January 22nd"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Justice for Victims of Corrupt Foreign Officials Act, what does 'Canadian' mean?",
+        "options": [
+            "A permanent resident.",
+            "A corporation incorporated under the laws of any country.",
+            "A citizen within the meaning of the Citizenship Act.",
+            "An individual residing in Canada for more than 183 days a year."
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what must entities do if they determine they possess property of a foreign national subject to sanctions?",
+        "options": [
+            "Sell the property immediately.",
+            "Disclose this information to the principal agency or body that supervises or regulates it.",
+            "Transfer the property to a designated government account.",
+            "Use the property to compensate victims of the foreign national's actions."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, who appoints the members of the National Security and Intelligence Committee of Parliamentarians?",
+        "options": [
+            "The Speaker of the House of Commons",
+            "The Governor in Council on the recommendation of the Prime Minister",
+            "The Chief Justice of Canada",
+            "The Leader of the Opposition"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, who is responsible for developing the national strategy for the safe disposal of lamps containing mercury?",
+        "options": [
+            "The Minister of Health",
+            "The Minister of the Environment",
+            "The Minister of Natural Resources",
+            "The Minister of Innovation, Science and Economic Development"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, what is the Minister responsible for developing and implementing?",
+        "options": [
+            "A national strategy for diabetes.",
+            "A national strategy for Alzheimer's disease and other dementias.",
+            "A national strategy for cancer.",
+            "A national strategy for heart disease."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Invest in Canada Act, who appoints the Chief Executive Officer of the Invest in Canada Hub?",
+        "options": [
+            "The Board of Directors",
+            "The Minister",
+            "The Governor in Council",
+            "The President of the Treasury Board"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Invest in Canada Act, what is the Invest in Canada Hub's mandate?",
+        "options": [
+            "To regulate international trade agreements.",
+            "To promote foreign direct investment in Canada.",
+            "To manage immigration policies.",
+            "To oversee environmental regulations."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Preclearance Act 2016, what does the term 'goods' include?",
+        "options": [
+            "Currency and monetary instruments only",
+            "Animals and plants only",
+            "Currency, monetary instruments, animals, plants, and their products",
+            "Only conveyances and documents"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "Under the Preclearance Act 2016, which of the following actions is a preclearance officer NOT permitted to do?",
+        "options": [
+            "Collect duties, taxes, and fees",
+            "Impose administrative monetary penalties",
+            "Exercise powers of questioning and interrogation",
+            "Examine and search goods"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Framework on Palliative Care in Canada Act, which of the following is NOT a required element of the framework to be developed by the Minister of Health?",
+        "options": [
+            "Defining what palliative care is",
+            "Identifying training needs of health care providers",
+            "Promoting research on palliative care",
+            "Establishing a national palliative care insurance program"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Act, what is Charlottetown, Prince Edward Island recognized and declared to be?",
+        "options": [
+            "A national historic site",
+            "The capital of Canada",
+            "The birthplace of Confederation",
+            "A major economic hub"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, what day is designated as National Seal Products Day?",
+        "options": [
+            "May 1",
+            "May 20",
+            "June 15",
+            "December 25"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Greenhouse Gas Pollution Pricing Act, what does 'adjustment day' mean?",
+        "options": [
+            "The day the Act was first proposed in Parliament",
+            "Any of commencement day January 1, 2019, January 1, 2020, January 1, 2021, January 1, 2022 and any prescribed day or any day meeting prescribed conditions",
+            "The last day of the fiscal year for environmental regulations",
+            "A day selected by the Minister of Environment to review carbon pricing"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Preamble of the Gender Equality Week Act, which group is disproportionately affected by poverty and inequality?",
+        "options": [
+            "Elderly men",
+            "Young men",
+            "Canadian women",
+            "Canadian men"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, which month is designated as Latin American Heritage Month?",
+        "options": [
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Postal Services Resumption and Continuation Act, what is the definition of 'collective agreement'?",
+        "options": [
+            "An agreement that expired on December 31, 2016, or January 31, 2017.",
+            "An agreement that expired on December 31, 2017, or January 31, 2018.",
+            "Any agreement currently in force between the employer and the union.",
+            "Any agreement that is proposed during collective bargaining."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Pay Equity Act, what is the primary purpose of the legislation?",
+        "options": [
+            "To ensure all employees receive the same salary regardless of gender.",
+            "To achieve pay equity through proactive means by redressing systemic gender-based discrimination in compensation practices.",
+            "To allow employers to set salaries based on market demand.",
+            "To eliminate all forms of discrimination in the workplace."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the International Financial Assistance Act, which of the following actions can the competent minister undertake regarding loans to a foreign state?",
+        "options": [
+            "Only make loans; no other actions are permitted.",
+            "Make loans and acquire security for the discharge of obligations.",
+            "Only acquire and hold security.",
+            "Exchange security for goods and services."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Poverty Reduction Act, what is the poverty reduction target for Canada by 2020?",
+        "options": [
+            "10% below the level of poverty in 2015",
+            "20% below the level of poverty in 2015",
+            "30% below the level of poverty in 2015",
+            "50% below the level of poverty in 2015"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Multilateral Instrument in Respect of Tax Conventions Act, what does 'multilateral instrument' mean?",
+        "options": [
+            "An agreement between multiple countries on any issue.",
+            "The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting.",
+            "Any international tax law.",
+            "A document outlining Canada's tax regulations."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the National Security and Intelligence Review Agency Act, how many other members, at a minimum, must be appointed in addition to the Chair?",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "Under the Intelligence Commissioner Act, who appoints the Intelligence Commissioner?",
+        "options": [
+            "The Chief Justice of the Supreme Court",
+            "The Director of CSIS",
+            "The Governor in Council on the recommendation of the Prime Minister",
+            "The President of the Treasury Board"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Indigenous Languages Act, which of the following entities can the Minister cooperate with to support Indigenous languages?",
+        "options": [
+            "Provincial or territorial governments",
+            "Indigenous governments or other Indigenous governing bodies",
+            "Indigenous organizations or other entities",
+            "All of the above"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Oil Tanker Moratorium Act, what is the maximum amount of crude oil or persistent oil an oil tanker can carry in bulk in its hold within the specified area of British Columbia to comply with the prohibitions outlined in subsection 4.1?",
+        "options": [
+            "10,000 metric tons",
+            "12,500 metric tons",
+            "15,000 metric tons",
+            "20,000 metric tons"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the National Housing Strategy Act, what is the role of the National Housing Council?",
+        "options": [
+            "To develop and maintain the National Housing Strategy",
+            "To enforce housing regulations",
+            "To provide advice to the Minister on the National Housing Strategy",
+            "To directly manage housing programs"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Poverty Reduction Act, what are the targets for poverty reduction in Canada?",
+        "options": [
+            "20% below the level of poverty in 2010 by 2025 and 50% below the level of poverty in 2010 by 2035",
+            "30% below the level of poverty in 2015 by 2025 and 60% below the level of poverty in 2015 by 2035",
+            "20% below the level of poverty in 2015 by 2020 and 50% below the level of poverty in 2015 by 2030",
+            "30% below the level of poverty in 2010 by 2020 and 60% below the level of poverty in 2010 by 2030"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Reduction of Recidivism Framework Act, what is one of the purposes of the correctional system?",
+        "options": [
+            "To punish offenders severely",
+            "To contribute to the maintenance of a just, peaceful, and safe society by assisting the rehabilitation of offenders",
+            "To provide employment for correctional officers",
+            "To increase the incarceration rate"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the National Framework for Diabetes Act, who must the Minister of Health consult with when developing the national framework?",
+        "options": [
+            "Representatives of provincial governments responsible for health, Indigenous groups, and relevant stakeholders",
+            "Only representatives of provincial governments responsible for health",
+            "Only Indigenous groups",
+            "Only relevant stakeholders"
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Port of Montreal Operations Act, 2021, what does 'collective agreement' refer to?",
+        "options": [
+            "Any agreement between employers and employees at the Port of Montreal",
+            "The collective agreement between the employers association and the union that expired on December 31, 2018",
+            "Any agreement reached through a mediator arbitrator",
+            "A new collective agreement established after the Act comes into force"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, when is Kindness Week to be observed throughout Canada?",
+        "options": [
+            "The first week of January",
+            "The third week of February",
+            "The last week of December",
+            "The second week of June"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Rental Housing Benefit Act, what is the amount of the one-time rental housing benefit?",
+        "options": [
+            "250",
+            "500",
+            "750",
+            "1000"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the preamble, what does the ribbon skirt NOT directly represent?",
+        "options": [
+            "Connection to Mother Earth",
+            "Sacred Medicines",
+            "Womanhood",
+            "Political affiliation"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the text, what prevails in the event of any inconsistency or conflict between the Framework Agreement and this Act?",
+        "options": [
+            "This Act",
+            "The Framework Agreement",
+            "Another federal law",
+            "The Indian Act"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, when is Food Day in Canada celebrated?",
+        "options": [
+            "The first Monday in August",
+            "The Saturday before the first Monday in August",
+            "May 11th",
+            "January 22nd"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Lebanese Heritage Month Act, which month is designated as Lebanese Heritage Month in Canada?",
+        "options": [
+            "January",
+            "June",
+            "November",
+            "December"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the Act, which month is designated as Firefighter Cancer Awareness Month in Canada?",
+        "options": [
+            "February",
+            "December",
+            "January",
+            "March"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "question": "According to the International Mother Language Day Act, which day is to be known as International Mother Language Day throughout Canada?",
+        "options": [
+            "January 1st",
+            "February 21st",
+            "July 1st",
+            "December 25th"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Act, the national strategy must include:",
+        "options": [
+            "A study of the link between race, socio-economic status, and environmental risk.",
+            "Direct compensation to affected individuals.",
+            "Immediate relocation of communities near environmental hazards.",
+            "The establishment of new environmental regulations."
+        ],
+        "correct_answer": 0
+    },
+    {
+        "question": "According to the Act, what is the time frame within which a person who enters into an arrangement with a foreign principal must provide the Commissioner with the required information?",
+        "options": [
+            "7 days",
+            "14 days",
+            "30 days",
+            "60 days"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, which of the following is NOT an acceptable financial accounting standard?",
+        "options": [
+            "Canadian GAAP",
+            "IFRS",
+            "Generally Accepted Accounting Principles of Brazil",
+            "Tax Law"
+        ],
+        "correct_answer": 3
+    },
+    {
+        "question": "According to the Pharmacare Act, what is the role of the Government of Canada regarding prescription drugs?",
+        "options": [
+            "To regulate the pricing of all prescription drugs.",
+            "To ensure prescription drugs are safe, effective, and of high quality.",
+            "To directly provide all prescription drugs to Canadians.",
+            "To only monitor the distribution of prescription drugs."
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the text, what is the Public Complaints and Review Commission established by?",
+        "options": [
+            "The Minister of Public Safety and Emergency Preparedness",
+            "The Governor in Council",
+            "The Commissioner of the RCMP",
+            "The President of the Agency"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Haida Nation Recognition Act, what does the term 'Council of the Haida Nation' refer to?",
+        "options": [
+            "The administrative body of the Haida Nation",
+            "The government of the Haida Nation recognized under paragraph 3(b)",
+            "The collectivity of Haida citizens",
+            "A society incorporated under the Societies Act of British Columbia"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the Pandemic Day Act, which date is designated as Pandemic Observance Day?",
+        "options": [
+            "March 8",
+            "March 11",
+            "March 31",
+            "April 30"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "question": "According to the National Council for Reconciliation Act, what is the primary purpose of the Council?",
+        "options": [
+            "To manage Indigenous lands.",
+            "To advance reconciliation between Indigenous and non-Indigenous peoples.",
+            "To establish bilateral mechanisms with Indigenous governing bodies.",
+            "To provide financial aid to Indigenous communities."
+        ],
+        "correct_answer": 1
+    }
+]

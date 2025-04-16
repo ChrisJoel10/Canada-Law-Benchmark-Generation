@@ -1,0 +1,1506 @@
+[
+    {
+        "statement": "The Ordnance and Admiralty Lands Act states that moneys from the sale or lease of lands shall be paid to the Minister of Finance.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Governor in Council has the authority to regulate the administration of lands within the Railway Belt.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister, as defined in the Manitoba Supplementary Provisions Act, refers to the Minister of the Interior.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Grants made after June 6, 1913, by the Crown of lands in the Railway Belt automatically vest exclusive rights to any watercourse within the granted lands to the grantee.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Deputy Superintendent General can acquire land within an Indian reserve for a settler without the consent of the band council, according to the Indian Soldier Settlement Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Manitoba Natural Resources Act stipulates that the Province will not affect or alter any term of any contract to purchase Crown lands without the consent of all parties, including Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The International Rapids Power Development Act allows for the transfer of administration of Canadian lands to the Government of Ontario for the construction of power generation works.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Kingsmere Park Act allows the Governor in Council to set aside part of Kingsmere Park as a country home for the Prime Minister of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Government Annuities Act, an annuity can be granted on the life of someone other than the actual annuitant.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Government Annuities Act, the Minister is affected by notice of any trust affecting an annuity.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Increases to pensions under the Public Service Pension Adjustment Act are payable for any period before August 1, 1959.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Queen Elizabeth II Canadian Research Fund Act was originally enacted in 1970.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Marine War Risks Insurance Account is credited with premiums received from insurance agreements.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the National Archives of Canada Act, ministerial records of a personal nature must be transferred to the National Archives.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Income Tax Act RSC 1985 c 1 5th Supp was amended by several enactments that came into force retroactively.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Targeting cookies are used to establish a user's profile or target them for advertising purposes, according to the text.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Public Pensions Reporting Act requires that reports be filed with the Minister within eighteen months after the review date.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Non-smokers Health Act applies to workspaces on foreign carriers operating between Canada and another country.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Superintendent of Financial Institutions holds office during good behaviour for a term of five years and may be removed for cause by the Governor in Council.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Income Tax Application Rules can be cited as RSC 1985, c. 2 (5th Supp.)",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Hazardous Materials Information Review Act, a supplier can claim an exemption from disclosing the chemical name of a hazardous product if they consider it to be confidential business information.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Hazardous Materials Information Review Act, the Statutory Instruments Act applies to an order made under section 14 or 18.",
+        "correct_answer": false
+    },
+    {
+        "statement": "This Act amends the Hazardous Products Act and the Canada Labour Code.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister is responsible for the administration of the Investment Canada Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Transport can enter into agreements with foreign states to promote the objectives of the Motor Vehicle Transport Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Official Languages Act requires all federal institutions to provide services in both official languages.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Railway Safety Act, this act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Parliamentary Employment and Staff Relations Act applies to every person employed by the Senate, House of Commons, or Library of Parliament.",
+        "correct_answer": true
+    },
+    {
+        "statement": "An employee can be forced to refrain from becoming a member of an employee organization under the Parliamentary Employment and Staff Relations Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Revised Statutes of Canada 1985 do not operate as new law.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Government Organization Act Atlantic Canada 1987 was assented to on August 18th, 1988.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Lobbying Act applies to members of the legislature of a province when acting in their official capacity.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The International Centre for Human Rights and Democratic Development is an agent of Her Majesty.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Fish Inspection Act, an inspector can enter a dwelling house without a warrant if they have reasonable grounds to believe an offence is being committed.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Freshwater Fish Marketing Corporation can make grants in lieu of taxes to any municipality in Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Fisheries Act applies only within Canada's internal waters.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Fisheries Development Act allows the Minister to undertake projects for the exploration and development of new fishery resources and new fisheries.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Fisheries and Oceans is obligated to pay a lender the amount of loss sustained as a result of a loan made to a fisherman, according to the Fisheries Improvement Loans Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Fitness and Amateur Sport Act encourages the development of fitness and amateur sport in Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Foreign Affairs is responsible for preparing a report of the operations under the Food and Agriculture Organization of the United Nations Act and laying it before Parliament.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the provided text, the Food and Drugs Act does not apply to tobacco products as defined in the Tobacco and Vaping Products Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Under the Food and Drugs Act, it is permissible to sell food that has a poisonous substance on it if it's a result of a pest control product within specified limits.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Foreign Enlistment Act allows foreign consular officers to enlist Canadian nationals into their armed forces.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Attorney General of Canada can amend the schedule of the Foreign Extraterritorial Measures Act by adding a foreign trade law if they believe it is against international law.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Governor in Council can establish Forest Experimental Areas on lands belonging to Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Garnishment Attachment and Pension Diversion Act allows for the garnishment of Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the text, Targeting cookies are used to establish your profile or target you for advertising purposes.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Public Service Superannuation Act automatically applies to officers and employees employed by a corporation as defined in this Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Government Employees Compensation Act applies to members of the regular force of the Canadian Forces.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Governor General's salary is the first charge on the Consolidated Revenue Fund.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Hazardous Products Act applies to the sale or importation of nuclear substances as defined in the Nuclear Safety and Control Act that are radioactive.",
+        "correct_answer": false
+    },
+    {
+        "statement": "A supplier is allowed to sell a hazardous product without a safety data sheet if the product is not intended for use in a workplace.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Historic Sites and Monuments Board of Canada consists of 16 members.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Holidays Act, if July 1st is a Sunday, then July 2nd is observed as Canada Day.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Inquiries Act allows the Governor in Council to cause inquiry into matters connected to the good government of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Interest Act, any person can stipulate for, allow, and exact any rate of interest or discount that is agreed on, even if restricted by other Acts of Parliament.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The International Boundary Commission Act is not binding on Her Majesty.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The International Boundary Waters Treaty Act prohibits bulk removal of boundary waters and transboundary waters.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Foreign Affairs can provide financial assistance to an institution without consulting the Minister of Finance.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The International Development Research Centre is an agent of Her Majesty.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Identification of Criminals Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The International River Improvements Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Importation of Intoxicating Liquors Act allows individuals to import intoxicating liquor into a province for personal use, regardless of provincial regulations.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Income Tax Conventions Interpretation Act only applies to taxation years ending after June 23, 1983.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Minister of Transport is the superintendent general of Indian affairs.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Indian Oil and Gas Act affects the application of the Canada Labour Code.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Regulations made under the Indian Oil and Gas Act can vary from province to province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Industrial and Regional Development Act allows the Minister to designate any class of operations within the service industry as commercial operations.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Industrial Design Act, a design is registrable if it consists only of features that are dictated solely by a utilitarian function of the finished article.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Judges Act applies to supernumerary judges.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Livestock Feed Assistance Act applies to livestock feeders in Western Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "'Feed grain' includes all types of wheat.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Labour Adjustment Benefits Act, labour adjustment benefits are payable to any employee, regardless of their citizenship status, as long as they meet the other qualifications.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the text, the Chief Actuary is allowed to distinguish between members of the Senate and members of the House of Commons when fixing contribution rates.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Merchant Seamen Compensation Act, it is possible for a seaman to waive their rights to benefits under the Act by agreeing with their employer.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Ministries and Ministers of State Act allows the Governor in Council to establish a ministry of State by proclamation.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Transport is responsible for designating inspectors under the Motor Vehicle Fuel Consumption Standards Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Corporation can designate any person as an approved lender for the purposes of the National Housing Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Library Act is binding on Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Symbol of Canada Act recognizes the Beaver as a symbol of Canadian sovereignty.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Public Service Superannuation Act automatically applies to all members of the Natural Sciences and Engineering Research Council.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Newfoundland and Labrador Additional Financial Assistance Act has not been amended since 2015.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Northern Pipeline Act is binding on Her Majesty.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Governor in Council appoints the Commissioner of the Northwest Territories.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Council of the Northwest Territories consists of a fixed number of fourteen members that cannot be changed.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Northwest Territories Act, the Commissioner in Council can restrict or prohibit Indigenous people from hunting for food on unoccupied Crown lands using game that the Governor in Council has not declared to be in danger of becoming extinct.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Nuclear Liability Act applies to damage caused by nuclear incidents outside of Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Anthem Act declares the national anthem of Canada to be in the public domain.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Capital Commission is an agent of Her Majesty.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Defence Act RSC 1985 c N 5 is current to 2025-01-22 according to the Justice Laws Web Site.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the text, Targeting cookies are used to establish user profiles for advertising purposes on CanLII.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The term 'company' in the National Energy Board Act includes a person having authority under a Special Act to construct or operate a pipeline.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Flag of Canada Manufacturing Standards Act requires all flags manufactured or imported into Canada to be identified as meeting the standards established by the Canadian General Standards Board.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Public Works and Government Services is responsible for maintaining the lands described in the schedules of the Official Residences Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Oil Substitution and Conservation Act allows the Minister to provide financial assistance for increasing sales of oil.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Old Age Security Act is current to 2025-01-22 according to the Justice Laws Web Site.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Pesticide Residue Compensation Act allows compensation for losses due to pesticide residue even if the farmer was at fault.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Petroleum and Gas Revenue Tax Act applies in respect of income or loss from the production after September 1986 of petroleum or gas.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Pilotage Authorities are considered agents of Her Majesty.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Postal Services Interruption Relief Act allows individuals to seek relief from missed deadlines due to postal disruptions.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Prairie Farm Rehabilitation Act allows for the establishment of advisory committees by the Governor in Council.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Prairie Grain Advance Payments Act is to be construed as one with the Canada Grain Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Precious Metals Marking Act, an inspector requires a warrant to enter a dwelling house even with the occupant's consent.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the text, Parliament shall be dissolved by the demise of the Crown.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the text, the privileges, immunities, and powers held by the Senate and the House of Commons are part of the general and public law of Canada and judicial notice must be taken of them.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Prisons and Reformatories Act, a prisoner is considered in custody even when temporarily outside a prison if under the direct supervision of a prison officer or employee.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A government institution is always required to collect personal information directly from the individual it pertains to, even if the individual authorizes otherwise.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Privileges and Immunities North Atlantic Treaty Organisation Act may be cited as such.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The annual allowance paid to Prince Edward Island is in full settlement of all claims against the Government of Canada regarding steam communication maintenance as per the terms of the union.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Public Documents Act retroactively validates all documents signed before June 22, 1869, regardless of whether they were on parchment.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Commissions issued under the Public Officers Act are recorded in the office of the Registrar General of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A public servant must obtain written consent from the appropriate minister before filing a patent application outside of Canada for an invention made during their employment.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Public Service Employment Act is current to 2025-01-22 according to the Justice Laws Web Site.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Public Service Rearrangement and Transfer of Duties Act allows for the amalgamation of two or more departments under one minister and one deputy minister.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Public Service Staff Relations Act applies to all portions of the Public Service.",
+        "correct_answer": true
+    },
+    {
+        "statement": "An employee can be terminated contrary to the Public Service Staff Relations Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Public Service Superannuation Act, male and female contributors have equal rights and obligations.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister has the power to decide on all matters relating to the increase of any pension under this Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Pension Act, male and female members of the forces do not enjoy equality of status.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Pest Control Products Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A quarantine officer can order the cleansing or removal of a conveyance found to be contaminated with an infectious disease.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Quarantine Act, a person detained by a quarantine officer has the right to appeal their detention to the Deputy Minister of Health.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Radiation Emitting Devices Act applies to radiation emitting devices designed primarily for the production of nuclear energy within the meaning of the Nuclear Safety and Control Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Radiocommunication Act is binding on Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Industry has the power to issue spectrum licences.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Railway Relocation and Crossing Act allows the Minister of Transport to authorize payments for preparing urban development plans related to transportation study areas.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Natural Resources is responsible for collecting and publishing statistics of the mineral exploration, development, and production in Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Revolving Funds Act authorizes the establishment of certain revolving funds.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Royal Canadian Mint Act, the Master of the Mint is part of the federal public administration.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Legislation Revision and Consolidation Act allows the Statute Revision Commission to omit Acts that have expired from a revision.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Consolidated statutes operate as new law.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Statutes of Canada must be printed in both English and French.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Wildlife Week Act designates the week containing April 10th as National Wildlife Week.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The document 'Other than Statutory Authority RSC 1985 c Z-03' is a statute.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Port Warden is required to keep an office open during specific hours on lawful days.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Canadian Red Cross Society is authorized to act in matters of relief under the Geneva treaty without the cooperation of any other organization.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Insurance money payable under the Returned Soldiers Insurance Act is assignable and subject to claims from creditors.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Lake of the Woods Control Board has the power to regulate dams across the international boundary.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Railway Belt and Peace River Block Act was assented to in 1930.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Loan Act 1936 was assented to in 1936.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Canada Labour Code relating to occupational safety and health applies to the Hudson Bay Mining and Smelting Co Limited in respect of employment described in subsection 2.1.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The loan authorized by this Act is for the development of nuclear power. ",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Indian Reserves of Nova Scotia Act confirms all grants of patented lands without exception.",
+        "correct_answer": false
+    },
+    {
+        "statement": "This Act confirms agreements between the Government of Canada and the provinces of Manitoba, Alberta, and Saskatchewan.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Roosevelt Campobello International Park Commission is exempt from customs or excise duties on any property imported into Canada for use in connection with the Park.",
+        "correct_answer": true
+    },
+    {
+        "statement": "This Act retroactively validates certain air regulations and actions taken under them.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Olympic 1976 Act, the Olympic Corporation is deemed to be a registered Canadian amateur athletic association for the purposes of the Income Tax Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Representation Act 1974 deals with representation in the House of Commons and electoral boundaries.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Governor in Council has the authority to amend the schedule of applicable percentage increases for annuity payments.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Halifax Relief Commission was established as a result of an earthquake in Halifax in 1917.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The James Bay and Northern Quebec Native Claims Settlement Act extinguishes all native claims, rights, title, and interests in the Territory for all Indians and Inuit.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the text, Schedule A of the Bank Act is amended by adding information about the Continental Bank of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Act authorizes the granting of an immediate annuity to the Honourable Mr. Justice Donald Raymond Morand.",
+        "correct_answer": true
+    },
+    {
+        "statement": "This Act received assent in 1978.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Act, if there is a conflict between the Act and another Act of Parliament, this Act prevails.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Naskapi and the Cree Naskapi Commission Act, the Indian Act applies fully to the Naskapi band and Category IA N land.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Pioneer Trust Payment Continuation Act allows the Minister of State Finance to enter into an agreement with the government of Saskatchewan to share costs incurred under the Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "This Act abolishes all future rights of action related to mercury pollution claims for the Grassy Narrows and Islington Indian Bands and their members, without exception.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The name of CN Marine Inc. was changed to Marine Atlantic Inc. according to this Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Representation Act 1985 amends the Constitution Act 1867.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Forgiveness of Certain Official Development Assistance Debts Act came into force immediately upon being assented to.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Postal Services Continuation Act, 1987 prohibits strikes and lockouts during the extended term of the collective agreement.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Act authorizes the disposal of assets held by the Northern Canada Power Commission in the Yukon Territory.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Prince Rupert Grain Handling Operations Act prohibits strikes and lockouts during the extended term of the collective agreement.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Indian Act continues to apply to reserve lands and surrendered lands that are the subject of a specific agreement.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Fruit and Vegetable Customs Orders Validation Act was assented to on March 22, 1988.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Forgiveness of Debts sub Saharan Africa Act came into force on December 15, 1989.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Plant Breeders Rights Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A plant variety is considered a new variety if its propagating material has not been sold outside Canada for more than six years before the filing date in the case of a tree or vine.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Health of Animals Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Plant Protection Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Integrated Circuit Topography Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Museums Act allows museums to dispose of museum material in their collection.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Hibernia Development Project Act may be cited as the 'Canada-Newfoundland Atlantic Accord Implementation Act'.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Nordion and Theratronics Divestiture Authorization Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Petro Canada Public Participation Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Public Sector Compensation Act is binding on Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Postal Services Continuation Act, 1991, prohibits strikes and lockouts during the extended terms of the collective agreements.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Day of Remembrance is observed on December 6th.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Miscellaneous Statute Law Amendment Act 1991, SC 1992, c 1, is included in the database of consolidated federal legislation.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Targeting cookies are used to establish your profile or target you for advertising purposes on CanLII.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Referendum Act allows for referendums on questions relating to the Constitution of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Northwest Territories Waters Act applies to the use of waters or the deposit of waste within a park to which the Canada National Parks Act applies.",
+        "correct_answer": false
+    },
+    {
+        "statement": "A domestic user needs a license to use waters in a water management area under the Northwest Territories Waters Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Pension Benefits Division Act, a period of separation is always considered interrupted if the member and spouse resume cohabitation, regardless of the duration.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Children's Special Allowances Act came into force before the Family Allowances Act was repealed.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Gwich'in Land Claim Settlement Act is binding only on the federal government of Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The national safety marks are declared to be national trademarks, and the exclusive property and right to use them are vested in Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Marine Insurance Act, a contract of marine insurance is inadmissible in evidence unless it is evidenced by a marine policy in accordance with the Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Marine Insurance Act, there is an implied warranty in every marine policy that the marine adventure insured is lawful.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The seat of government of Nunavut can only be designated by the Governor in Council.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Nunavut Land Claims Agreement Act is binding on Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Public Service Superannuation Act automatically applies to every member of the Round Table.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Land Titles Repeal Act allows the Governor in Council to waive conditions for repealing the Land Titles Act in respect of a Territory.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Northumberland Strait Crossing Act is binding on Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The North American Free Trade Agreement Implementation Act is binding on Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Sports of Canada Act was assented to on May 12, 1994.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Sports of Canada Act recognizes hockey as the national summer sport of Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Migratory Birds Convention Act 1994 is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Marine Transportation Security Act applies to military vessels of a foreign country if the Minister of National Defence does not exempt them.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Income Tax Conventions Implementation Act 1995, the Act may be cited as the 'Canada Income Tax Act'.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Amounts paid to the Pictou Landing Indian Band under the agreement constitute Indian moneys under the Indian Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Under the Maintenance of Railway Operations Act 1995, Part I, the Canadian National Railway Company is referred to as the 'employer'.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Payment Clearing and Settlement Act may be cited as such.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A declaration of non-viability constitutes an act of bankruptcy by a clearing house.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Law Commission of Canada is ultimately accountable through the Minister of Justice to Parliament for the conduct of its affairs.",
+        "correct_answer": true
+    },
+    {
+        "statement": "This Act applies to actions taken after Order in Council P.C. 1996-1784 comes into force.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Income Tax Conventions Implementation Act 1996 received assent in 1997.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Amounts paid to the Nelson House First Nation pursuant to the agreement are considered Indian moneys under subsection 2(1) of the Indian Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Postal Services Continuation Act 1997 allows for imprisonment in default of payment of a fine imposed under section 17.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Canadian Nuclear Safety Commission is an agent of Her Majesty.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Mi'kmaq Education Act applies to every community for which a constitution is in effect.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Income Tax Conventions Implementation Act 1998 implements agreements between Canada and Vietnam, Croatia, and Chile.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Preclearance Act, a preclearance officer can impose monetary penalties under preclearance laws even if the act or omission is an offence under Canadian law punishable by indictment or on summary conviction.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Preclearance Act, a preclearance officer can order anyone found in a preclearance area to report to the officer or leave the area.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The First Nations Land Management Act is binding on Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A land code can come into force before the individual agreement is signed by the First Nation and the Minister.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Indian Act does not apply to land under the First Nations Land Management Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Canada Not-for-profit Corporations Act applies to the Public Sector Pension Investment Board.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Income Tax Conventions Implementation Act 1999 can be cited as SC 2000 c 11.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Canada-Kyrgyzstan Income Tax Agreement is found in Part 2 of the Income Tax Conventions Implementation Act 1999.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Modernization of Benefits and Obligations Act received assent in 2000.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Proceeds of Crime Money Laundering and Terrorist Financing Act is NOT binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Amounts paid to the First Nation pursuant to the Agreement are considered Indian moneys within the meaning of the Indian Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "PIPEDA applies to any federal government institution that collects, uses, or discloses personal information.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Under PIPEDA, organizations must obtain consent from individuals before collecting, using, or disclosing their personal information, except in specific circumstances outlined in the Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the text, PIPEDA mandates that organizations must always obtain explicit consent before collecting personal information, without exceptions.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Under PIPEDA, an organization is always required to disclose personal information without the consent of the individual if compelled by a subpoena.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Nisga'a Final Agreement is considered a treaty and a land claims agreement within the meaning of sections 25 and 35 of the Constitution Act, 1982.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Immigration and Refugee Protection Act includes regulations made under it and instructions given under subsection 14(1).",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Income Tax Conventions Implementation Act 2001 solely addresses income tax conventions with European countries.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Marine Liability Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Marine Liability Act, 'shipowner' in paragraph 2 of Article 1 of the Convention shall be read with reference to the word 'seagoing'.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Statutory Instruments Act applies to Kanesatake Mohawk laws.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Nunavut Waters and Nunavut Surface Rights Tribunal Act is binding on Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Northern Affairs can delegate functions under sections 14, 16, 17, 19, and 21 to the territorial minister responsible for water resources, except that the delegation cannot abrogate or derogate from any rights of Inuit under the Agreement.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Horse of Canada Act was assented to in 2002.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A written declaration of royal assent is considered a statutory instrument.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Statutory Instruments Act applies to instruments re-enacted under Section 3 of the Legislative Instruments Re-enactment Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Pest Control Products Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Acadian Day Act was assented to in 2003.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A benefit paid under the Injured Military Members Compensation Act is subject to tax under any Act of Parliament.",
+        "correct_answer": false
+    },
+    {
+        "statement": "A mobile home is considered tangible personal property when applying Part 1 of the First Nations Goods and Services Tax Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The President of the Public Service Commission must reside in the National Capital Region.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Public Service Modernization Act received assent in 2003.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Holocaust Memorial Day Act was assented to in 2003.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Physical Activity and Sport Act provides for the establishment of a for-profit corporation called the Sport Dispute Resolution Centre of Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Library and Archives of Canada Act binds Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The short title of SC 2004, c 15 is the Public Safety Act, 2002.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The funding provided by this Act is intended to improve access to and reduce wait times for privately funded diagnostic and treatment services.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Quarantine Act is binding on Her Majesty in right of Canada or of a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Labrador Inuit Land Claims Agreement is considered a treaty under sections 25 and 35 of the Constitution Act, 1982.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Canada Nova Scotia Arrangement refers to an agreement between the Government of Canada and the Government of Nova Scotia on Offshore Revenues signed on February 14, 2005.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Greenhouse Gas Technology Investment Fund Act was in force as of January 1, 2016.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Highway 30 Completion Bridges Act limits the application of the Canadian Navigable Waters Act in respect of the construction and maintenance of the bridges authorized by this Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "This Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the document, Targeting cookies are applicable to establish your profile or target you for advertising purposes.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Remote Sensing Space Systems Act, a licence is transferable without the Minister's consent.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The President of the Treasury Board is responsible for promoting ethical practices in the public sector according to the Public Servants Disclosure Protection Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The First Nations Oil and Gas and Moneys Management Act applies to reserve lands in Yukon.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Internment of Persons of Ukrainian Origin Recognition Act requires the installation of commemorative plaques.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Regulations made under the First Nations Commercial and Industrial Development Act can incorporate provincial laws by reference.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A law made under subsection 5(1) of the First Nations Fiscal Management Act has force or effect immediately after it is enacted by the First Nation council.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The First Nations Education Authority is considered an agent of Her Majesty.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Mackenzie Gas Project Impacts Act was repealed in 2013.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Chief Public Health Officer must be a health professional with qualifications in public health.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Olympic and Paralympic Marks Act prohibits the use of marks that closely resemble Olympic or Paralympic marks without consent.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Kyoto Protocol Implementation Act is binding on Her Majesty in Right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "SC 2007 c 31 permits the resumption of the National Research Universal Reactor at Chalk River.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Act derogates from the authority of the Canadian Nuclear Safety Commission.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Under the Railway Continuation Act 2007, an employee can be imprisoned for not paying a fine imposed under section 17.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Perfluorooctane Sulfonate Virtual Elimination Act was assented to in 2007.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Heritage Lighthouse Protection Act is binding on Her Majesty in right of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Official Development Assistance Accountability Act stipulates that official development assistance should be consistent with Canadian values and foreign policy.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Act allows payments to be made to a trust established to support provincial and territorial initiatives addressing economic volatility.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Kelowna Accord was concluded in Ottawa.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Peacekeepers Day Act establishes National Peacekeepers Day as a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Nunavik Marine Region Wildlife Board is considered an agent of Her Majesty in right of Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Blood Donor Week Act stipulates that blood donors should be remunerated for their donations.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Tax Treatment Agreement forms part of the Agreement and is considered a treaty.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the Public Sector Equitable Compensation Act, members of the Royal Canadian Mounted Police are considered employees.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Human Pathogens and Toxins Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Payment Card Networks Act applies to all payment systems, including those prescribed by regulation.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Jobs and Economic Growth Act includes amendments to the Income Tax Act.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Targeting cookies are used on the CanLII website to target users for advertising purposes",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Holocaust Monument Development Council members are entitled to remuneration for their services.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Minister of Finance can designate a mortgage insurer as an approved mortgage insurer without consulting the Superintendent of Financial Institutions.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Restoring Mail Delivery for Canadians Act prohibits the employer from disciplining an employee for being on strike before the Act came into force.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Marketing Freedom for Grain Farmers Act replaces RSC 1985 c P-18.",
+        "correct_answer": true
+    },
+    {
+        "statement": "A person who provides an Internet service is required to seek out child pornography under this Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Justice for Victims of Terrorism Act was assented to on March 13, 2012.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The purpose of the Justice for Victims of Terrorism Act is to deter terrorism by establishing a cause of action that allows victims of terrorism to sue perpetrators of terrorism and their supporters.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Flag of Canada Act encourages all Canadians to proudly display the National Flag of Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Act requires every person in control of an apartment building to allow the National Flag of Canada to be displayed.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Purple Day Act designates March 26th as a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "An employer is liable for the acts and omissions of the administrator of a pooled registered pension plan.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Integrated Cross border Law Enforcement Operations Act allows for the removal of seized vessels from Canada under certain operational necessities even if it deviates from standard legal procedures.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Philanthropy Day Act was assented to in 2011.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Protecting Air Service Act was assented to on March 15, 2012.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Minister of Health is responsible for appointing an arbitrator under the Protecting Air Service Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Restoring Rail Service Act prohibits the employer from disciplining an employee for having been on strike before the Act came into force.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Northwest Territories Surface Rights Board is an agent of Her Majesty.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Impact Assessment Act applies within the designated area according to this text.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Korean War Veterans Day Act designates July 27th as a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Language Skills Act received royal assent in 2013.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Mackenzie Gas Project Impacts Fund Act allows the Minister of Finance to debit interest from the Consolidated Revenue Fund to the Mackenzie Gas Project Impacts Fund.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The First Nations Financial Transparency Act requires First Nations to prepare and publicly disclose audited consolidated financial statements.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Qalipu Mi kmaq First Nation Act was assented to on June 19, 2014.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Commissioner of the Northwest Territories is appointed by the Prime Minister of Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Bridges Act applies to the new bridge and related works according to the New Bridge for the St Lawrence Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Hunting Trapping and Fishing Heritage Day is a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Prohibiting Cluster Munitions Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Section 6 of the Prohibiting Cluster Munitions Act prohibits the use, development, acquisition, or possession of cluster munitions.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Lincoln Alexander Day is a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Health and Fitness Day Act was assented to on December 16, 2014.",
+        "correct_answer": true
+    },
+    {
+        "statement": "National Health and Fitness Day is a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Indian Act Amendment and Replacement Act was assented to in 2014.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Pope John Paul II Day Act establishes April 2nd as a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "According to the First Nations Elections Act, a person can be nominated for both chief and councillor positions in the same election.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Rouge National Urban Park Act is NOT binding on Her Majesty in right of Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Journey to Freedom Day Act was assented to in 2015.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Journey to Freedom Day is a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Main Point of Contact with the Government of Canada in case of Death Act requires that individuals communicate directly with all government entities to obtain information about a deceased citizen's social insurance number.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The High Risk Child Sex Offender Database Act applies to young persons found guilty of sexual offences against children, regardless of whether they receive an adult sentence.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Prevention of Terrorist Travel Act allows a person whose passport has been cancelled due to terrorism concerns to appeal the decision to a judge.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Nuclear Liability and Compensation Act applies to a nuclear incident that results from an act of war.",
+        "correct_answer": false
+    },
+    {
+        "statement": "Under the Nuclear Liability and Compensation Act, an operator can have recourse against any person who contributed to a nuclear incident.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Fiddling Day Act makes National Fiddling Day a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Justice for Victims of Corrupt Foreign Officials Act allows for restrictions on activities related to a foreign national responsible for gross human rights violations.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Under this Act, a foreign national can apply to the Minister to cease being subject to an order or regulation made under paragraph 4(1)(a).",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Security and Intelligence Committee of Parliamentarians is a committee of the House of Commons.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Strategy for Safe and Environmentally Sound Disposal of Lamps Containing Mercury Act requires the Minister of the Environment to table a report on the effectiveness of the national strategy every five years after the initial report.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Strategy for Alzheimer's Disease and Other Dementias Act requires the Minister to convene a conference within 180 days of the Act coming into force.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Invest in Canada Hub is not an agent of Her Majesty in right of Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The head office of the Invest in Canada Hub is to be at a place in Canada that is designated by the Minister",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Preclearance Act 2016 is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "According to the Preclearance Act 2016, a preclearance officer may conduct a strip search without reasonable grounds if the traveller consents.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Framework on Palliative Care in Canada Act mandates the Minister of Health to consult only with provincial governments when developing the framework.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Recognition of Charlottetown as the Birthplace of Confederation Act was assented to in 2016.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Seal Products Day is a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Greenhouse Gas Pollution Pricing Act is binding on Her Majesty in right of Canada or a province.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Gender Equality Week Act designates the fourth week of September as Gender Equality Week in Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Latin American Heritage Month Act was assented to in 2018.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Postal Services Resumption and Continuation Act allows for imprisonment as a penalty for contravening its provisions.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Pay Equity Act applies only to the federal public sector in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Service Fees Act applies to the fees and interest charged under sections 3 and 4 of the International Financial Assistance Act.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Poverty Reduction Act was assented to on December 13, 2018.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Multilateral Instrument in Respect of Tax Conventions Act has been amended multiple times since its initial enactment.",
+        "correct_answer": false
+    },
+    {
+        "statement": "If there is an inconsistency between this Act and the Income Tax Conventions Interpretation Act, the provisions of the Multilateral Instrument in Respect of Tax Conventions Act prevail.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Review Agency is entitled to have access to information that is subject to solicitor-client privilege.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Intelligence Commissioner can disclose information obtained during their duties for purposes beyond exercising their powers or performing their duties as required by law.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Office of the Commissioner of Indigenous Languages is an agent of Her Majesty in right of Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Oil Tanker Moratorium Act applies to vessels under the direction or control of the Minister of National Defence.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Housing Strategy Act declares that the right to adequate housing is a fundamental human right.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Poverty Reduction Act was enacted by section 315 of chapter 29 of the Statutes of Canada 2019.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Reduction of Recidivism Framework Act requires the Minister of Public Safety and Emergency Preparedness to develop and implement a federal framework to reduce recidivism.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Framework for Diabetes Act requires the Minister of Health to hold at least one conference with relevant parties for developing the framework.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Port of Montreal Operations Act, 2021 prohibits strikes and lockouts until the extended collective agreement expires.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Kindness Week Act was assented to on June 3, 2021.",
+        "correct_answer": true
+    },
+    {
+        "statement": "Targeting cookies are used to establish user profiles for advertising purposes on CanLII.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Kindness Week Act is chapter 9 of the Statutes of Canada, 2021.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Rental Housing Benefit Act allows for interest to be charged on overpayments.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Ribbon Skirt Day Act designates January 4th as National Ribbon Skirt Day in Canada.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Framework Agreement is a treaty within the meaning of section 35 of the Constitution Act, 1982.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Food Day in Canada Act was assented to in 2023.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Lebanese Heritage Month Act was assented to on June 20, 2023.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Framework on Cancers Linked to Firefighting Act requires the Minister to consult only with provincial governments.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The International Mother Language Day Act establishes International Mother Language Day as a legal holiday in Canada.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The National Strategy Respecting Environmental Racism and Environmental Justice Act requires the Minister to develop a national strategy to promote efforts across Canada to advance environmental justice and to assess, prevent and address environmental racism.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Foreign Influence Transparency and Accountability Act applies only to federal political or governmental processes.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Global Minimum Tax Act can be cited as SC 2024 c 17 s 81.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Pharmacare Act mandates universal single-payer first-dollar coverage for all prescription drugs.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Public Complaints and Review Commission Act is current to 2025-01-22 according to the Justice Laws Web Site.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The Haida Nation Recognition Act absolves the Council of the Haida Nation from vicarious liability arising out of the actions of its representatives.",
+        "correct_answer": false
+    },
+    {
+        "statement": "The Pandemic Day Act was assented to on April 30, 2024.",
+        "correct_answer": true
+    },
+    {
+        "statement": "The National Council for Reconciliation is an agent of His Majesty in right of Canada.",
+        "correct_answer": false
+    }
+]

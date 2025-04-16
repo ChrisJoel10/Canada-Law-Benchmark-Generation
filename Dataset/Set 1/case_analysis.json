@@ -1,0 +1,1618 @@
+[
+    {
+        "task": "A militiaman obtains a pension by providing false evidence about his service record. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the militiaman is entitled to the pension given the false representation.",
+            "The militiaman is liable on summary conviction and shall forfeit the pension obtained.",
+            "Section 23 of the Defence Services Pension Continuation Act outlines penalties for obtaining a pension by fraudulent means."
+        ]
+    },
+    {
+        "task": "Analyze section 26 of the Exchequer Court Act regarding jurisdiction of the court over railway debts. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the Exchequer Court has jurisdiction over railway debts.",
+            "The Exchequer Court has jurisdiction with respect to any railway or section of a railway not wholly within one province and with respect to any railway otherwise subject to the legislative authority of the Parliament of Canada to order and decree a sale or foreclosure.",
+            "Mortgage actions in the High Court of Justice in England."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario: A foreign vessel is seized in Canadian territorial waters. Identify the key issue, the court's decision (assuming jurisdiction), and the relevant precedent from the Canada Prize Act.",
+        "answers": [
+            "Whether the vessel is a legitimate prize under international law and the Canada Prize Act.",
+            "The court asserts jurisdiction and proceeds to determine if the vessel is a lawful prize, potentially condemning it.",
+            "The principles outlined in Section 5 regarding the adjudication of prizes according to the Law of Nations and relevant UK legislation in force on September 10, 1939."
+        ]
+    },
+    {
+        "task": "Analyze the provided legal text of the Customs Act. Identify: 1) Key issue related to the Act's amendments 2) A recent amendment to the Act 3) The citation to the Customs Act.",
+        "answers": [
+            "Retroactive amendments possibly causing discrepancies in historical versions of the Act",
+            "SC 2024, c 25 Public Complaints and Review Commission Act",
+            "Customs Act, RSC 1985, c. 1 (2nd Supp)"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a party to an arbitration agreement brings an action before a court despite the existence of the agreement. Identify: 1) Key issue 2) Decision 3) Relevant article",
+        "answers": [
+            "Whether the court should refer the parties to arbitration despite the court action.",
+            "The court shall refer the parties to arbitration unless it finds that the agreement is null and void, inoperative, or incapable of being performed.",
+            "Article 8 of the Commercial Arbitration Act."
+        ]
+    },
+    {
+        "task": "Based on the text, identify the key components that the Competition Tribunal has jurisdiction over",
+        "answers": [
+            "Applications made under Part VII.1 or VIII of the Competition Act",
+            "Related matters to applications made under Part VII.1 or VIII of the Competition Act",
+            "Any matter under Part IX of the Competition Act that is the subject of a reference under subsection 124(2) of that Act"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: An inspector seizes a truckload of unlabeled produce, believing it violates the Canada Agricultural Products Act. The owner claims the produce is for personal consumption. What are the key issues to be addressed under the Act, what possible decisions can be made, and what precedent could this set?",
+        "answers": [
+            "Issue: Determining whether the produce was intended for marketing or personal consumption, and whether a violation of the Act occurred.",
+            "Decision: The Board of Arbitration or a court could determine whether the produce was intended for marketing, based on quantity and other evidence. If intended for marketing and unlabeled, it would be a violation. If for personal use, the produce should be returned.",
+            "Precedent: Establishing a threshold for what constitutes 'ordinarily necessary for a person's own consumption' and clarifying the burden of proof in such cases."
+        ]
+    },
+    {
+        "task": "Analyze Article V regarding Permanent Establishment and identify: 1) Definition of permanent establishment 2) Examples of what constitutes a permanent establishment 3) Examples of what does not constitute a permanent establishment",
+        "answers": [
+            "A fixed place of business in which the business of the enterprise is wholly or partly carried on",
+            "Place of management, branch, office, factory, workshop, mine, quarry, building site or construction project existing for more than six months",
+            "Use of facilities for storage, display, or delivery; maintaining a stock of goods for storage, display, or processing by another enterprise; fixed place of business for purchasing goods or collecting information"
+        ]
+    },
+    {
+        "task": "Analyze the hypothetical case: A federal institution denies a job to a qualified candidate based on their ethnic origin. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Discrimination based on ethnic origin in federal employment",
+            "The denial of employment is a violation of the Canadian Multiculturalism Act.",
+            "Canadian Multiculturalism Act sections related to equal opportunity in federal institutions."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a lender provides a loan under the Canadian Agricultural Loans Act, but the borrower uses the funds for a purpose other than stated in the application. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Misuse of loan proceeds under the Canadian Agricultural Loans Act.",
+            "The borrower is guilty of an offence and liable on summary conviction to a fine and a penalty equal to the amount of the loan not repaid.",
+            "Section 17(1) of the Canadian Agricultural Loans Act defines the offence and specifies the penalties."
+        ]
+    },
+    {
+        "task": "Analyze the following hypothetical case based on the Divorce Act (RSC 1985 c 3 (2nd Supp)):   John and Mary are getting a divorce. John has been habitually resident in Ontario for one year. Mary has been habitually resident in Quebec for six months. They disagree on who should have primary care of their child.  Identify: 1) Key issue 2) Relevant Section 3) How does the relevant section impact the result of this case?",
+        "answers": [
+            "Jurisdiction in divorce and parenting disputes.",
+            "Section 3: Jurisdiction in divorce proceedings",
+            "Section 3 of the Divorce Act states that a court in a province has jurisdiction to hear and determine a divorce proceeding if either spouse has been habitually resident in the province for at least one year immediately preceding the commencement of the proceeding. In this case, John has been habitually resident in Ontario for one year, so an Ontario court has jurisdiction to hear the divorce proceeding."
+        ]
+    },
+    {
+        "task": "Analyze section 10 regarding the Official Languages Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Application of Official Languages Act to Air Canada subsidiaries",
+            "Duties regarding official languages for air services by subsidiaries",
+            "Official Languages Act"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a provincial enforcement service applies for the release of information under the Family Orders and Agreements Enforcement Assistance Act. Identify: 1) The key issue the service is addressing 2) The type of information the service is likely seeking 3) The legal basis for their application.",
+        "answers": [
+            "Enforcement of a support provision or locating a person in breach of a parenting provision.",
+            "Information about a person in arrears, or the location of a person and child related to a custody dispute.",
+            "Sections 15(1) and 15(2) of the Act."
+        ]
+    },
+    {
+        "task": "Based on the text of the Enterprise Cape Breton Corporation Act, identify the key issue, decision, and relevant precedent related to the Corporation's powers regarding financial assistance to businesses.",
+        "answers": [
+            "Corporation's authority to lend money, make grants, invest in shares, or guarantee loans to companies.",
+            "Corporation may lend money, make grants, invest in shares, or guarantee loans to companies that contribute to the industrial development of Cape Breton Island.",
+            "Financial Administration Act sections are referenced for direction of Minister and aggregate of guarantees and payments."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where the Minister of ACOA enters into an agreement with the government of Nova Scotia to carry out a specific economic development project.",
+        "answers": [
+            "The key issue is the Minister's authority to enter into agreements with provincial governments for economic development projects.",
+            "The decision is the Minister's agreement with Nova Scotia to carry out the specified project.",
+            "The relevant precedent is Section 6(2) of the Atlantic Canada Opportunities Agency Act, which allows the Minister to enter into agreements with provincial governments."
+        ]
+    },
+    {
+        "task": "Analyze the Canadian Centre on Substance Abuse Act. Identify: 1) The key issue the act addresses. 2) The decision to establish the centre. 3) The precedent for similar organizations.",
+        "answers": [
+            "Alcohol and drug abuse awareness and harm reduction",
+            "Establishment of the Canadian Centre on Substance Abuse",
+            "Unclear from text."
+        ]
+    },
+    {
+        "task": "N/A",
+        "answers": []
+    },
+    {
+        "task": "Analyze a scenario where two animal pedigree associations wish to merge. 1) Identify the key legal issue in proceeding with the amalgamation. 2) What is the decision needed to proceed with the amalgamation? 3) What document would detail the steps needed for this amalgamation?",
+        "answers": [
+            "Compliance with statutory requirements for amalgamation under the Animal Pedigree Act.",
+            "The Minister's approval of the articles of amalgamation and issuance of a certificate of amalgamation.",
+            "Articles of Amalgamation"
+        ]
+    },
+    {
+        "task": "A ship deposits waste in the arctic waters. The government takes action to clean it up. Analyze the key issue, the likely decision, and the precedent set by the Arctic Waters Pollution Prevention Act.",
+        "answers": [
+            "Liability for pollution in arctic waters.",
+            "The responsible party is liable for the costs of cleanup and damages.",
+            "Establishes liability for pollution in arctic waters and the government's right to recover cleanup costs."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where the Auditor General discovers that a department has spent money for purposes other than those appropriated by Parliament.  Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Improper expenditure of public funds",
+            "The Auditor General must report the findings to the House of Commons",
+            "Auditor General Act sections 7 and 8"
+        ]
+    },
+    {
+        "task": "Analyze the powers granted to the Governor in Council under the Agricultural Products Marketing Act.",
+        "answers": [
+            "Grant authority to provincial boards to regulate interprovincial and export trade of agricultural products",
+            "The Governor in Council can grant authority to fix levies and charges",
+            "The Governor in Council may make regulations governing the granting and revocation of authority"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where the Minister of Finance and the Governor of the Bank of Canada disagree on monetary policy, and identify the key issue, the decision-making process, and the relevant section of the Bank of Canada Act that applies.",
+        "answers": [
+            "Difference of opinion on monetary policy",
+            "The Minister may give a written directive to the Governor with the approval of the Governor in Council",
+            "Section 14 of the Bank of Canada Act"
+        ]
+    },
+    {
+        "task": "Analyze the case of a bill presented for payment where a clerk of the bank acted as the notary for protesting the bill. 1) Identify the key issue. 2) Identify the decision based on the Bills of Exchange Act. 3) Identify the relevant section of the act that serves as the precedent.",
+        "answers": [
+            "Whether a bank clerk can act as a notary for protesting a bill payable at their bank.",
+            "The clerk cannot act as a notary.",
+            "Section 12 of the Bills of Exchange Act."
+        ]
+    },
+    {
+        "task": "Analyze section 2 of the Bills of Lading Act. Identify: 1) Key issue regarding rights of consignees and endorsees, 2) The decision regarding those rights, and 3) Any legal precedent established.",
+        "answers": [
+            "Rights and liabilities of consignees and endorsees",
+            "Consignees and endorsees have rights and liabilities as if they were party to the original contract",
+            "This section itself establishes precedent within Canadian law"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a bridge collapses, causing injuries. Identify: 1) Key issue 2) Decision regarding liability 3) Relevant precedent from the Bridges Act.",
+        "answers": [
+            "Liability for bridge collapse",
+            "Determination of liability based on negligence or failure to adhere to the Act",
+            "Section 14 of the Act regarding company liability, related case law (if any)"
+        ]
+    },
+    {
+        "task": "Analyze the scenario where a company deposits waste into a designated water quality management area without prescribed conditions. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Illegal waste deposit in water quality management area",
+            "Violation of section 9 of the Canada Water Act",
+            "Section 9 of the Canada Water Act establishes a prohibition on depositing waste without prescribed conditions."
+        ]
+    },
+    {
+        "task": "Analyze the provided text from the Canadian Centre for Occupational Health and Safety Act and identify the following: 1) The key issue addressed by the Act, 2) The main decision or action the Act enables, 3) The primary body or organization established by the Act which serves as a precedent for occupational health and safety initiatives.",
+        "answers": [
+            "Promoting occupational health and safety",
+            "Establishing the Canadian Centre for Occupational Health and Safety",
+            "The Canadian Centre for Occupational Health and Safety"
+        ]
+    },
+    {
+        "task": "A dairy farmer is accused of selling milk without the required license. The Canadian Dairy Commission seeks an injunction to stop the farmer from selling milk. Analyze the situation.",
+        "answers": [
+            "Violation of licensing regulations under the Canadian Dairy Commission Act.",
+            "The court will decide whether to grant the injunction based on evidence of the license violation and potential harm.",
+            "This case could set a precedent for the enforcement of dairy regulations and the use of injunctions in similar situations."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company applies for a certificate under the Canadian Ownership and Control Determination Act but the Minister suspects false information. Identify: 1) Key issue 2) Possible Decision 3) Relevant Precedent (if any, based on the provided text)",
+        "answers": [
+            "Validity of the application, potential false information",
+            "Minister may refuse to issue a certificate or revoke an existing one",
+            "Reference to sections on false information and non-compliance in the Act."
+        ]
+    },
+    {
+        "task": "Analyze the provided text regarding the Canadian Payments Act and identify the key elements:",
+        "answers": [
+            "Whether the Canadian Payments Association is an agent of Her Majesty.",
+            "The Association is not an agent of Her Majesty",
+            "Section 3 (2) of the Canadian Payments Act."
+        ]
+    },
+    {
+        "task": "Analyze the following scenario: CSIS wants to collect a new type of dataset that predominantly relates to Canadians. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the collection of this new type of dataset is authorized under the Act.",
+            "The Minister must determine classes of Canadian datasets for which collection is authorized by order and notify the Intelligence Commissioner, before the Service collects the dataset.",
+            "Section 11.03 outlines the requirements for the Minister to authorize classes of Canadian datasets."
+        ]
+    },
+    {
+        "task": "Analyze Section 3.12(1) Duty of Care and Identify: 1) Key Issue 2) Decision 3) Precedent",
+        "answers": [
+            "The key issue is the duty of care required of directors and officers of the Corporation.",
+            "The decision requires directors and officers to act honestly, in good faith, and with reasonable diligence and skill in the best interests of the Corporation.",
+            "This establishes a standard of care similar to that expected of corporate directors and officers under common law and other statutes."
+        ]
+    },
+    {
+        "task": "Analyze the Cape Breton Development Corporation Act. 1) What is the key issue addressed by Section 4(1)? 2) What is the decision made regarding this issue? 3) What legal precedent does this section establish?",
+        "answers": [
+            "Appointment of Chairperson and President",
+            "The Chairperson and the President shall each be appointed by the Governor in Council to hold office during pleasure for the term that the Governor in Council considers appropriate",
+            "Establishes the procedure for appointing the Chairperson and President of the Corporation."
+        ]
+    },
+    {
+        "task": "Identify: 1) The key issue addressed by the Children of Deceased Veterans Education Assistance Act 2) The main decision of the Act 3) The precedent the Act sets",
+        "answers": [
+            "Providing financial assistance for the higher education of children of deceased veterans",
+            "To enable eligible students to continue their education or instruction within an educational institution",
+            "The Act establishes a framework for providing educational assistance to eligible children of deceased veterans"
+        ]
+    },
+    {
+        "task": "Analyze the Canada Council for the Arts Act. Identify: 1) Key issue addressed by the Act 2) Decision to solve it 3) Precedent which affected the decision",
+        "answers": [
+            "Establishment and Functioning of the Canada Council for the Arts",
+            "Establishing the corporation, defining its objects, powers, and duties, and outlining its financial provisions and governance structure.",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze the following scenario based on the Canada United Kingdom Civil and Commercial Judgments Convention Act: A Canadian company wins a commercial judgment against a UK company in a Canadian court. The Canadian company seeks to enforce the judgment in the UK. Identify: 1) The key issue, 2) The likely decision of the UK court, 3) Relevant precedents.",
+        "answers": [
+            "Enforcement of a Canadian judgment in the UK under the Convention",
+            "Likely to enforce the judgement, assuming criteria in Article IV are met",
+            "The Canada United Kingdom Civil and Commercial Judgments Convention Act, Article IV"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A foreign fishing vessel is caught fishing for straddling stocks in the NAFO Regulatory Area in contravention of prescribed conservation measures. Identify: 1) Key issue 2) Potential decision 3) Relevant precedent (if any).",
+        "answers": [
+            "Illegal fishing activity by a foreign vessel in a regulated area.",
+            "Seizure of the vessel and goods, potential fines and penalties.",
+            "Previous cases involving violations of conservation measures in the NAFO Regulatory Area."
+        ]
+    },
+    {
+        "task": "Based on the provided text, analyze the role of the Canada Deposit Insurance Corporation (CDIC) in relation to its member institutions. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Ensuring the stability of the financial system and protecting depositors.",
+            "Provide insurance against the loss of part or all of deposits.",
+            "Previous amendments and regulations related to deposit insurance and financial stability."
+        ]
+    },
+    {
+        "task": "Based on the provided text regarding amendments to the Canada Business Corporations Act, identify the year and chapter of one amendment.",
+        "answers": [
+            "year",
+            "chapter"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: An individual was convicted of simple cannabis possession before it was legalized. They apply for a record suspension. Identify: 1) Key issue 2) Decision 3) Relevant section of the Criminal Records Act",
+        "answers": [
+            "Eligibility for record suspension considering the change in law.",
+            "Whether to grant a record suspension.",
+            "Amendments introduced by SC 2019, c. 20"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a producer defaults on their agreement under the Advance Payments for Crops Act.  1. Identify the key issue related to the default. 2. Determine the potential consequences for the producer. 3. What actions may the producer organization take?",
+        "answers": [
+            "Producer default on agreement",
+            "Liability for outstanding advance, interest, and costs",
+            "Take action to recover amount of outstanding payment"
+        ]
+    },
+    {
+        "task": "Analyze the implications of Section 8 of the Crown Liability and Proceedings Act regarding the Crown's liability and identify 1) Key issue 2) Decision 3) Legal basis or precedent",
+        "answers": [
+            "Whether the Crown is liable for actions done under prerogative or statutory powers.",
+            "The Crown is not liable for actions done under prerogative or statutory powers that would have been exercisable had the Act not been passed, particularly those related to national defense.",
+            "Common law prerogative of the Crown; Statutory powers conferred on the Crown by statute."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where an individual attempts to export an object from Canada without the required permit. Identify: 1) Key issue 2) Relevant section of the Cultural Property Export and Import Act 3) Potential consequences",
+        "answers": [
+            "Illegal export of cultural property",
+            "Section 40: Export or attempt to export",
+            "Potential offences and punishment (Section 45)"
+        ]
+    },
+    {
+        "task": "Analyze the Currency Act. Identify: 1) Key issue concerning legal tender 2) The Act's decision on legal tender 3) Any precedent set regarding currency denominations",
+        "answers": [
+            "Legal tender",
+            "Sets limitations on the amount of legal tender based on denomination",
+            "Establishes denominations of money in Canada are dollars and cents"
+        ]
+    },
+    {
+        "task": "Analyze section 3 (1) of the Customs and Excise Offshore Application Act: Identify the key issue, the decision made, and any relevant precedent.",
+        "answers": [
+            "Application of federal customs laws to designated goods on the continental shelf.",
+            "Federal customs laws apply to goods arriving for use as designated goods as if they were for use in Canada.",
+            "References in federal customs laws to importation include bringing goods to the continental shelf for use as designated goods."
+        ]
+    },
+    {
+        "task": "Based on the provided text from the Canada Mortgage and Housing Corporation Act, identify the key issue, decision, and precedent related to the establishment of the corporation's reserve fund.",
+        "answers": [
+            "Establishment and management of a reserve fund by the Canada Mortgage and Housing Corporation.",
+            "The Corporation shall establish a reserve fund, profits are credited to the fund, with a maximum amount designated by the Governor in Council.",
+            "N/A - This section outlines the creation and management of a fund, not a specific legal case."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario: A company is contracted by the Minister to produce specialized military vehicles. The company subcontracts some of the work to another entity. Identify the key issue related to the subcontract, the Minister's potential decision, and the relevant precedent from the Act.",
+        "answers": [
+            "Subcontracting of defence contract work",
+            "Minister's authority to approve/disapprove subcontracts and oversee costs",
+            "Definitions of 'defence contract' and 'defence subcontract' and Ministerial powers of procurement"
+        ]
+    },
+    {
+        "task": "Identify the key issue, decision, and precedent related to survivor benefits when a Public Official has both a spouse and a common-law partner, as defined by the Diplomatic Service Special Superannuation Act.",
+        "answers": [
+            "Apportionment of survivor benefits",
+            "The death benefit/pension is divided between the spouse and common-law partner based on the number of years of cohabitation",
+            "Establishes how survivor benefits are divided when there are multiple survivors"
+        ]
+    },
+    {
+        "task": "Analyze a situation where a corporation is dissolved and its property may escheat to the Crown. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the dissolved corporation's property escheats to the Crown under the Escheats Act.",
+            "The property escheats to Her Majesty the Queen in right of Canada.",
+            "The Escheats Act provides the legal basis for the Crown to take possession of property in such cases."
+        ]
+    },
+    {
+        "task": "Analyze Section 4 of the Excise Tax Act.",
+        "answers": [
+            "Tax on premiums in respect of insurance effected outside Canada",
+            "Tax levied on insurance premiums for insurance obtained outside Canada. If insurance is obtained within Canada no tax is applied.",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where an inspector is denied entry to a property suspected of storing explosives. Identify the key legal issue, the potential decision, and the relevant precedent based on the Explosives Act.",
+        "answers": [
+            "Whether an inspector can enter a dwelling house without consent or a warrant",
+            "A justice of the peace may issue a warrant authorizing the inspector to enter the dwelling house",
+            "Section 14 of the Explosives Act outlines the conditions for entry and inspection powers of inspectors"
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario: The Governor in Council has imposed an export duty on lumber to Country X because Country X imposes a duty on lumber imported from Canada. Subsequently, Country X removes its import duty on lumber. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the export duty imposed by the Governor in Council should be removed following the removal of the import duty by Country X.",
+            "The Governor in Council may by proclamation remove the export duty.",
+            "The power of the Governor in Council to impose, remove, and reimpose export duties as outlined in the Export Act."
+        ]
+    },
+    {
+        "task": "Analyze section 12 regarding the duties of the Minister for International Trade: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Defining the duties of the Minister for International Trade",
+            "Minister for International Trade shall promote the expansion of Canada\u2019s international trade and commerce.",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze the role of the Chief Electoral Officer according to the text.",
+        "answers": [
+            "Calculating the number of members of the House of Commons to be assigned to each province.",
+            "Preparing and printing maps of electoral districts.",
+            "Transmitting copies of commission reports to the Speaker."
+        ]
+    },
+    {
+        "task": "A dispute arises between a homeowner and their electricity provider regarding a high bill. The homeowner claims the meter is faulty. According to the Electricity and Gas Inspection Act, identify the key steps to resolve this dispute: 1) Key Issue 2) Decision 3) Precedent",
+        "answers": [
+            "Faulty Meter",
+            "Inspector's findings/Director's decision",
+            "Electricity and Gas Inspection Act"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: An oil exporter fails to pay the required charge within the prescribed time. What penalties are imposed according to the Energy Administration Act? Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Failure to pay oil export charge on time.",
+            "A penalty equal to the greater of one percent of the amount of default or the percentage prescribed by regulations.",
+            "Not applicable, as this is based on a statutory provision, not a previous court case."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a gasoline supplier refuses to provide gasoline to a remote community due to supply shortages during a declared national emergency under the Energy Supplies Emergency Act. Identify the key issue, decision, and relevant precedent.",
+        "answers": [
+            "Equitable distribution of petroleum products during a national emergency",
+            "Decision would depend on the specifics of the mandatory allocation program and any orders made by the Energy Supplies Allocation Board. It could involve requiring the supplier to provide gasoline or arranging for alternative supply routes.",
+            "The Energy Supplies Emergency Act and related regulations would be the primary precedent."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a farmer defaults on a Farm Improvement Loan. Identify: 1) Key issue 2) Decision 3) Relevant section of the Farm Improvement Loans Act",
+        "answers": [
+            "Default on Farm Improvement Loan",
+            "Actions lender must take, potential consequences under the Act",
+            "Section 11 (Offences and Punishment), Section 12 (Minister subrogated in lender's rights)"
+        ]
+    },
+    {
+        "task": "Analyze the powers of the National Farm Products Council regarding complaints received from persons directly affected by the operations of an agency.",
+        "answers": [
+            "Complaints received from any person directly affected by the operations of an agency",
+            "The council shall make inquiries and take action within its powers",
+            "Farm Products Agencies Act"
+        ]
+    },
+    {
+        "task": "Analyze the role of the Minister of Indian Affairs and Northern Development as defined in the Act. Identify: 1) Key issue regarding the Minister's responsibilities 2) The Act's decision on the Minister's power 3) A precedent or related section that influences these powers.",
+        "answers": [
+            "Minister's responsibilities",
+            "Management and direction of the Department",
+            "Section 4: Powers duties and functions of Minister"
+        ]
+    },
+    {
+        "task": "Analyze the implications of Section 14 of the Department of Transport Act regarding tolls on canals. Identify the key issue addressed in the section, the decision made, and the precedent set by this section.",
+        "answers": [
+            "Imposition and collection of tolls on canals",
+            "The Governor in Council may impose and authorize the collection of tolls and dues on any canal, alter and change them, and declare exemptions therefrom.",
+            "Established the legal basis for the government to collect tolls on canals, ensuring financial resources for their maintenance and operation."
+        ]
+    },
+    {
+        "task": "Analyze the provided text. Identify the Key Issue, Decision, and Precedent related to Veteran's Affairs. If there is no applicable case to analyze based on the text, skip this task.",
+        "answers": [
+            "N/A",
+            "N/A",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company wishes to develop a water power on public lands but the land is subject to an existing lease. Identify: 1) Key issue 2) Decision 3) Relevant section of the Act",
+        "answers": [
+            "Existing lease on public lands conflicting with water power development.",
+            "Governor in Council may order cancellation or modification of the lease; compensation to be paid to the lessee.",
+            "Section 8 of the Dominion Water Power Act"
+        ]
+    },
+    {
+        "task": "Analyze the agreement within the Alberta Natural Resources Act concerning the transfer of natural resources: Identify the key issue, the decision made, and the established precedent.",
+        "answers": [
+            "Transfer of control over natural resources from the federal government to the provincial government.",
+            "Agreement for the transfer of Crown lands, mines, minerals, and royalties to the Province of Alberta, subject to existing rights and agreements.",
+            "The transfer aims to place Alberta in a position of equality with other provinces regarding natural resource control, referencing Section 109 of the British North America Act, 1867."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent regarding the validity of Order in Council P.C. 1419.",
+        "answers": [
+            "Validity of Order in Council P.C. 1419 regarding the Caughnawaga Indian Reserve",
+            "Order in Council P.C. 1419 is validated",
+            "Order validates actions taken under an otherwise void Order in Council."
+        ]
+    },
+    {
+        "task": "Identify the key issue addressed by this Act concerning the Buffalo and Fort Erie Public Bridge Company.",
+        "answers": [
+            "Reorganization and refinancing of the bridge undertaking to permit a reduction of fixed charges and tolls."
+        ]
+    },
+    {
+        "task": "Summarize Section 6 of the Agreement.",
+        "answers": [
+            "Notification of Surrender",
+            "New Brunswick's option to purchase",
+            "Disposal by Canada",
+            "Conditions of surrender",
+            "Arbitration if disagreement on price"
+        ]
+    },
+    {
+        "task": "Based on the text of the Boucherville Islands Bridge and Tunnel Act, identify the following: 1) Key issue addressed by the Act. 2) The decision made by the Act. 3) Is precedent explicitly mentioned?",
+        "answers": [
+            "Authorization for construction of a bridge and tunnel.",
+            "The Province of Quebec is authorized to construct and maintain a bridge and tunnel.",
+            "No precedent is explicitly mentioned."
+        ]
+    },
+    {
+        "task": "Analyze the provided Act: 1) Key issue concerning the operation of the Blue Water Bridge. 2) Decision regarding the establishment of an authority. 3) The precedent that this Act sets for international bridge management.",
+        "answers": [
+            "Operation of an international bridge between Canada and the US",
+            "Establishment of the Blue Water Bridge Authority",
+            "Joint international operation of a bridge with toll collection powers."
+        ]
+    },
+    {
+        "task": "A Canadian manufacturer experiences significant workforce reduction due to new import tariffs imposed by a foreign country. Identify the key issue, the potential decision under the Employment Support Act, and a relevant precedent (if available within the text).",
+        "answers": [
+            "Workforce reduction due to foreign import tariffs.",
+            "Authorization of an employment support grant to the manufacturer.",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze Section 4(1) of the Federal Provincial Fiscal Arrangements Act 1972. Identify: 1) The key issue addressed in this section, 2) The decision made regarding provincial revenue equalization payments, and 3) The precedent set for determining these payments in future fiscal years.",
+        "answers": [
+            "Calculation of provincial revenue equalization payments",
+            "The provincial revenue equalization payment is determined based on a formula involving population and revenue base proportions.",
+            "Establishes a formula-based approach for calculating provincial revenue equalization payments using population and revenue base percentages."
+        ]
+    },
+    {
+        "task": "Identify the main issue, decision, and precedent set by SC 1974-75-76, c 104 Part II.",
+        "answers": [
+            "Avoidance of double taxation and prevention of fiscal evasion",
+            "Convention approved and declared to have the force of law in Canada",
+            "Canada Belgium Income Tax Convention Act 1976"
+        ]
+    },
+    {
+        "task": "Analyze the scenario where the Development Corporation sells constrained shares under subsection 15(5) of the Cooperative Energy Act. Identify: 1) Key issue related to the sale of shares 2) The decision required by the directors regarding the sale 3) The relevant precedent from the Canada Business Corporations Act mentioned in subsection 15(8)",
+        "answers": [
+            "The sale of constrained shares by the Development Corporation according to specific conditions and notice.",
+            "Directors must select shares for sale in good faith and in a manner not unfairly prejudicial to shareholders.",
+            "Subsections 47(4) to 47(6) of the Canada Business Corporations Act."
+        ]
+    },
+    {
+        "task": "Analyze Article 5 regarding Permanent Establishment and identify the key issue, the decision made in the article, and any precedents it might set.",
+        "answers": [
+            "Determining under what conditions an enterprise of one contracting state will be considered to have a permanent establishment in the other contracting state.",
+            "Defines 'permanent establishment' and provides specific inclusions and exclusions.",
+            "Provides criteria for determining the existence of a permanent establishment based on fixed places of business, construction projects, and the activities of agents."
+        ]
+    },
+    {
+        "task": "Analyze the following scenario based on Article 5 of the Canada-Korea Income Tax Convention: A Canadian company has a building site in Korea for constructing a factory, and the project lasts for eight months. Identify: 1) Key Issue 2) Decision",
+        "answers": [
+            "Whether the building site constitutes a permanent establishment in Korea",
+            "The building site constitutes a permanent establishment in Korea because the project lasted for more than six months"
+        ]
+    },
+    {
+        "task": "Analyze the following scenario based on Article IV (Residence) of the Canada-United States Tax Convention: An individual is a resident of both Canada and the United States due to having a permanent home available in both countries. 1) Identify the key issue to resolve regarding their residency status. 2) What is the first step to determine residency according to the convention? 3) What happens if it cannot be determined where he has his center of vital interests?",
+        "answers": [
+            "Determining the individual's residency for tax purposes under the Convention.",
+            "Determining the Contracting State with which his personal and economic relations are closer (centre of vital interests).",
+            "He shall be deemed to be a resident of the Contracting State in which he has an habitual abode."
+        ]
+    },
+    {
+        "task": "Given this Act, analyze a hypothetical case where a band is claiming compensation for cut off lands. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the land in question qualifies as 'cut off lands' under the Act.",
+            "The court's decision on whether the band is entitled to compensation under the Act.",
+            "The interpretation of 'cut off lands' and the process for resolving claims as defined by this Act."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A depositor applies for compensation under the Financial Institutions Depositors Compensation Act, but the Minister discovers that the depositor owes the financial institution money. Identify the key issue.",
+        "answers": [
+            "Whether the Minister can pay the liquidator of the financial institution instead of the depositor, up to the amount of the depositor's debt to the institution.",
+            "Minister's decision regarding payment.",
+            "The right of set-off that the liquidator has"
+        ]
+    },
+    {
+        "task": "Based on Section 2, identify the key issue addressed in the text.",
+        "answers": [
+            "Authorization for the sale of Canadair shares",
+            "Canada Development Investment Corporation and Cartierville Financial Corporation Inc are authorized to sell shares to Bombardier Canadair Inc, approved by the Governor in Council",
+            "N/A - This section primarily grants authorization, not relying on precedent."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: Bell Canada wishes to sell a significant portion of its voting shares to a foreign entity. Identify the key issue, the relevant decision required by law, and the precedent set by the Bell Canada Act.",
+        "answers": [
+            "Sale of voting shares to a foreign entity",
+            "Prior approval of the Commission is required for the sale of voting shares of the Company held by or on behalf of any person that controls the Company",
+            "Section 11(1) of the Bell Canada Act"
+        ]
+    },
+    {
+        "task": "Regarding Section 162(1), concerning the recovery of loss, damage, costs or expenses related to spills and debris: Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Recovery of costs associated with spills and debris.",
+            "Liability for loss, damage, costs, or expenses.",
+            "This section itself may act as a precedent for similar cases involving environmental damage and cost recovery."
+        ]
+    },
+    {
+        "task": "Analyze the situation where a spill occurs during offshore petroleum operations. Identify: 1) Key issue 2) Relevant section of the Act imposing a duty 3) Potential liability",
+        "answers": [
+            "Oil spill during offshore petroleum operations",
+            "Section 166 imposes duties related to spills",
+            "Recovery of loss, damage, costs, or expenses related to the spill."
+        ]
+    },
+    {
+        "task": "Analyze the role of the Transportation Safety Board in a hypothetical aviation accident involving a military and civilian aircraft. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Jurisdiction over accidents involving both military and civilian conveyances",
+            "The Board may investigate the accident",
+            "Section 18 of the Canadian Transportation Accident Investigation and Safety Board Act outlines the Board's jurisdiction in cases involving military conveyances"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: The Canadian Space Agency (CSA) seeks to enter into an agreement with a provincial government to carry out a new space research program. Identify the key legal consideration based on the provided text.",
+        "answers": [
+            "Whether the Minister requires approval from the Governor in Council to enter the agreement with the provincial government.",
+            "The Minister requires the approval of the Governor in Council.",
+            "Section 8 of the Canadian Space Agency Act."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Operation of the Canada School of Public Service",
+            "This act establishes and defines the operation, objects, powers, and governance of the Canada School of Public Service.",
+            "This act serves as the basis for the school's authority and responsibilities."
+        ]
+    },
+    {
+        "task": "Analyze section 2 of the Crown Corporations Dissolution or Transfer Authorization Act regarding the Canada Harbour Place Corporation. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Authorization of disposal of shares of Canada Harbour Place Corporation",
+            "Minister of Transport authorized to sell or dispose of shares with Governor in Council approval",
+            "Establishes the authority for specific ministers to dispose of assets of Crown corporations, creating a precedent for similar actions with other corporations listed in the Act."
+        ]
+    },
+    {
+        "task": "Analyze section 22 of the Federal Real Property and Federal Immovables Act. Identify: 1) The key issue addressed 2) The decision-making authority 3) A potential remedy",
+        "answers": [
+            "inconsistent transactions relating to the same federal real property or federal immovable due to error",
+            "Governor in Council",
+            "order a new grant of federal real property or a new concession of a federal immovable"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: The Canadian Race Relations Foundation is considering a partnership with a private corporation that has a history of discriminatory hiring practices. Identify the key issue, the decision the Foundation must make, and a relevant precedent that could inform their decision.",
+        "answers": [
+            "Whether partnering with a corporation with a history of discriminatory hiring practices aligns with the Foundation's purpose of eliminating racism and racial discrimination.",
+            "The Foundation must decide whether to proceed with the partnership, potentially compromising its mandate, or to decline, upholding its commitment to anti-discrimination.",
+            "The Canadian Charter of Rights and Freedoms provides that every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: Canada requests information from Mexico regarding a specific taxpayer's operations. Mexico refuses, citing that providing the information would disclose a commercial secret. Identify the key issue, potential decision, and relevant precedent from the provided text.",
+        "answers": [
+            "Whether Mexico is obligated to provide information that would disclose a commercial secret under the Canada-Mexico Tax Information Exchange Convention.",
+            "Mexico may be justified in refusing the request, based on Article 1, paragraph 3(c) of Schedule V.",
+            "Article 1, paragraph 3(c) of Schedule V, which states that assistance is not required if it would disclose a trade, business, industrial, commercial, or professional secret or trade process."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical case: A dealer ships an energy-using product from Ontario to Quebec that does not meet the energy efficiency standard as per the regulations. Identify: 1) Key issue 2) Potential Decision 3) Relevant Precedent (if available within the document)",
+        "answers": [
+            "Violation of interprovincial trade regulations under the Energy Efficiency Act",
+            "Potential fine or other punishment as specified in the Act; requirement to comply with energy efficiency standards",
+            "Previous convictions under Section 27 (Offences and Punishment)"
+        ]
+    },
+    {
+        "task": "Analyze section 7 regarding Excluded Projects. Identify: 1) The key issue addressed in this section 2) The decision made regarding project assessments 3) The legal precedent regarding project exclusions",
+        "answers": [
+            "Exclusion of certain projects from environmental assessment requirements",
+            "An assessment of a project is not required under section 5 or sections 8 to 10.1 where the project meets certain exclusion criteria.",
+            "Projects described in an exclusion list, emergency responses, or projects lacking specified essential details are not required to undergo assessment."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Amendment of pension-related acts and enactment of new legislation on special retirement arrangements and pension benefits division.",
+            "The Act amends several existing acts related to pensions and enacts the Special Retirement Arrangements Act and the Pension Benefits Division Act.",
+            "This Act serves as precedent for pension-related legislation and amendments."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A designated airport authority seizes an aircraft for unpaid landing fees. Identify: 1) The legal issue 2) The decision regarding the aircraft seizure 3) The precedent regarding aircraft seizures for unpaid fees",
+        "answers": [
+            "Unpaid landing fees leading to aircraft seizure",
+            "The designated airport authority may seize and detain aircraft for unpaid fees under certain conditions",
+            "The power of a designated airport authority to seize aircraft for unpaid fees, subject to court order and exemptions."
+        ]
+    },
+    {
+        "task": "Analyze the provided text of the Farm Credit Canada Act and identify the Corporation's purpose.",
+        "answers": [
+            "Enhance rural Canada by providing specialized and personalized business and financial services and products to farming operations including family farms and to those businesses in rural Canada including small and medium sized businesses that are businesses related to farming."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a Canadian company has a permanent establishment in Argentina and sells goods of the same kind in Argentina. Identify: 1) Key issue regarding taxation of profits 2) Decision regarding how much profit can be taxed in Argentina 3) Precedent of Article 7 of the Canada-Argentina Income Tax Convention",
+        "answers": [
+            "Taxation of business profits attributable to a permanent establishment in Argentina",
+            "Argentina may tax the profits attributable to the permanent establishment or sales of similar goods in Argentina",
+            "Article 7 of the Canada-Argentina Income Tax Convention"
+        ]
+    },
+    {
+        "task": "Analyze section 27 of the Budget Implementation Act 1995. Identify the key issue, the decision made, and any relevant precedent.",
+        "answers": [
+            "Payments related to freight assistance",
+            "No payments for goods originating after June 30, 1995, or claims made after September 1, 1995",
+            "Atlantic Region Freight Assistance Act; Maritime Freight Rates Act"
+        ]
+    },
+    {
+        "task": "Analyze the roles and responsibilities outlined in the Department of Industry Act.",
+        "answers": [
+            "Minister of Industry's duties",
+            "Registrar General's obligations",
+            "Deputy Minister's role"
+        ]
+    },
+    {
+        "task": "Analyze the Alternative Fuels Act (SC 1995 c 20) to identify its: 1) Key issue 2) Decision 3) Relevant precedent if any.",
+        "answers": [
+            "Reduction of air pollutants from motor vehicles",
+            "Promote the use of alternative fuels in federal bodies and Crown corporations",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze Section 8 of the CN Commercialization Act regarding restrictions on share ownership. Identify: 1) Key issue 2) Decision 3) Relevant definition",
+        "answers": [
+            "Preventing any one person and their associates from controlling more than 25% of CN's voting shares.",
+            "Imposing constraints on the issue, transfer, and ownership of CN's voting shares.",
+            "Associate"
+        ]
+    },
+    {
+        "task": "A company in Canada is found to be stockpiling a Schedule 1 toxic chemical without authorization. Analyze this situation under the Chemical Weapons Convention Implementation Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "The key issue is the unauthorized possession of a Schedule 1 toxic chemical, violating section 8(1) of the Chemical Weapons Convention Implementation Act.",
+            "The company would likely face charges under section 20 of the Act, potentially leading to fines and/or imprisonment, as well as forfeiture of the chemical.",
+            "This Act itself serves as the primary legal precedent for enforcing the Chemical Weapons Convention in Canada."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where the Business Development Bank of Canada provides a loan to a small business that subsequently defaults. Identify the key issue, the Bank's likely decision, and any relevant precedents from the Business Development Bank of Canada Act.",
+        "answers": [
+            "Small business loan default",
+            "Attempt to recover the assets",
+            "Section on Security, section on Criteria for making loans etc."
+        ]
+    },
+    {
+        "task": "Analyze section 5.1 of the Firearms Act. Identify the key issue related to eligibility for holding a license.",
+        "answers": [
+            "Safety of the individual or others.",
+            "A person is not eligible to hold a licence if it is desirable in the interests of the safety of that or any other person that the person not possess a firearm a crossbow a prohibited weapon a restricted weapon a prohibited device ammunition prohibited ammunition or a cartridge magazine",
+            "N/A"
+        ]
+    },
+    {
+        "task": "A farmer violates a provision of the Feeds Act, which is designated as a violation under the Agriculture and Agri-Food Administrative Monetary Penalties Act. The Minister issues a notice of violation with a penalty of $3,000. The farmer requests a review by the Tribunal. Identify the key issue, the potential decision by the tribunal and any relevant precedent.",
+        "answers": [
+            "Whether the farmer committed the violation of the Feeds Act.",
+            "The Tribunal may confirm, vary, or set aside the Minister's decision or determine whether the farmer committed the violation and correct the penalty amount if necessary.",
+            "Previous decisions by the Tribunal regarding similar violations under the Feeds Act or other agri-food acts."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where an employer is accused of not meeting the requirements of the Employment Equity Act.",
+        "answers": [
+            "Whether the employer has implemented reasonable measures to eliminate employment barriers.",
+            "The decision on whether the employer is in compliance with the Act.",
+            "The principles of reasonable accommodation and undue hardship."
+        ]
+    },
+    {
+        "task": "Analyze section 17 of the Canadian Association of Former Parliamentarians Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Use of income revenue and profits",
+            "Any profits or accretions to the value of property of the Association shall be used to further the activities of the Association and no part of the property or profits of the Association may be distributed directly or indirectly to any member of the Association",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze the scenario where a dispute arises between a province and the federal government regarding obligations under the Agreement on Internal Trade. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Dispute over obligations under the Agreement on Internal Trade.",
+            "Order of the Federal Court or Governor in Council to resolve the dispute.",
+            "The Agreement on Internal Trade Implementation Act and related orders set the precedent for resolving internal trade disputes."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A person is found to be in possession of a substance listed in Schedule I of the Controlled Drugs and Substances Act. They claim they had no knowledge of the substance being illegal and that it was for personal use only. Identify: 1) Key issue 2) Potential decision 3) Relevant precedent regarding the burden of proof.",
+        "answers": [
+            "Whether the person's lack of knowledge and intent negate the charge of possession under the Controlled Drugs and Substances Act.",
+            "The court will need to determine if the Crown has proven beyond a reasonable doubt that the person had knowledge and control of the substance.",
+            "Cases related to the burden of proving mens rea (guilty mind) in possession offences related to controlled substances."
+        ]
+    },
+    {
+        "task": "Based on the text of the Agricultural Marketing Programs Act, identify the Key Issue, Decision, and relevant Precedent related to eligibility for guaranteed advances for agricultural producers.",
+        "answers": [
+            "Eligibility requirements for guaranteed advances to agricultural producers under the Agricultural Marketing Programs Act.",
+            "Eligible producers must meet specific criteria related to ownership, age, solvency, and quality of the agricultural product.",
+            "The Act itself serves as the precedent, outlining the criteria and conditions for eligibility."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a secured creditor initiates proceedings against a farmer without providing the required written notice under the Farm Debt Mediation Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the secured creditor's actions are valid without providing the required notice.",
+            "The creditor's actions are null and void.",
+            "Section 22(1) of the Farm Debt Mediation Act."
+        ]
+    },
+    {
+        "task": "Analyze the role of the auditor of the foundation. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Ensuring financial accountability and compliance.",
+            "The members at their first meeting in each fiscal year shall appoint an auditor for the foundation for the fiscal year and fix or authorize the board to fix the auditor\u2019s remuneration",
+            "Qualifications of the auditor are detailed in the act"
+        ]
+    },
+    {
+        "task": "Based on the text of the Canadian Peacekeeping Service Medal Act, identify the following:\n1) The key issue addressed by the Act.\n2) The decision made by Parliament regarding the medal.\n3) Whether the Act establishes a precedent (yes/no and explain briefly).",
+        "answers": [
+            "Establishment and award of a Canadian Peacekeeping Service Medal",
+            "The Medal shall be awarded to qualified Canadian citizens who served with an international peacekeeping mission",
+            "yes, establishes a process and criteria for awarding the medal."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A company exports anti-personnel mines without authorization under the Export and Import Permits Act.",
+        "answers": [
+            "Issue: Illegal export of anti-personnel mines.",
+            "Decision: The company has violated section 6(2) of the Anti-Personnel Mines Convention Implementation Act.",
+            "Precedent: Any previous case law interpreting section 6(2) of the Act."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where the Canadian Food Inspection Agency issues a recall order for a specific food product. Identify: 1) The key issue 2) The decision made by the agency 3) The relevant precedent in the Act",
+        "answers": [
+            "Potential risk to public, animal, or plant health due to a regulated product.",
+            "The Minister issues a recall order for the product.",
+            "Section 19 of the Canadian Food Inspection Agency Act outlines the recall powers of the Minister."
+        ]
+    },
+    {
+        "task": "Analyze the hypothetical case: A clearing house fails to enforce payment on a depository bill. Identify: 1) Key issue 2) Decision 3) Precedent (if any, based on the provided text)",
+        "answers": [
+            "Whether a participant can bring an action in the name of the clearing house if the clearing house fails to enforce payment.",
+            "A participant may bring an action in the name of the clearing house.",
+            "Subsection 18(3) of the Depository Bills and Notes Act."
+        ]
+    },
+    {
+        "task": "A surveyor is accused of professional misconduct. Identify the key issue that the Complaints Committee must address, the potential decision, and the relevant precedent according to the Canada Lands Surveyors Act.",
+        "answers": [
+            "Whether the surveyor committed professional misconduct or is incompetent.",
+            "Recommend to the Council that the complaint be dismissed or be heard by the Discipline Committee.",
+            "Previous decisions made by the Discipline Committee on similar cases."
+        ]
+    },
+    {
+        "task": "Based on the provided text regarding Amendments to this statute since 2001, identify the following: 1) Key issue of SC 2020 c 11 2) The year Bill C-20 was assented to 3) The name of Bill S-3",
+        "answers": [
+            "COVID-19 measures",
+            "2020",
+            "Federal Law Civil Law Harmonization Act, No. 3"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A person carries out a chemical explosion using 500 tonnes of TNT equivalent blasting material. Identify the key issue, the decision, and the relevant precedent.",
+        "answers": [
+            "Failure to notify the National Authority of a chemical explosion.",
+            "The person is guilty of an offence punishable on summary conviction if they have not provided the required notice.",
+            "Section 8 of the Comprehensive Nuclear Test Ban Treaty Implementation Act."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where a Canadian company provides a 'benefit' to a foreign official.  Identify: 1) Key issue: Whether the benefit constitutes bribery under the Act. 2) Decision: Based on the act, what factors determine guilt or innocence? 3) Precedent:  What is the underlying principle the act is based upon?",
+        "answers": [
+            "Whether the benefit constitutes bribery under the Act",
+            "Whether the loan, reward, advantage or benefit a is permitted or required under the laws of the foreign state or public international organization for which the foreign public official performs duties or functions or b was made to pay the reasonable expenses incurred in good faith",
+            "Combating Bribery of Foreign Public Officials in International Business Transactions"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A small business in Quebec requires financing. Identify the key issue, relevant decision based on the provided text, and any applicable precedent.",
+        "answers": [
+            "Access to financing for a small business in Quebec.",
+            "Order Designating the Minister of Industry for the purposes of the Act Order Repealing Order in Council P C 1999 472 and SI 2013 114 Minister of Industry for the Purposes of the Act as the Minister in Relation to Small Businesses in Quebec",
+            "Small Business Loans Act"
+        ]
+    },
+    {
+        "task": "Analyze section 25 of the Canada Yukon Oil and Gas Accord Implementation Act regarding indemnification. Identify: 1) Which government indemnifies which, 2) What is the scope of indemnification, 3) What is the exception to indemnification.",
+        "answers": [
+            "Yukon indemnifies Canada for Yukon's acts/omissions after the transfer date; Canada indemnifies Yukon for Canada's acts/omissions before the transfer date.",
+            "Damages arising out of the operation of oil and gas laws.",
+            "Settlement of a claim, action, or proceeding without the approval of the other government."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical extradition case within Canada, focusing on the extradition of a Canadian citizen to a foreign country for a crime committed abroad. Identify: 1) Key issue: Whether the Canadian citizen's rights are adequately protected under the Extradition Act; 2) Decision: A judge's decision to either commit the person for extradition or discharge them; 3) Precedent: Relevant sections of the Extradition Act and previous case law that would influence the decision.",
+        "answers": [
+            "Adequacy of rights protection under the Extradition Act",
+            "Commit or discharge the person",
+            "Extradition Act sections and previous case law"
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where a valuable artifact is damaged during a travelling exhibition in Canada that is indemnified under the Canada Travelling Exhibitions Indemnification Act.  Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Liability for damage to the artifact under the indemnification agreement.",
+            "Determination of the amount of indemnification based on the agreement and fair market value.",
+            "The Canada Travelling Exhibitions Indemnification Act and relevant regulations regarding claims and payment."
+        ]
+    },
+    {
+        "task": "Analyze the provisions related to First Nations Sales Tax within the Budget Implementation Act 2000: 1) Identify the key issue addressed by these provisions, 2) Summarize the decision made regarding First Nations' ability to impose taxes, and 3) Identify the relevant precedent or legislation that these provisions interact with.",
+        "answers": [
+            "The ability of First Nations to levy taxes on reserves.",
+            "Allows First Nations to create by-laws to impose direct taxes on alcohol, fuel, and tobacco on reserves, with certain conditions.",
+            "Section 87 of the Indian Act and the Excise Tax Act."
+        ]
+    },
+    {
+        "task": "A military commander fails to prevent a person under their command from committing a war crime, and did not take reasonable measures to submit the matter for investigation. 1) What is the key legal issue? 2) What is the decision according to the Act? 3) What precedent does this set related to the responsibilities of military commanders?",
+        "answers": [
+            "Breach of responsibility by a military commander",
+            "The military commander commits an indictable offence and is liable to imprisonment for life.",
+            "Military commanders are responsible for the actions of their subordinates and must take reasonable measures to prevent and report war crimes."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical situation where the Canadian Tourism Commission enters into an agreement with a provincial government to incorporate a tourism-related corporation. Identify: 1) Key issue concerning the scope of the corporation's activities 2) Decision required from the Commission 3) Relevant precedent from the Canadian Tourism Commission Act",
+        "answers": [
+            "Whether the corporation's activities are consistent with the objects of the Commission, considering the restriction on real property acquisition",
+            "The Commission must obtain the approval of the Governor in Council to incorporate the corporation or acquire shares in it",
+            "Subsection 26(3) of the Canadian Tourism Commission Act, which states that a corporation may carry out only activities that are consistent with the objects of the Commission."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company wants to build a new resort within a national park. Identify: 1) The key legal issue related to land disposition and use 2) The relevant section of the Canada National Parks Act that governs this issue 3) A possible legal outcome based on the Act's provisions.",
+        "answers": [
+            "Disposition and use of public lands within a national park without proper authorization.",
+            "Section 13 of the Canada National Parks Act",
+            "The company will likely be prevented from building the resort if it does not comply with the Act and regulations, potentially requiring the company to obtain the necessary permits or face legal action."
+        ]
+    },
+    {
+        "task": "Analyze the provided text from the Canada Elections Act regarding election officer qualifications. Identify: 1) The key issue regarding qualifications; 2) The decision on who can be an election officer; and 3) Any precedent set regarding age.",
+        "answers": [
+            "Qualifications of election officers",
+            "Defines who can and cannot be appointed as election officers.",
+            "Establishes that individuals younger than 18 can be election officers."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where the Minister and the Minister of National Revenue sign a certificate stating that a registered charity is making resources available to an entity engaged in terrorist activities. Identify: 1) The key issue 2) The initial decision based on the Act 3) The precedent set by similar cases (if any, based on the provided text)",
+        "answers": [
+            "Whether the registered charity is providing resources to an entity engaged in terrorist activities.",
+            "The Minister and the Minister of National Revenue sign a certificate.",
+            "The text does not provide precedents."
+        ]
+    },
+    {
+        "task": "Analyze the scenario where a court finds that Her Majesty in right of Canada does not have clear title to lands within a marine conservation area. Identify the 1) Key issue 2) Decision 3) Precedent based on the text.",
+        "answers": [
+            "Lack of clear title to lands within the conservation area",
+            "Governor in Council may amend Schedule 1 to remove or alter the description of the area",
+            "This situation sets a precedent for adjusting conservation area boundaries when land ownership is disputed"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company is accused of unlawfully packaging tobacco. Identify: 1) Key issue 2) Potential Decision 3) Relevant Precedent (if any from the listed amendments)",
+        "answers": [
+            "Whether the packaging of tobacco was unlawful under the Excise Act 2001",
+            "Guilty or not guilty based on evidence and interpretation of section 27",
+            "Review relevant cases involving packaging regulations of tobacco products, if available in provided texts."
+        ]
+    },
+    {
+        "task": "Analyze the scenario where a Canadian company earns profits in Kuwait through a permanent establishment. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Taxation of business profits in a foreign country",
+            "The profits attributable to the permanent establishment can be taxed in Kuwait, as per Article 7.",
+            "Article 7 of the Canada-Kuwait Tax Agreement"
+        ]
+    },
+    {
+        "task": "Analyze the application of Article 5 (Permanent Establishment): Company A, resident in Canada, uses a storage facility in Mongolia only to store goods.  Does this constitute a permanent establishment? 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether using a storage facility constitutes a permanent establishment",
+            "No, according to Article 5(4)(a) the use of facilities solely for storage does not constitute a permanent establishment",
+            "Article 5 of the Canada-Mongolia Tax Convention"
+        ]
+    },
+    {
+        "task": "Analyze Article 5 regarding Permanent Establishment: Identify 1) the general definition of a permanent establishment, 2) an example of an activity that would not be considered a permanent establishment, and 3) an example of an activity that would be considered a permanent establishment.",
+        "answers": [
+            "Fixed place of business through which the business of an enterprise is wholly or partly carried on.",
+            "The use of facilities solely for the purpose of storage, display, or delivery of goods or merchandise belonging to the enterprise.",
+            "A place of management, a branch, an office, a factory, a workshop, a mine, an oil or gas well, a quarry, or any other place relating to the exploration for or the exploitation of natural resources"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a Canadian resident earns income from immovable property in Moldova. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Taxation of income from immovable property located in a different contracting state.",
+            "According to Article 6, the income may be taxed in Moldova where the property is situated.",
+            "Article 6 of the Canada-Moldova Tax Convention."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: An inspector finds rough diamonds in a container without a Kimberley Process Certificate during an inspection. Identify: 1) Key issue 2) Relevant section of the Export and Import of Rough Diamonds Act 3) Possible action by the investigator",
+        "answers": [
+            "Lack of Kimberley Process Certificate for rough diamonds",
+            "Section 17(1) of the Export and Import of Rough Diamonds Act",
+            "Seizure of in transit rough diamonds"
+        ]
+    },
+    {
+        "task": "Analyze Section 5(1): Identify the key issue, the decision made, and any precedent.",
+        "answers": [
+            "Setting aside lands as a reserve.",
+            "The Minister may set apart lands as a reserve in accordance with an agreement.",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Based on the text, identify the Act's impact on court administration.",
+        "answers": [
+            "Coordination and cooperation among federal courts",
+            "Enhanced judicial independence",
+            "Accountability for public money used in court administration"
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "The Act establishes the Canadian Air Transport Security Authority (CATSA).",
+            "CATSA is established as a body corporate and an agent of Her Majesty.",
+            "N/A (This is a statute, not a case)"
+        ]
+    },
+    {
+        "task": "Based on the text of the Canada Strategic Infrastructure Fund Act, identify the key elements:",
+        "answers": [
+            "Establishment of a program for strategic infrastructure projects",
+            "Provision of contributions to eligible recipients for large-scale infrastructure projects.",
+            "Definitions of eligible project, Minister and strategic infrastructure"
+        ]
+    },
+    {
+        "task": "Analyze the provided text of the Budget Implementation Act, 2001. Identify the Key issue, Decision and Precedent.",
+        "answers": [
+            "Implementation of budget provisions.",
+            "Enactment of various Acts and amendments related to air transport security, air security charges, employment insurance, income tax, Canada Fund for Africa, and Canada Strategic Infrastructure Fund.",
+            "Not applicable, as this is legislation and not a court case."
+        ]
+    },
+    {
+        "task": "N/A",
+        "answers": []
+    },
+    {
+        "task": "Based on the Act, analyze a scenario where a Canadian citizen damages an historic site in Antarctica without a permit. Identify the key issue, potential decision, and relevant precedent from the Act.",
+        "answers": [
+            "Key Issue: Violation of section 16 of the Antarctic Environmental Protection Act concerning damage to historic sites or monuments.",
+            "Decision: The Canadian citizen could face charges under the Act, potentially leading to fines or other penalties outlined in sections 50-52. Depending on the severity of the damage, forfeiture of equipment used in the commission of the offense could also be considered (sections 40-44).",
+            "Precedent: Section 16 of the Act directly prohibits damage, destruction or removal of any part of an historic site or monument in the Antarctic designated by the regulations. Sections 50 outlines penalties. Sections 40-44 Forfeiture in Canada."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A group of employees believe their current bargaining unit structure is inefficient due to overlapping roles and responsibilities. They want to consolidate into a larger, more comprehensive unit.  Using the provided text, identify: 1) Key issue 2) Decision 3) Relevant section to guide your decision",
+        "answers": [
+            "Restructuring of bargaining units for efficiency.",
+            "The Board will review the structure of bargaining units.",
+            "Section 70 - Review of Bargaining Units"
+        ]
+    },
+    {
+        "task": "Based on the text of the Act, identify the key issue that led to the creation of this legislation, the decision made by Parliament, and any precedent mentioned in the text.",
+        "answers": [
+            "Amalgamation of two financial advisor associations",
+            "Parliament enacted The Financial Advisors Association of Canada Act",
+            "Canada Corporations Act, Statutes of Canada 1924 c 104"
+        ]
+    },
+    {
+        "task": "Based on the provided text, identify the key components related to Canada Education Savings Act",
+        "answers": [
+            "Financial assistance for post-secondary education",
+            "Canada Education Savings Act encourages savings through registered education savings plans",
+            "Income Tax Act"
+        ]
+    },
+    {
+        "task": "Based on the provided text of the Department of Public Safety and Emergency Preparedness Act, identify the key issue that the Act addresses.",
+        "answers": [
+            "Establishment of the Department of Public Safety and Emergency Preparedness",
+            "Creating a department and defining the powers, duties, and functions of the Minister related to public safety and emergency preparedness",
+            "The Act itself is establishing legislation so there is no applicable precedent"
+        ]
+    },
+    {
+        "task": "Analyze Article 5 regarding Permanent Establishment. Identify: 1) Key issue related to determining a permanent establishment 2) The decision regarding activities considered outside of permanent establishment. 3) The precedent regarding brokers acting in the ordinary course of their business.",
+        "answers": [
+            "Determining whether a fixed place of business constitutes a permanent establishment.",
+            "Activities such as storage, display, purchasing goods, collecting information, or preparatory/auxiliary activities do not automatically constitute a permanent establishment.",
+            "An enterprise is not deemed to have a permanent establishment merely because it carries on business through a broker, general commission agent, or any other agent of an independent status, provided they are acting in the ordinary course of their business."
+        ]
+    },
+    {
+        "task": "Analyze Article 5 concerning 'Permanent Establishment' and identify the key criteria for determining if a 'building site or construction or installation project' constitutes a permanent establishment.",
+        "answers": [
+            "The key issue is determining under what conditions a building site or construction project is considered a permanent establishment.",
+            "The decision is that a building site or construction or installation project constitutes a permanent establishment only if it lasts more than twelve months.",
+            "The precedent is that the duration of the project is the determining factor."
+        ]
+    },
+    {
+        "task": "Analyze Article 5 of the Canada-Armenia Tax Convention concerning Permanent Establishment. Identify the key issue addressed in the article.",
+        "answers": [
+            "Determining when a business is considered to have a permanent establishment in a contracting state."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company resident in Canada earns profits from a permanent establishment in Oman. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Taxation of profits earned by a Canadian company in Oman through a permanent establishment.",
+            "The profits attributable to the permanent establishment in Oman may be taxed in Oman.",
+            "Article 7 of the Canada-Oman Tax Agreement regarding business profits and permanent establishments."
+        ]
+    },
+    {
+        "task": "Analyze Article 5 of the Canada-Finland Tax Convention concerning Permanent Establishment. Identify: 1) The general definition of 'permanent establishment' 2) Examples of what a 'permanent establishment' includes 3) An exception to the 'permanent establishment' definition",
+        "answers": [
+            "A fixed place of business through which the business of an enterprise is wholly or partly carried on",
+            "A place of management, a branch, an office, a factory, a workshop, and a mine, an oil or gas well, a quarry or any other place relating to the exploration for or the exploitation of natural resources",
+            "The use of facilities solely for the purpose of storage, display, or delivery of goods or merchandise belonging to the enterprise"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a Canadian resident earns income from immovable property located in Mexico. Identify the key issue, the relevant decision based on the Convention, and the precedent set by the Convention.",
+        "answers": [
+            "Taxation of income from immovable property",
+            "Mexico may tax the income from immovable property located within its borders.",
+            "Article 6 of the Canada-Mexico Tax Convention"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A public office holder uses information obtained in their official capacity, which is not available to the public, to invest in a private company owned by a relative. Identify the key issue, decision, and any relevant precedent based on the Conflict of Interest Act.",
+        "answers": [
+            "Use of insider information for personal gain.",
+            "The public office holder violated the Conflict of Interest Act by using non-public information for private interests.",
+            "Section 8 of the Conflict of Interest Act, which prohibits the use of insider information."
+        ]
+    },
+    {
+        "task": "Analyze the implications of Section 4 of the Bank for International Settlements Immunity Act, focusing on potential conflicts between national security concerns and the Bank's immunity.",
+        "answers": [
+            "The key issue is the potential conflict between the immunity granted to the Bank for International Settlements and Canada's national security or international obligations.",
+            "The Governor in Council can determine that the Bank's property is not exempt under section 2.",
+            "The precedent is the ability to determine the extent to which the Bank its property and any property entrusted to it are not exempt under section 2."
+        ]
+    },
+    {
+        "task": "Based on the provided text of the Federal Sustainable Development Act, identify the following:\n1) Key issue addressed by the Act\n2) The primary decision or action mandated by the Act\n3) A fundamental principle guiding the Act",
+        "answers": [
+            "Establishing a legal framework for sustainable development in Canada.",
+            "Requiring the development and implementation of a Federal Sustainable Development Strategy.",
+            "The principle of intergenerational equity."
+        ]
+    },
+    {
+        "task": "Based on the text, identify the key components related to affiliated bodies corporate.",
+        "answers": [
+            "One body corporate is the affiliate of another body corporate if one of them is the subsidiary of the other or both are subsidiaries of the same body corporate or each of them is controlled by the same person",
+            "Affiliated bodies corporate",
+            "Definitions of affiliated bodies corporate within the Act."
+        ]
+    },
+    {
+        "task": "Analyze the Celebrating Canada's Seniors Act: Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Acknowledgement of seniors' contributions to Canadian society and economy",
+            "Establishment of National Seniors Day on October 1",
+            "This act sets a symbolic precedent for recognizing specific groups through designated days, but does not create legally binding obligations."
+        ]
+    },
+    {
+        "task": "Analyze Article 5 (Permanent Establishment) and identify: 1) the primary issue the article addresses, 2) the decision made regarding what constitutes a permanent establishment, and 3) a precedent set by defining 'permanent establishment'.",
+        "answers": [
+            "Determining when a business operating in one country has a taxable presence in another",
+            "A fixed place of business through which the business of an enterprise is wholly or partly carried on",
+            "Defining the conditions under which a fixed place of business is not considered a permanent establishment (e.g., storage, display)"
+        ]
+    },
+    {
+        "task": "Analyze Article 5 of the Canada-Greece Tax Convention Act and identify the following: 1) Key issue regarding permanent establishment 2) Decision rule for determining permanent establishment 3) Precedent regarding activities of preparatory or auxiliary character",
+        "answers": [
+            "Determining whether a fixed place of business constitutes a permanent establishment.",
+            "A fixed place of business is considered a permanent establishment if it is used for more than storage, display, or delivery of goods.",
+            "Maintaining a fixed place of business solely for activities of a preparatory or auxiliary character does not constitute a permanent establishment."
+        ]
+    },
+    {
+        "task": "Analyze Article 5 of the Canada-Turkey Tax Convention regarding Permanent Establishment. Identify: 1) Key issue regarding determining permanent establishment 2) Decision rule 3) Precedent (if any)",
+        "answers": [
+            "Determining whether a fixed place of business constitutes a permanent establishment.",
+            "A fixed place of business through which the business of an enterprise is wholly or partly carried on constitutes a permanent establishment, subject to specific exceptions outlined in paragraph 4.",
+            "Not applicable"
+        ]
+    },
+    {
+        "task": "A dispute arises concerning the interpretation of a provision within the Eeyou Marine Region Land Claims Agreement. According to section 10, what steps must a party take before the issue is decided in a judicial proceeding? Identify: 1) Key issue 2) Required action 3) Parties to be notified",
+        "answers": [
+            "Interpretation of the Eeyou Marine Region Land Claims Agreement",
+            "Serve notice on the Attorney General of Canada and the Grand Council of the Crees",
+            "Attorney General of Canada and the Grand Council of the Crees"
+        ]
+    },
+    {
+        "task": "Based on section 7, identify the key issue, the decision and what the precedent is.",
+        "answers": [
+            "Can a federal authority exercise power that could permit a designated project to be carried out without an environmental assessment or a decision statement?",
+            "A federal authority must not exercise any power or perform any duty or function conferred on it under any Act of Parliament other than this Act that could permit a designated project to be carried out in whole or in part unless a the Agency makes a decision under paragraph 10 b that no environmental assessment of the designated project is required and posts that decision on the Internet site or b the decision statement with respect to the designated project that is issued under subsection 31 3 or section 54 to the proponent of the designated project indicates that the designated project is not likely to cause significant adverse environmental effects or that the significant adverse environmental effects that it is likely to cause are justified in the circumstances",
+            "The need for environmental assessment before a project can be permitted by a federal authority"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a spouse disposes of the family home without the consent of the other spouse, as outlined in section 15 of the Family Homes on Reserves and Matrimonial Interests or Rights Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Disposition of family home without consent",
+            "Court may set aside the transaction unless the other contracting party acquired it for value and acted in good faith",
+            "Ensuring protection of spousal rights regarding family home"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a Canadian resident earns income from immovable property in Namibia. Identify: 1) Key issue 2) Decision 3) Relevant Article",
+        "answers": [
+            "Taxation of income from immovable property.",
+            "The income may be taxed in Namibia.",
+            "Article 6"
+        ]
+    },
+    {
+        "task": "Analyze Article 5 on Permanent Establishment and identify: 1) Key issue 2) Definition 3) Exception",
+        "answers": [
+            "Determining when a business has a taxable presence in the other contracting state.",
+            "A fixed place of business through which the business of an enterprise is wholly or partly carried on.",
+            "The use of facilities solely for storage, display, or delivery of goods belonging to the enterprise."
+        ]
+    },
+    {
+        "task": "Analyze the following scenario under the Canada-Poland Tax Convention: A Canadian resident earns income from immovable property situated in Poland. Identify: 1) Which state can tax the income? 2) Which article applies? 3) Define immovable property according to article 6",
+        "answers": [
+            "Poland may tax the income",
+            "Article 6",
+            "Property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property, and rights to variable or fixed payments as consideration for the working of or the right to work mineral deposits, sources and other natural resources."
+        ]
+    },
+    {
+        "task": "Analyze Article 5 of the Canada-Hong Kong Tax Agreement concerning Permanent Establishment. Identify: 1) The core definition of a permanent establishment. 2) Examples of what constitutes a permanent establishment. 3) Exceptions where a fixed place of business is NOT considered a permanent establishment.",
+        "answers": [
+            "A fixed place of business through which the business of an enterprise is wholly or partly carried on.",
+            "Place of management, branch, office, factory, workshop, mine, oil or gas well, quarry.",
+            "Use of facilities for storage, display, or delivery; maintaining a stock of goods for storage, display, or delivery; purchasing goods or collecting information."
+        ]
+    },
+    {
+        "task": "Analyze Division 13 concerning Ridley Terminals Inc. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Reorganization and divestiture of Ridley Terminals Inc's business to obtain the best value for the business from a buyer who will operate the business on a long term and sustainable basis and with open access to its services.",
+            "The Minister of Transport, with the approval of the Governor in Council, is authorized to take measures for the reorganization and divestiture of Ridley Terminals Inc.",
+            "This division authorizes specific actions regarding Ridley Terminals Inc, setting a precedent for government intervention in the divestiture of specific entities."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where the Board makes a decision that is challenged in court.  1) Identify the key issue regarding the court's ability to review the decision. 2) State the likely decision of the court based on the Act. 3) Identify the relevant section of the Federal Courts Act that would be cited as precedent.",
+        "answers": [
+            "Whether the court can review the Board's decision",
+            "The court's review is limited to grounds specified in the Federal Courts Act",
+            "Federal Courts Act paragraph 18 1 4 a b or e"
+        ]
+    },
+    {
+        "task": "Analyze section 241 regarding Dominion Coal Blocks: 1) Identify the key legal issue addressed. 2) What is the decision made? 3) What legal precedent is referenced (if any)?",
+        "answers": [
+            "Whether the Crow's Nest Pass Act limits the power of Her Majesty to deal with the Dominion Coal Blocks.",
+            "The Act clarifies that the Crow's Nest Pass Act does not limit the power of Her Majesty to hold, dispose of, or otherwise deal with the Dominion Coal Blocks.",
+            "Crow's Nest Pass Act"
+        ]
+    },
+    {
+        "task": "Analyze the Administrative Tribunals Support Service of Canada Act: 1) Identify the key issue the act addresses. 2) State the primary decision made by the act. 3) Note any specific precedent established by the act regarding administrative tribunal support.",
+        "answers": [
+            "Provision of support services to administrative tribunals",
+            "Establishment of the Administrative Tribunals Support Service of Canada",
+            "No specific precedent is directly established in the act text; it primarily defines the structure and function of the support service."
+        ]
+    },
+    {
+        "task": "Regarding payments to Veterans Affairs: Identify 1) the issue addressed by sections 102-105, 2) the decision made regarding these payments, and 3) the relevant Acts involved.",
+        "answers": [
+            "Adjustments to benefits for veterans to account for disability pensions.",
+            "An amount is determined based on a formula to compensate for the disability pension.",
+            "Veterans Well-being Act, Pension Act, War Veterans Allowance Act, Civilian War-related Benefits Act."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent regarding causes of action related to the Agreement without the consent of the Attorney General of Canada.",
+        "answers": [
+            "Whether a person can bring a cause of action under the Agreement without the Attorney General's consent.",
+            "No person has any cause of action and no proceedings of any kind are to be taken without the consent of the Attorney General of Canada to enforce or determine any right or obligation that is claimed or arises solely under or by virtue of the Agreement",
+            "This section may establish a precedent requiring consent from the Attorney General of Canada before legal proceedings can occur related to the trade agreement."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Lack of a comprehensive national framework for Lyme disease prevention, identification, treatment, and management.",
+            "Enactment of the Federal Framework on Lyme Disease Act to establish such a framework.",
+            "This is an Act, not a case, so precedent is not applicable in the traditional sense. However, this Act may serve as a precedent for future health-related federal frameworks."
+        ]
+    },
+    {
+        "task": "Analyze Section 6 (1) of the Canadian High Arctic Research Station Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Defining the functions of CHARS.",
+            "CHARS is to undertake scientific research, develop technology, and promote the dissemination of studies, reports, and other documents.",
+            "This section establishes the specific functions CHARS must undertake, setting a legal basis for its operations."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: An entity fails to provide the Minister with a report as required by Section 9 of the Extractive Sector Transparency Measures Act.",
+        "answers": [
+            "Non-compliance with reporting obligations under the Extractive Sector Transparency Measures Act.",
+            "The entity is guilty of an offence punishable on summary conviction and liable to a fine of not more than $250,000.",
+            "The Act itself establishes the precedent for penalties related to non-compliance."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A promoter charges a fee for a disability tax credit request that exceeds the maximum fee allowed by regulations. The promoter is not a prescribed exempt promoter and does not notify the Minister.",
+        "answers": [
+            "The key issue is whether the promoter violated the fee restrictions and reporting requirements under the Disability Tax Credit Promoters Restrictions Act.",
+            "The promoter is in violation of sections 3 and 4 of the Act.",
+            "The relevant precedent would be any cases interpreting the scope and application of these sections, particularly regarding fee limits and reporting obligations."
+        ]
+    },
+    {
+        "task": "Analyze the application of Section 22 of the Canadian Victims Bill of Rights regarding inconsistencies with other legislation. Identify: 1) Which Acts take precedence over the CVBR, 2) The general rule regarding inconsistencies, and 3) Rationale behind the exceptions.",
+        "answers": [
+            "The Canadian Bill of Rights, the Canadian Human Rights Act, the Official Languages Act, the Access to Information Act, and the Privacy Act.",
+            "If there is any inconsistency between any provision of this Act and any provision of any Act order rule or regulation referred to in section 21 the provision of this Act prevails to the extent of the inconsistency",
+            "Safeguarding fundamental rights and freedoms, ensuring access to information and privacy, and upholding official languages equality."
+        ]
+    },
+    {
+        "task": "Analyze section 18 of the D\u00e9line Final Self Government Agreement Act regarding Notice of issues arising. Identify: 1) Key issue addressed 2) Required action 3) Involved parties",
+        "answers": [
+            "Interpretation, validity, or applicability of the D\u00e9line Agreement, this Act, related legislation, or D\u00e9line law",
+            "Serving notice to the Attorney General of Canada, the Attorney General of the Northwest Territories, and the D\u00e9line Got ine Government",
+            "Judicial or administrative proceeding party, Attorney General of Canada, Attorney General of the Northwest Territories, and the D\u00e9line Got ine Government"
+        ]
+    },
+    {
+        "task": "A company resident in Canada has a permanent establishment in Israel. Identify the key issue related to taxation of business profits according to Article 7 of the Canada-Israel Tax Convention.",
+        "answers": [
+            "Where the profits are taxable: only in Canada or also in Israel.",
+            "The profits attributable to the permanent establishment may be taxed in Israel.",
+            "Article 7 defines how to determine the profits attributable to the permanent establishment."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company resident in Canada has a permanent establishment in Taiwan. Identify the key issue, potential decision related to taxation, and relevant precedent based on the Canada and Taiwan Territories Tax Arrangement Act.",
+        "answers": [
+            "Taxation of profits attributable to the permanent establishment",
+            "Profits may be taxed in Taiwan, but only so much as is attributable to the permanent establishment",
+            "Section 7 of the Canada and Taiwan Territories Tax Arrangement Act"
+        ]
+    },
+    {
+        "task": "Analyze the implications of Section 28(1) of the Canada Infrastructure Bank Act regarding privileged information.  Identify the key issue related to information disclosure, the decision made by the Act, and any potential precedent this section sets.",
+        "answers": [
+            "Protection of sensitive information related to infrastructure project proponents and investors.",
+            "The Act prohibits directors, officers, employees, agents, mandataries, advisers, or consultants from knowingly disclosing privileged information.",
+            "Establishes a precedent for protecting sensitive business information in the context of public-private partnerships for infrastructure projects."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical case of an individual applying for expungement under this Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the applicant meets the eligibility criteria for expungement based on the nature of the offence and the evidence provided.",
+            "The Parole Board of Canada's decision to grant or refuse the expungement order based on the review of the application and evidence.",
+            "The Act itself serves as the precedent, establishing the procedure and criteria for expungement of historically unjust convictions."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where an individual is found to be distributing cannabis without authorization, and a defence is presented that the individual believed the recipient was of legal age.  Identify the relevant sections of the Cannabis Act.",
+        "answers": [
+            "Distribution without authorization, belief about recipient's age",
+            "Guilty, unless reasonable steps were taken to ascertain the individual's age",
+            "Section 9(1)(a)(ii) and 9(3) of the Cannabis Act"
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where a provincial law conflicts with a Cree law. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Conflict between provincial law and Cree law",
+            "Resolution based on the Cree Nation of Eeyou Istchee Governance Agreement Act and relevant precedence",
+            "Relevant precedence from previous court decision"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A provincial child and family services apprehends an Indigenous child solely based on the family's poverty. What is the key issue according to this Act, what would be the likely decision, and what precedent does this Act set?",
+        "answers": [
+            "Apprehension solely based on socio-economic conditions",
+            "Apprehension is likely deemed inappropriate unless other factors indicate a risk to the child's safety.",
+            "Prioritizes preventive care and consideration of Indigenous customs and traditions in child and family services decisions."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the College of Immigration and Citizenship Consultants can regulate immigration and citizenship consultants in the public interest and protect the public.",
+            "The College has the power to regulate immigration and citizenship consultants in the public interest and protect the public.",
+            "This Act sets the precedent for the powers and limitations of the College of Immigration and Citizenship Consultants."
+        ]
+    },
+    {
+        "task": "Analyze the Department of Crown Indigenous Relations and Northern Affairs Act regarding its mandate concerning Indigenous rights. Identify: 1) The key issue the Act addresses; 2) The decision made by the Act; 3) The legal precedent it potentially sets.",
+        "answers": [
+            "Reconciliation with Indigenous peoples and implementation of their rights.",
+            "Establishment of the Department of Crown Indigenous Relations and Northern Affairs to manage relations with Indigenous peoples and the Canadian North.",
+            "A framework for future legislation and agreements related to Indigenous rights and Crown-Indigenous relations."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a contractor is not fully paid within the stipulated time frame.  Identify the key issue, the decision an adjudicator would likely make, and any potential precedent.",
+        "answers": [
+            "Non-payment for construction work within the statutory timeframe.",
+            "The adjudicator will determine the validity of the non-payment and order payment if deemed appropriate.",
+            "The determination sets a precedent for similar disputes under the Act, influencing future adjudications and court decisions."
+        ]
+    },
+    {
+        "task": "Analyze section 47 of the Budget Implementation Act 2019 No 1. Identify: 1) Key issue 2) Decision",
+        "answers": [
+            "Non-application of subsection 114(2) of the Canada Pension Plan to amendments in sections 45 and 46 of the Act",
+            "Sections 45 and 46 come into force in accordance with subsection 114(4) of the Canada Pension Plan on a day to be fixed by order of the Governor in Council"
+        ]
+    },
+    {
+        "task": "Analyze the eligibility requirements for the Canada Recovery Benefit (CRB) as outlined in section 3(1) of the Canada Recovery Benefits Act. Identify: 1) The key issue the section addresses, 2) The decision the section makes about eligibility, and 3) Any precedents the section establishes for future claims.",
+        "answers": [
+            "Eligibility for Canada Recovery Benefit",
+            "Sets out specific criteria for eligibility including income requirements, residency, age, and reasons for reduced work",
+            "Establishes a set of conditions to determine who is eligible to receive the Canada Recovery Benefit"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A student receives an overpayment of the Canada Emergency Student Benefit. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Recovery of overpayment of the Canada Emergency Student Benefit",
+            "The student must repay the amount of the overpayment as soon as feasible",
+            "The amount of overpayment constitutes a debt due to Her Majesty and may be recovered by the Minister"
+        ]
+    },
+    {
+        "task": "Analyze section 9(1): 1) Key issue 2) Decision",
+        "answers": [
+            "Whether a person can bring a cause of action under sections 10 to 15 without the consent of the Attorney General of Canada",
+            "No person has any cause of action and no proceedings of any kind are to be taken without the consent of the Attorney General of Canada to enforce or determine any right or obligation that is claimed or arises solely under or by virtue of sections 10 to 15 or an order made under those sections"
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where an individual applied for the Canada Worker Lockdown Benefit, but was later found to be ineligible due to providing false information. Identify: 1) The key issue 2) The likely decision 3) The relevant sections of the Canada Worker Lockdown Benefit Act that would be applied in this case.",
+        "answers": [
+            "Eligibility for the Canada Worker Lockdown Benefit based on accurate information.",
+            "The individual would be deemed ineligible for the benefit and required to repay any amounts received.",
+            "Sections 23 and 27 of the Canada Worker Lockdown Benefit Act."
+        ]
+    },
+    {
+        "task": "Analyze the scenario where the Minister believes a person is likely to contravene section 8 of the Act by communicating confidential information obtained under the Agreement. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Potential contravention of confidentiality provisions under Section 8 of the Civil Lunar Gateway Agreement Implementation Act",
+            "The Minister may order the person to return or dispose of the information in a manner deemed appropriate.",
+            "This section sets a precedent for protecting confidential information shared between parties under the Civil Lunar Gateway Agreement."
+        ]
+    },
+    {
+        "task": "Based on the information provided for transitional provisions regarding the former First Nations Land Management Act, identify: 1) Key issue regarding documents and decisions made under the former Act 2) Decision regarding the validity of those documents and decisions 3) Precedent (legal basis) for the decision",
+        "answers": [
+            "The validity and enforceability of land codes, agreements, laws, documents, actions, and decisions made under the former First Nations Land Management Act.",
+            "Nothing in this Act affects the validity or enforceability of existing land codes, agreements, laws, documents, actions, and decisions made under the former Act.",
+            "The former First Nations Land Management Act and the Framework Agreement."
+        ]
+    },
+    {
+        "task": "Analyze the impact of section 5(2) of S.C. 2022, c. 6 on the electoral boundaries readjustment process. Identify the key issue it addresses, the decision made, and any relevant precedent set.",
+        "answers": [
+            "Impact of new calculation on the number of members in the House of Commons for a province.",
+            "If the new calculation results in a different number of members, previous reports and actions based on the old calculation are nullified, and a new report must be prepared.",
+            "Constitution Act 1867, Electoral Boundaries Readjustment Act"
+        ]
+    },
+    {
+        "task": "Analyze the potential impact of section 5(1) regarding conflicts between the Agreement and Acts of Parliament.",
+        "answers": [
+            "Identify potential areas of conflict.",
+            "Assess the legal implications of the Agreement prevailing.",
+            "Evaluate the potential impact on federal legislation."
+        ]
+    },
+    {
+        "task": "Based on the text of the Canada Disability Benefit Act, identify the following: 1) The primary goal of the Act 2) One key element of eligibility for the Canada Disability Benefit 3) The level of government with whom the Minister may enter into agreements to carry out the purposes of the Act",
+        "answers": [
+            "To reduce poverty and support the financial security of working age persons with disabilities",
+            "Meeting the eligibility criteria set out in the regulations",
+            "Any department or agency of the Government of Canada, and with the approval of the Governor in Council, any department or agency of a province."
+        ]
+    },
+    {
+        "task": "Based on the 'Fighting Against Forced Labour and Child Labour in Supply Chains Act', identify the key issue, the decision and the applicable precedent. Note that this is hypothetical because the act is new.",
+        "answers": [
+            "Eliminating forced labour and child labour from supply chains",
+            "Imposing reporting obligations on government institutions and entities",
+            "International Labour Organization Conventions"
+        ]
+    },
+    {
+        "task": "Analyze the role of the Sustainable Jobs Partnership Council: 1) Identify the key issue the council addresses. 2) What type of decision does the council influence? 3) Does the council create a precedent? ",
+        "answers": [
+            "Supporting the shift to a net-zero economy and creation of sustainable jobs",
+            "Advising the Minister and Specified Ministers",
+            "No precedent is established within the text"
+        ]
+    },
+    {
+        "task": "Consider the section regarding the Indigenous Loan Guarantee Program.  Identify the maximum amount of loan guarantees authorized under this program.",
+        "answers": [
+            "The program authorizes a corporation to provide loan guarantees as part of an Indigenous loan guarantee program.",
+            "The aggregate of the principal and interest in respect of all the guarantees must not exceed 5,000,000,000 or any greater amount that may be authorized by the Governor in Council on the recommendation of the Minister of Finance.",
+            "Financial Administration Act"
+        ]
+    },
+    {
+        "task": "Based on the Preamble, identify the key issue addressed by the Act.",
+        "answers": [
+            "Establishment and maintenance of a Canada-wide early learning and child care system",
+            "Supporting the establishment and maintenance of a Canada-wide early learning and child care system",
+            "Multilateral Early Learning and Child Care Framework, Indigenous Early Learning and Child Care Framework, UN Convention on the Rights of the Child"
+        ]
+    },
+    {
+        "task": "Analyze the following scenario: A dispute arises between Canada and Ukraine regarding the interpretation of a specific article within the Free Trade Agreement. Identify: 1) The key issue that would need to be resolved. 2) The likely decision-making process based on the Act. 3) Any relevant precedent that might be considered.",
+        "answers": [
+            "Interpretation of a specific article within the Free Trade Agreement",
+            "Resolution through the Commission or a panel established under the Agreement",
+            "Previous interpretations of similar articles in other trade agreements"
+        ]
+    }
+]

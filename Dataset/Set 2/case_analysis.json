@@ -1,0 +1,1370 @@
+[
+    {
+        "task": "Based on the 'Ordnance and Admiralty Lands Act', identify: 1) Key issue regarding land ownership 2) Decision regarding land vesting 3) Precedent related to public lands",
+        "answers": [
+            "Land ownership and management under the Crown",
+            "Lands are vested in His Majesty for the purposes of Canada",
+            "Laws relating to public lands apply to these lands"
+        ]
+    },
+    {
+        "task": "Based on Section 5(1) of the Railway Belt Water Act, identify: 1) The key issue regarding water use rights granted before June 6, 1913; 2) The decision regarding the validity of these rights; 3) The precedent set for future water use rights.",
+        "answers": [
+            "Validity of water use rights granted before June 6, 1913",
+            "Rights are valid and effective",
+            "Establishes priority for pre-existing rights while subjecting new rights to the Water Acts"
+        ]
+    },
+    {
+        "task": "Analyze the agreement between Canada and Ontario regarding the International Rapids Section. Identify: 1) The main purpose of the agreement 2) The parties involved 3) The key subject matter of the agreement",
+        "answers": [
+            "To enable power development in the International Rapids Section of the St. Lawrence River",
+            "Government of Canada and Government of Ontario",
+            "Construction, maintenance, and operation of works for power development"
+        ]
+    },
+    {
+        "task": "Analyze section 2(1) of the Kingsmere Park Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Administration of Kingsmere Park",
+            "The Federal District Commission shall administer Kingsmere Park",
+            "N/A - This section establishes a new administrative responsibility rather than applying existing precedent."
+        ]
+    },
+    {
+        "task": "Analyze the Public Service Pension Adjustment Act: 1) Identify the key issue addressed by the Act. 2) State the Act's primary decision regarding pension adjustments. 3) Identify a precedent that this act could establish.",
+        "answers": [
+            "Adjustment of certain public service pensions to account for inflation and other economic factors.",
+            "To provide increases to the annual rate of pensions payable to recipients, subject to certain conditions and limitations based on salary, period of service, and other factors.",
+            "Establishes a framework for adjusting public service pensions based on various factors, potentially setting a precedent for future pension adjustments or similar legislation."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A Canadian ship is damaged due to a pirate attack in international waters. Identify the key issue related to the Marine War Risks Act.",
+        "answers": [
+            "Whether the damage from piracy falls under 'war risks' as defined in the Act and is thus insurable under the Act's provisions.",
+            "The Minister's responsibility to provide insurance coverage under the Act.",
+            "Definition of 'war risks' in the Act, specifically if it includes piracy."
+        ]
+    },
+    {
+        "task": "Analyze the following scenario based on the National Archives of Canada Act: A government institution wishes to dispose of certain records it deems no longer necessary. Identify the: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the government institution can dispose of records without permission.",
+            "The government institution needs to obtain the consent of the Archivist before destroying or disposing of the records.",
+            "Section 5(1) of the National Archives of Canada Act states that no record under the control of a government institution shall be destroyed or disposed of without the consent of the Archivist."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent regarding Section 15 concerning Benefit conferred on shareholder",
+        "answers": [
+            "Whether a benefit has been conferred on a shareholder by a corporation.",
+            "The benefit conferred on the shareholder is included in the shareholder's income.",
+            "Previous court decisions regarding what constitutes a benefit conferred on a shareholder."
+        ]
+    },
+    {
+        "task": "Regarding the Public Pensions Reporting Act, identify the key issue addressed by the Act, the decision made by Parliament, and what legal precedent might be established:",
+        "answers": [
+            "Issue: The need for transparency and accountability in public pension plans.",
+            "Decision: To mandate reporting requirements for public pension plans through the Act.",
+            "Precedent: Establishes a framework for reporting and review of public pension plans, which can be used as a benchmark for future legislation related to pension governance and financial oversight."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where a financial institution is found to be non-compliant with supervisory requirements under the Office of the Superintendent of Financial Institutions Act. Identify: 1) Key issue 2) Decision 3) Precedent (if applicable)",
+        "answers": [
+            "Financial institution non-compliance.",
+            "Corrective measures required by the Superintendent.",
+            "Relevant sections of the OSFI Act."
+        ]
+    },
+    {
+        "task": "Analyze section 10.4 regarding tax rates for non-residents and identify the key issue, the decision made, and any relevant precedent set by this section.",
+        "answers": [
+            "Application of Part XIII of Amended Act",
+            "The reference to 25% in subsection 212(1) of the amended Act shall be read as a reference to 15% under specific conditions.",
+            "Deals with tax on payments to non-residents in prescribed countries at arm's length before 1976."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent regarding section 57 related to the review by Parliament.",
+        "answers": [
+            "Exemptions provided by section 12 of the Hazardous Products Act",
+            "A committee of Parliament will undertake a comprehensive review of the exemptions provided by that section and submit a report to Parliament",
+            "Sets the requirement for a review of exemptions within a specific timeframe, establishing a procedural precedent for parliamentary oversight of regulatory provisions."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a provincial authority is suspected of not issuing safety fitness certificates in accordance with the Motor Vehicle Transport Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the provincial authority is issuing safety fitness certificates in accordance with the Act",
+            "The Minister may withdraw the provincial authority's power to issue certificates if not in compliance",
+            "The Minister can withdraw the power to issue certificates and requires the undertaking to file a declaration with another provincial authority."
+        ]
+    },
+    {
+        "task": "Analyze the scenario of a federal institution failing to provide services in both official languages in a region where it is required. Identify: 1) Key issue 2) Relevant section of the Official Languages Act 3) Potential remedy",
+        "answers": [
+            "Failure to provide services in both official languages as required by law.",
+            "Part IV of the Official Languages Act (Communications with and Services to the Public), specifically section 22.",
+            "Application for remedy under Part X of the Act (Court Remedy), potentially leading to a court order for compliance."
+        ]
+    },
+    {
+        "task": "Based on the provided text, what are the key issues that the Parliamentary Employment and Staff Relations Act addresses?",
+        "answers": [
+            "employment and employer and employee relations in the parliamentary context",
+            "collective bargaining rights",
+            "grievance procedures"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A consultant lobbyist communicates with a designated public office holder regarding a proposed amendment to a regulation. Identify the key issue, the relevant section of the Lobbying Act, and a potential consequence of non-compliance.",
+        "answers": [
+            "Compliance with registration and reporting requirements",
+            "Section 5 of the Lobbying Act",
+            "Potential offences and punishment under Section 14"
+        ]
+    },
+    {
+        "task": "Analyze the hypothetical scenario: A director of the International Centre for Human Rights and Democratic Development is discovered to have a conflict of interest related to a contract with a private company that also receives funding from the Centre. Identify: 1) Key issue 2) Relevant decision from the provided text 3) Precedent the Board should set for future similar cases.",
+        "answers": [
+            "Conflict of interest of a director regarding a contract with the Centre.",
+            "A director or officer who is a party to a material contract or proposed material contract with the Centre shall disclose to the Centre the nature and extent of the interest of the director or officer.",
+            "Establish clear guidelines and consequences for directors with conflicts of interest, ensuring transparency and impartiality in decision-making."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where an inspector seizes fish believed to be tainted. Identify the key issue, the decision the inspector must make, and the relevant section of the Fish Inspection Act.",
+        "answers": [
+            "Whether the fish is tainted, decomposed, or unwholesome and intended for human consumption",
+            "Whether to detain the seized fish and containers",
+            "Section 10"
+        ]
+    },
+    {
+        "task": "Based on the provided text of the Freshwater Fish Marketing Act, identify the following aspects related to interprovincial and export trade in fish: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Regulation of interprovincial and export trade in fish, including who can export, convey, or sell fish across provincial borders and outside of Canada.",
+            "Except in accordance with the terms and conditions set out in any licence that may be issued by the Corporation, no person other than the Corporation or its agent shall export, convey, carry, or sell/buy fish across provincial borders or outside Canada.",
+            "The Act establishes the Freshwater Fish Marketing Corporation and grants it exclusive rights to trade in and market fish in interprovincial and export trade, subject to specific sections of the Act."
+        ]
+    },
+    {
+        "task": "Analyze the role of Indigenous governing bodies under the Fisheries Act. Identify: 1) Key issue regarding Indigenous rights 2) Decision-making considerations related to Indigenous knowledge 3) Relevant section pertaining to Indigenous Peoples of Canada",
+        "answers": [
+            "Protection of Indigenous rights recognized by section 35 of the Constitution Act, 1982.",
+            "The Minister must consider any adverse effects of decisions on the rights of Indigenous peoples, Indigenous knowledge provided to the Minister, and cooperation with Indigenous governing bodies.",
+            "Sections 2.4, 2.5, 4.1, 61.1, 61.2, etc."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a fisherman defaults on a guaranteed loan under the Fisheries Improvement Loans Act and the lender seeks compensation from the Minister. Identify: 1) Key issue 2) Decision 3) Relevant section of the Act",
+        "answers": [
+            "Whether the Minister is liable to pay the lender for the loss sustained due to the fisherman's default.",
+            "The Minister's liability depends on whether the lender complied with all the requirements of the Act and regulations.",
+            "Section 3 of the Fisheries Improvement Loans Act outlines the conditions under which the Minister shall pay losses to lenders."
+        ]
+    },
+    {
+        "task": "Analyze the provided text of the Food and Agriculture Organization of the United Nations Act. Identify the primary goal it aims to achieve.",
+        "answers": [
+            "To promote the common welfare by furthering action to raise nutrition levels, improve agricultural production and distribution, and better the condition of rural populations."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a Canadian citizen enlists in the army of a foreign country that is at war with another country that is friendly with Canada. Identify: 1) Key issue 2) Relevant section of the Act 3) Potential legal outcome",
+        "answers": [
+            "Violation of the Foreign Enlistment Act",
+            "Section 3",
+            "Potential prosecution under the Act"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a Canadian company is ordered by a US court to disclose records located in Canada. Identify: 1) The key issue under the Foreign Extraterritorial Measures Act 2) The Attorney General's likely decision 3) The relevant section of the Act.",
+        "answers": [
+            "Jurisdiction over records located in Canada.",
+            "The Attorney General may issue an order to prohibit or restrict the production of records.",
+            "Section 3"
+        ]
+    },
+    {
+        "task": "Analyze Section 7 of the Forestry Act regarding offences and punishment. Identify: 1) The offence 2) Maximum fine 3) Maximum imprisonment term",
+        "answers": [
+            "Contravention of any regulation made under section 6",
+            "Five hundred dollars",
+            "Six months"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a provincial garnishment law conflicts with the Garnishment Attachment and Pension Diversion Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Inconsistency between federal and provincial law regarding garnishment.",
+            "Provincial garnishment law is overridden to the extent of the inconsistency.",
+            "Section 27 of the Garnishment Attachment and Pension Diversion Act."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A Canadian citizen commits a grave breach of the Geneva Conventions in a foreign country. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Jurisdiction over grave breaches committed outside Canada",
+            "The person may be tried and punished in Canada as if the offense had been committed in Canada",
+            "Geneva Conventions Act RSC 1985 c G 3"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a government employee is injured due to a third party's negligence. Identify: 1) The key issue regarding compensation claims 2) The decision the employee/dependents must make 3) The legal principle that allows the employer to pursue the third party.",
+        "answers": [
+            "Whether to claim compensation under the Act or pursue a claim against the third party",
+            "Election of claims",
+            "Subrogation"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company imports a hazardous product without a proper safety data sheet. 1) Identify the key issue. 2) What would be the likely decision based on the Hazardous Products Act? 3) What section of the Act would be the main precedent?",
+        "answers": [
+            "Importation of a hazardous product without a safety data sheet",
+            "The company would likely face penalties, including potential fines and orders to cease importation until compliance is achieved",
+            "Section 14 of the Hazardous Products Act"
+        ]
+    },
+    {
+        "task": "Analyze the Act. Identify: 1) Key issue addressed by the Act 2) Decision made by the act 3) Precedent created by the act if any",
+        "answers": [
+            "Commemoration and preservation of historic sites",
+            "Establishment of the Historic Sites and Monuments Board of Canada",
+            "Potentially sets a precedent for future cultural heritage preservation legislation"
+        ]
+    },
+    {
+        "task": "Analyze Section 4 of the Inquiries Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Power of commissioners to compel evidence",
+            "Commissioners have the power to summon witnesses and demand evidence or documents",
+            "Establishes legal authority for inquiries to gather necessary information"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A person constructs a building 5 feet from the international boundary without the Commission's permission. 1) What is the key issue? 2) What would the decision be according to the Act? 3) What part of the International Boundary Commission Act will be used as precedent?",
+        "answers": [
+            "Unauthorized construction near the international boundary",
+            "The Commission may remove and destroy the building",
+            "Section 4 of the International Boundary Commission Act"
+        ]
+    },
+    {
+        "task": "Identify the Key issue, Decision and Precedent in the following scenario: A company is found to be diverting water from a river that flows across the international boundary, impacting water levels in the United States.",
+        "answers": [
+            "Water diversion impacting international boundary waters",
+            "The company must cease the diversion and potentially face penalties.",
+            "The International Boundary Waters Treaty Act establishes the precedent that any action in Canada impacting boundary waters and causing harm in the United States is subject to legal consequences."
+        ]
+    },
+    {
+        "task": "Analyze the International Development Research Centre Act. Identify: 1) The key purpose of the Centre 2) One power the Centre possesses 3) An example of an organizational structure within the Centre.",
+        "answers": [
+            "To initiate, encourage, support, and conduct research into the problems of the developing regions of the world.",
+            "The power to establish, maintain, and operate information and data centers for research.",
+            "The Board of Governors consisting of a Chairperson, the President, and other governors."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical case where a person is caught transporting intoxicating liquor through a province, but the container is unopened. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the transportation of unopened intoxicating liquor through a province is a violation of the Importation of Intoxicating Liquors Act.",
+            "The transportation is permitted under the exceptions outlined in the Act.",
+            "Section 3(2)(a) of the Importation of Intoxicating Liquors Act."
+        ]
+    },
+    {
+        "task": "Analyze the implications of Section 87(1) of the Indian Act, concerning property exempt from taxation, for businesses operating on First Nations reserves.",
+        "answers": [
+            "Taxation on reserve property",
+            "Businesses operating on reserves may be exempt from certain taxes",
+            "The principle of Aboriginal rights and Crown sovereignty"
+        ]
+    },
+    {
+        "task": "A dispute arises concerning the calculation of royalties owed under a contract governed by the Indian Oil and Gas Act. Identify the key issue, the likely decision-maker in the first instance, and a relevant legal provision that would act as a precedent or guide the decision.",
+        "answers": [
+            "Calculation of royalties owed under the contract.",
+            "The Minister or a designated authority under the Act.",
+            "Section 4.1.1(g) of the Indian Oil and Gas Act, which outlines regulations concerning royalties on oil and gas recovered from First Nation lands, including the determination of the share of oil or gas that constitutes a royalty and the value of that royalty."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a commercial operation applies for a grant to expand its business under the Industrial and Regional Development Act.  Identify: 1) the key issue to be considered by the Minister; 2) the decision the Minister must make; 3) a precedent (section of the Act) that guides the Minister's decision.",
+        "answers": [
+            "Whether the expansion project aligns with the purposes outlined in the Act (establishing, expanding, modernizing, or enhancing productivity, etc.) and the regulations.",
+            "Whether to approve or deny the grant application.",
+            "Section 4 (1) outlines the conditions under which the Minister may provide a grant, contribution, or loan to a commercial operation."
+        ]
+    },
+    {
+        "task": "Analyze the following scenario in the context of the Labour Adjustment Benefits Act: A 58-year-old worker with 9 years of experience in a designated industry is laid off. Identify 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Eligibility for Labour Adjustment Benefits despite not meeting the 10-year employment requirement.",
+            "The Commission may determine eligibility if the employee will suffer severe financial hardship and meets other criteria (age + years of employment >= 80).",
+            "Subsection 14(2) allows the Commission to determine eligibility in cases of severe financial hardship even if the 10-year employment requirement is not met."
+        ]
+    },
+    {
+        "task": "Given the Natural Sciences and Engineering Research Council Act, analyze a hypothetical scenario where a dispute arises regarding the Council's authority to enter into a specific contract. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the Council acted within its authority as an agent of Her Majesty when entering the contract.",
+            "The court would need to interpret the relevant sections of the Natural Sciences and Engineering Research Council Act, specifically section 14 regarding the Council's power to enter into contracts on behalf of Her Majesty.",
+            "Previous court decisions interpreting similar provisions regarding the powers of Crown agents to enter into contracts."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company fails to comply with a term or condition of its certificate under the Northern Pipeline Act. Identify: 1) Key issue 2) Decision 3) Relevant section of the Act.",
+        "answers": [
+            "Company's failure to comply with certificate terms",
+            "Minister may take measures to perform the term or condition after 30 days notice",
+            "Section 30"
+        ]
+    },
+    {
+        "task": "Analyze section 16 of the Northwest Territories Act. Identify 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "The scope of legislative powers granted to the Commissioner in Council for the government of the Territories.",
+            "The Commissioner in Council may make ordinances for the government of the Territories in relation to various classes of subjects, subject to the Act and any other Act of Parliament.",
+            "Legislative powers are not greater than those of provincial legislatures under sections 92 and 95 of the Constitution Act, 1867."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A nuclear incident occurs at a facility in Ontario, Canada, causing widespread damage. The operator is found to be in breach of their duty under the Nuclear Liability Act.  Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Liability for nuclear damage",
+            "The operator is liable for damages up to the specified limit",
+            "The Nuclear Liability Act establishes the framework for liability in such cases."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A department wants to build a new office building in the National Capital Region. Identify the key issue, the decision required by the Commission, and the relevant precedent set by the Act.",
+        "answers": [
+            "Proposed construction in the National Capital Region",
+            "Approval of the construction proposal by the Commission",
+            "Section 12 of the National Capital Act requiring proposal submission and approval"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a pipeline company seeks to construct a new pipeline across multiple provinces. Identify: 1) The key regulatory issue involved. 2) The likely decision of the National Energy Board. 3) Relevant precedent from the Act.",
+        "answers": [
+            "Interprovincial pipeline construction approval",
+            "Board would decide, conditional upon the assessment",
+            "Part III of the Act deals with construction and operation of pipelines, setting the framework for Board's decision"
+        ]
+    },
+    {
+        "task": "Analyze Section 2 of the Official Residences Act regarding the Prime Minister's residence. Identify: 1) The subject of the section 2) Who is responsible for maintaining the residence 3) Reference to other legislation",
+        "answers": [
+            "Prime Minister's residence",
+            "Minister of Public Works and Government Services and the National Capital Commission",
+            "Parliament of Canada Act"
+        ]
+    },
+    {
+        "task": "Analyze Section 3 of the Oil Substitution and Conservation Act regarding Conversion and Improvement Payments. Identify the key issue addressed in this section.",
+        "answers": [
+            "Eligibility criteria and conditions for receiving payments related to conversion of heating units and installation of conservation improvements."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a farmer's crop is contaminated with pesticide residue. Identify: 1) The key issue in determining compensation 2) The likely decision regarding compensation eligibility 3) The relevant section of the Pesticide Residue Compensation Act that governs this scenario.",
+        "answers": [
+            "Eligibility for compensation under the Pesticide Residue Compensation Act.",
+            "Decision will depend on whether the conditions outlined in section 3(1) are met, including inspection results, pesticide registration, proper usage, and absence of farmer's fault.",
+            "Section 3(1) of the Pesticide Residue Compensation Act."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A ship operates in a compulsory pilotage area without a licensed pilot or pilotage certificate holder. Identify the key issue, the decision that would likely be made under the Pilotage Act, and a relevant precedent (if applicable based on the text).",
+        "answers": [
+            "Operating in a compulsory pilotage area without required personnel.",
+            "The ship may face penalties and be required to engage a pilot.",
+            "Not applicable based on the provided text."
+        ]
+    },
+    {
+        "task": "Analyze section 3: Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Loss or hardship due to postal interruption and failure to meet time requirement.",
+            "Judge may grant relief by waiving the time requirement or period of limitation.",
+            "This section establishes the conditions under which a judge can grant relief, setting a precedent for future cases involving similar circumstances."
+        ]
+    },
+    {
+        "task": "A producer defaults on their advance payment. Identify: 1) The key issue regarding the Board's recourse 2) The likely decision of a court in enforcing the undertaking 3) The relevant precedent set by the Prairie Grain Advance Payments Act.",
+        "answers": [
+            "Enforcement of producer's undertaking after default",
+            "Court enforces the undertaking",
+            "Prairie Grain Advance Payments Act establishes the legal framework for advance payments and recourse in case of default"
+        ]
+    },
+    {
+        "task": "A prisoner serving a sentence commits a breach of prison rules after being credited with earned remission. Identify: 1) Key issue 2) Decision 3) Legal Precedent based on the Prisons and Reformatories Act.",
+        "answers": [
+            "Whether the prisoner will forfeit their earned remission.",
+            "The person who determines the breach has been committed has the discretion to decide if the prisoner will forfeit the earned remission.",
+            "Section 6(4) of the Prisons and Reformatories Act."
+        ]
+    },
+    {
+        "task": "Based on Article 3, Schedule 1 (Ottawa Agreement) identify the key issue, potential decision, and relevant precedent.",
+        "answers": [
+            "Abuse of immunities and privileges.",
+            "Consultations between the State and the Organisation to determine if abuse occurred and prevent repetition. State may require the person to leave its territory.",
+            "Principles of international cooperation, administration of justice, and prevention of abuse related to diplomatic immunities and privileges."
+        ]
+    },
+    {
+        "task": "Analyze the following hypothetical situation using the Public Servants Inventions Act: A public servant working in a federal research lab develops a new type of solar panel. The invention was created using government-funded equipment and during the public servant's regular working hours. Identify the key issue, potential decision, and relevant precedent.",
+        "answers": [
+            "Whether the invention of the solar panel is vested in Her Majesty in right of Canada",
+            "The appropriate minister will determine if the invention is vested in Her Majesty",
+            "Section 3 of the Public Servants Inventions Act outlines when inventions are vested in Her Majesty"
+        ]
+    },
+    {
+        "task": "Based on the provided text of the Public Service Employment Act, identify the following regarding appointment appeals: 1) What is the key issue? 2) Who makes the final decision on an appeal? 3) What legal precedent or framework guides the appeals process?",
+        "answers": [
+            "Appeals concerning appointments within the Public Service",
+            "Commission",
+            "Public Service Employment Act"
+        ]
+    },
+    {
+        "task": "Based on section 5.1.1, identify the criteria that would cause the board to identify a position as a managerial or confidential position.",
+        "answers": [
+            "Substantial duties in policy/program determination.",
+            "Substantial management duties and responsibilities.",
+            "Direct involvement in collective bargaining.",
+            "Conflict of interest or duties to the employer.",
+            "Confidential duties related to staff relations matters."
+        ]
+    },
+    {
+        "task": "Based on the text, identify: 1) The type of legal document 2) The governing body that enacted the document, 3) Document formal title",
+        "answers": [
+            "Statute",
+            "Federal Government of Canada",
+            "Public Service Superannuation Act RSC 1985 c P 36"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company is found to be advertising a pest control product in a misleading way. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Misleading Advertising of a Control Product",
+            "The company is in violation of the Pest Control Products Act section 4(2)",
+            "The Pest Control Products Act section 4(2)"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a traveler arriving in Canada refuses a medical examination requested by a quarantine officer. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Refusal of medical examination",
+            "Detention or permission to proceed with conditions",
+            "Quarantine Act sections on medical examinations and detention (e.g., s.8, s.11)"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: An inspector seizes a radiation emitting device believing the Act has been contravened, but the owner claims they were unaware of the regulations.  Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the seizure was lawful given the owner's claim of ignorance of the regulations.",
+            "The inspector's decision to seize the device may be challenged if the owner can prove they were unaware of the regulations and took reasonable steps to comply.",
+            "This analysis may be influenced by precedents regarding the requirement of mens rea (intent or knowledge of wrongdoing) in regulatory offences."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a municipality and a province have an accepted plan that includes relocating a railway line. Identify the key issue, the Agency's potential decision, and the precedent set by the Railway Relocation and Crossing Act.",
+        "answers": [
+            "The key issue is whether the relocation of the railway line aligns with the urban development and transportation plans of the municipality and province and how its costs are shared.",
+            "The Agency may order the railway company to cease operations on the existing line and remove structures, or order them to allow another company operate on its lines.",
+            "The precedent is established by the Railway Relocation and Crossing Act which enables the Agency to order railway relocation and provides the framework for financial assistance and land acquisition."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a mining company is in dispute with the Department of Natural Resources over access to survey data collected under the Resources and Technical Surveys Act. Identify the key issue, the likely decision based on the Act, and any potential precedent.",
+        "answers": [
+            "Access to survey data",
+            "Decision based on Section 5 regarding distribution of data",
+            "Potential precedent related to balancing public interest in resource management with private interests"
+        ]
+    },
+    {
+        "task": "Analyze the following scenario based on the Royal Canadian Mint Act: The Mint decides to issue a new type of circulation coin with a unique design. Identify: 1) the body that authorizes the issue of the coin, 2) the body that determines the design of the coin.",
+        "answers": [
+            "Governor in Council",
+            "Governor in Council"
+        ]
+    },
+    {
+        "task": "Analyze the document regarding 'Appointment of the Governor General Proclamation Announcing the SI 95 22': Identify: 1) Legal issue addressed by the proclamation, 2) Decision made through the proclamation, 3) Relevant precedent (if any, state 'None').",
+        "answers": [
+            "Appointment of the Governor General",
+            "Announcement of the appointment",
+            "None"
+        ]
+    },
+    {
+        "task": "A vessel is found to have cargo damaged due to improper stowage. Identify the key issue, the Port Warden's likely decision, and the relevant precedent from the Act.",
+        "answers": [
+            "Improper stowage leading to damaged cargo",
+            "Conduct a survey to ascertain the cause and extent of the damage, and record the findings.",
+            "Section 7 outlines the duties regarding stowage of cargo and examination of damaged goods."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A returned soldier designates his brother as a contingent beneficiary. The soldier later dies without a spouse or children.  Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the brother, as a contingent beneficiary, is entitled to the insurance money.",
+            "The brother is entitled to the insurance money, provided he meets the criteria outlined in the Act for contingent beneficiaries.",
+            "Section 5 of the Returned Soldiers Insurance Act, which deals with the designation and payment to contingent beneficiaries."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a company consistently violates the orders of the Lake of the Woods Control Board. Identify: 1) Key issue 2) Decision (based on the Act) 3) Relevant Precedent (if any within the Act)",
+        "answers": [
+            "Enforcement of Board orders and penalties for non-compliance",
+            "The Board can pursue legal proceedings, impose fines and imprisonment, and take possession of the company's property to enforce its orders.",
+            "No specific case precedent is outlined in the provided text of the act itself."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent regarding the transfer of the Railway Belt and Peace River Block lands.",
+        "answers": [
+            "Re-transfer of Crown lands from Canada to British Columbia.",
+            "Canada agreed to re-transfer the lands to the Province of British Columbia.",
+            "Paragraph eleven of the Terms of Union between the Dominion of Canada and the then Colony of British Columbia and to certain statutes of the Legislature of the Province of British Columbia being chapter eleven of the statutes of the year eighteen hundred and eighty chapter fourteen of the statutes of the year eighteen hundred and eighty three and chapter fourteen of the statutes of the year eighteen hundred and eighty four."
+        ]
+    },
+    {
+        "task": "Analyze the implications of Section 1 of the Act concerning the interprovincial operation of the Hudson Bay Mining and Smelting Co Limited. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Interprovincial operation of a company and jurisdictional issues.",
+            "Declaring the works for the advantage of two or more provinces (Manitoba and Saskatchewan).",
+            "Sets a precedent for federal authority over works spanning multiple provinces."
+        ]
+    },
+    {
+        "task": "Based on the 'Whereas' clauses, identify the key issue the agreement is trying to resolve.",
+        "answers": [
+            "Defective titles to Indian lands due to previous conveyances lacking proper authority.",
+            "Settling outstanding problems relating to Indian reserves in Nova Scotia and enabling Canada to deal effectively with lands forming part of said reserves.",
+            "Judicial Committee of the Privy Council relating to Indian lands in the Provinces of Ontario and Quebec."
+        ]
+    },
+    {
+        "task": "Based on the provided text of the Roosevelt Campobello International Park Commission Act, identify the following: 1) Key issue addressed by the Act 2) Decision enacted by the Act 3) Precedent established or referenced by the Act",
+        "answers": [
+            "Establishment and administration of the Roosevelt Campobello International Park",
+            "Establishment of the Roosevelt Campobello International Park Commission and its powers, exemptions, and responsibilities.",
+            "Agreement Between the Government of Canada and the Government of the United States of America Relating to the Establishment of the Roosevelt Campobello International Park"
+        ]
+    },
+    {
+        "task": "Analyze the section regarding the use of trademarks and symbols related to the Olympic Games. Identify: 1) Key issue related to trademark use 2) The decision regarding unauthorized use 3) The relevant precedent this section establishes regarding trademark protection for major events.",
+        "answers": [
+            "Unauthorized use of Olympic trademarks and symbols",
+            "Restrictions on adopting or using Olympic marks without authorization; penalties for contravention",
+            "Establishes a framework for protecting the trademarks and symbols of the Olympic Corporation within a specific timeframe."
+        ]
+    },
+    {
+        "task": "Analyze the James Bay and Northern Quebec Native Claims Settlement Act: Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Settlement of native claims in the James Bay and Northern Quebec region.",
+            "The Act approves, gives effect to, and declares valid certain agreements between various parties, including the Crees, Inuit, and the governments of Quebec and Canada.",
+            "The Act serves as a precedent for future native claims settlements in Canada, establishing a framework for negotiations and agreements between Indigenous groups and the government."
+        ]
+    },
+    {
+        "task": "Analyze the amalgamation requirements between IAC Limited and Continental Bank of Canada as outlined in Section 10. Identify: 1) The timeframe for amalgamation 2) The provision for issuing shares after amalgamation 3) The treatment of outstanding indebtedness after amalgamation",
+        "answers": [
+            "Within ten years after the coming into force of this Act",
+            "The Bank resulting from the amalgamation may issue its shares to the persons who were the registered owners of shares of IAC Limited immediately prior to the amalgamation",
+            "Indebtedness incurred prior to October 28, 1975 remains outstanding after the amalgamation as indebtedness of the Bank and is binding upon and enforceable against the Bank in accordance with its terms, subject to certain conditions"
+        ]
+    },
+    {
+        "task": "Based on the provided text of the Fort Nelson Indian Reserve Minerals Revenue Sharing Act, identify the key issue addressed by the Act.",
+        "answers": [
+            "Sharing of revenues from mineral exploitation on the Fort Nelson Indian Reserve",
+            "Agreement between Canada and British Columbia",
+            "Resolution of mineral rights dispute, revenue sharing formula"
+        ]
+    },
+    {
+        "task": "Analyze Section 3.1 of the Naskapi and the Cree Naskapi Commission Act regarding conflicts between acts and identify the key elements.",
+        "answers": [
+            "Conflict between this Act and other Acts of Parliament",
+            "This Act shall prevail",
+            "Precedence of this Act in cases of conflict"
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Settlement of mercury pollution claims and causes of action related to the discharge of mercury into the English and Wabigoon river systems.",
+            "The Act approves, gives effect to, and declares valid the agreement reached between the Government of Canada, the Government of Ontario, Reed Inc., Great Lakes Forest Products Ltd., and the Islington and Grassy Narrows Indian Bands.",
+            "The Act provides a legal framework for settling claims related to mercury pollution and defines the rights and responsibilities of involved parties; could potentially serve as precedent for environmental contamination settlements with Indigenous communities."
+        ]
+    },
+    {
+        "task": "Regarding the application of the Electoral Boundaries Readjustment Act after the coming into force of the Representation Act, identify the key issue addressed in Section 4(1).",
+        "answers": [
+            "Application of Electoral Boundaries Readjustment Act",
+            "The Electoral Boundaries Readjustment Act as amended by Part III of this Act shall be applied as if subsection 51 1 of the Constitution Act 1867 as amended by Part I of this Act had been in force immediately following that census",
+            "Constitution Act 1867"
+        ]
+    },
+    {
+        "task": "Analyze Section 2 of the Act and identify: 1) The key issue addressed 2) The decision made 3) Any precedent set.",
+        "answers": [
+            "Official development assistance debts owing by the Government of Togo to the Government of Canada",
+            "The debts are forgiven",
+            "This Act serves as a precedent for forgiving debts of other nations under similar circumstances."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: The Canadian Union of Postal Workers (CUPW) initiates a strike during the extended term of the collective agreement as defined by the Postal Services Continuation Act, 1987. Identify: 1) Key issue 2) Decision 3) Relevant section of the Postal Services Continuation Act, 1987",
+        "answers": [
+            "Whether the CUPW's strike action is a violation of the Postal Services Continuation Act, 1987.",
+            "The strike is illegal due to the prohibitions outlined in the Act.",
+            "Section 6: Strikes and lockouts prohibited"
+        ]
+    },
+    {
+        "task": "Analyze Section 3(1): Identify the key issue, the decision made, and any precedent set by this section.",
+        "answers": [
+            "Disposal of territorial lands",
+            "The Minister may dispose of territorial lands to the Corporation with Governor in Council approval.",
+            "Sets a precedent for the Minister's authority to dispose of land under specific conditions."
+        ]
+    },
+    {
+        "task": "Analyze Section 3 of the Prince Rupert Grain Handling Operations Act: Identify 1) Key Issue 2) Decision",
+        "answers": [
+            "Resumption of grain handling operations",
+            "Employer resumes operations, employees resume duties"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: An inspector declares a farm to be an infected place due to a suspected outbreak of a reportable disease. The farmer challenges this declaration, arguing that it is causing significant economic hardship. What are the key elements to be considered under the Health of Animals Act?",
+        "answers": [
+            "Validity of the inspector's suspicion based on evidence",
+            "Authority of the inspector to declare an infected place",
+            "Provisions for appeal or review of the declaration under the Act"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where an inspector finds a plant suspected to be infested with a pest in an area where it hasn't been previously known. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Potential spread of a new pest",
+            "Inspector may declare the place infested and take actions to control the pest",
+            "Previous cases where inspectors have declared places infested and controlled pests"
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where a company is accused of infringing a registered topography. Identify the key issue, potential decision, and relevant precedent according to the Integrated Circuit Topography Act.",
+        "answers": [
+            "Whether the act constitutes infringement under s 6",
+            "Whether the defendant is liable for infringement under s 10, 11, 12, 13",
+            "Relevant case law interpreting s 3, 6, 10, 11 of the Act"
+        ]
+    },
+    {
+        "task": "Analyze section 6 of the Museums Act regarding the National Gallery of Canada. Identify: 1) The main subject of the section; 2) A specific power granted to the National Gallery; 3) A limitation placed upon the Gallery's powers.",
+        "answers": [
+            "Capacity and powers of the National Gallery of Canada",
+            "Collect works of art",
+            "The National Gallery of Canada may not deal with property otherwise than in accordance with the terms if any on which it was acquired or is held"
+        ]
+    },
+    {
+        "task": "Based on the text regarding validation of project approval, identify: 1) The key issue addressed 2) The decision made regarding the Hibernia Development Plan 3) The relevant precedent set or confirmed.",
+        "answers": [
+            "Validity of the Board's decision on the Hibernia Development Plan",
+            "Deeming the Board's decision as validly made",
+            "Affirmation of the Board's authority to make such decisions despite potential irregularities in its constitution or the Act's enforcement at the time of the decision"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: The Canada Development Investment Corporation is considering selling its shares of Nordion International Inc. Identify the key issue, the relevant decision authorized by the Act, and any applicable precedent mentioned in the text.",
+        "answers": [
+            "Sale of shares of Nordion International Inc.",
+            "The Canada Development Investment Corporation is authorized to sell or otherwise dispose of shares of Nordion with the approval of the Governor in Council.",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze section 9(1)(a) of the Petro Canada Public Participation Act. Identify: 1) The key issue it addresses, 2) The decision made, and 3) Any precedent set.",
+        "answers": [
+            "Constraints on the issue, transfer, and ownership of Petro Canada's voting shares to prevent excessive control by a single person or their associates.",
+            "Imposing restrictions on share ownership to a maximum of twenty percent of voting shares by any single person and their associates.",
+            "This section sets a precedent for limiting ownership in privatized companies to prevent monopolies or undue influence."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A public sector employee's compensation plan was in effect on February 26, 1991. Identify the key issue, the decision made in the Public Sector Compensation Act, and the relevant precedent.",
+        "answers": [
+            "Issue: Extension and potential limitations on compensation increases under the existing plan.",
+            "Decision: The Act mandates the extension of compensation plans with certain limitations on wage increases.",
+            "Precedent: The Public Sector Compensation Act SC 1991 c 30."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: The Canada Post Corporation declares a lockout during the extended term of the collective agreement, citing financial difficulties. Identify the key issue, potential decision, and relevant precedent.",
+        "answers": [
+            "Whether the lockout is a violation of the Postal Services Continuation Act, 1991.",
+            "The court will likely rule that the lockout is illegal based on section 6 of the Act.",
+            "Previous labor law cases involving illegal lockouts or strikes in essential services."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A registered referendum committee accepts a large donation from a foreign corporation.",
+        "answers": [
+            "Acceptance of contribution from a foreign corporation",
+            "The committee is in violation of Section 14 of the Referendum Act.",
+            "The prohibition of contributions from foreign corporations."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a couple divorced after 20 years of marriage, during which the husband contributed to a federal pension plan. They have a separation agreement specifying division of pension benefits. The wife later objects to the division.",
+        "answers": [
+            "Whether the separation agreement is valid and enforceable.",
+            "The court will likely uphold the separation agreement, assuming it meets all legal requirements and the objection is not valid.",
+            "General principles of contract law and family law relating to separation agreements."
+        ]
+    },
+    {
+        "task": "Analyze the following scenario according to the Motor Vehicle Safety Act: A company imports vehicles into Canada that do not conform to Canadian safety standards but claims they will be brought into compliance before being presented for registration by a province. Identify: 1) Key issue 2) Decision 3) Relevant section of the Motor Vehicle Safety Act",
+        "answers": [
+            "Whether the imported vehicles comply with the Motor Vehicle Safety Act before being presented for registration.",
+            "The vehicles must be brought into compliance with Canadian safety standards and certified as compliant before being presented for registration.",
+            "Section 7(2) of the Motor Vehicle Safety Act"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where an insured fails to disclose a known material circumstance to the insurer before concluding a marine insurance contract. Identify: 1) The key legal issue 2) The likely decision based on the Marine Insurance Act 3) The relevant precedent section from the Act",
+        "answers": [
+            "Whether the non-disclosure of a material circumstance allows the insurer to avoid the contract",
+            "The insurer may avoid the contract",
+            "Marine Insurance Act, section 21"
+        ]
+    },
+    {
+        "task": "Analyze Section 23 of the Nunavut Act to identify the legislative powers granted to the Legislature of Nunavut. 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Defining the scope of legislative powers for Nunavut",
+            "The Legislature may make laws in relation to specific classes of subjects.",
+            "Constitution Act, 1867 (sections 92 and 95)"
+        ]
+    },
+    {
+        "task": "Analyze section 6(1) of the Act: 'In the event of an inconsistency or conflict between the Agreement and any law including this Act the Agreement prevails to the extent of the inconsistency or conflict'. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Conflict between the Agreement and any other law",
+            "The Agreement prevails over any conflicting law",
+            "Establishes the primacy of the Nunavut Land Claims Agreement in cases of legal conflict."
+        ]
+    },
+    {
+        "task": "Analyze Section 7 of the Land Titles Repeal Act regarding indemnification. Identify the key issue addressed in this section.",
+        "answers": [
+            "Indemnification of the Government of Canada and the Government of the Territory regarding claims arising from the administration of the land registration system.",
+            "Government of Canada will indemnify the Government of a Territory",
+            "Land Titles Act"
+        ]
+    },
+    {
+        "task": "Analyze the provided text of the Northumberland Strait Crossing Act. Identify: 1) The key issue the Act addresses. 2) The decision or action the Act enables. 3) Any legal precedent the Act establishes.",
+        "answers": [
+            "The construction and operation of a fixed crossing over the Northumberland Strait.",
+            "Authorizes the Minister to enter into agreements and take actions related to the crossing.",
+            "Establishes a legal framework for the crossing, including provisions for subsidies, tolls, and property leases."
+        ]
+    },
+    {
+        "task": "Based on the text, identify the Key Issue, Decision, and Precedent related to the North American Free Trade Agreement Implementation Act.",
+        "answers": [
+            "Implementation of the North American Free Trade Agreement",
+            "Approval of the Agreement and related amendments to Canadian law",
+            "Provides a legal framework for interpreting and applying the NAFTA within Canada"
+        ]
+    },
+    {
+        "task": "Analyze the following scenario and identify the key issue: A vessel deposits a substance harmful to migratory birds in Canadian waters.  The deposit was not authorized under any Act of Parliament.",
+        "answers": [
+            "Violation of section 5.1 of the Migratory Birds Convention Act 1994 prohibiting the deposit of harmful substances.",
+            "Whether the deposit of the substance constitutes a violation of the Act.",
+            "Migratory Birds Convention Act 1994, Section 5.1"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a vessel operator consistently fails to carry out required security measures. Identify: 1) The key issue 2) The likely decision of the court 3) The relevant section of the Marine Transportation Security Act.",
+        "answers": [
+            "Failure to comply with security measures",
+            "Liable to a fine or imprisonment, depending on whether it's conviction on indictment or summary conviction",
+            "Section 9"
+        ]
+    },
+    {
+        "task": "Based on Article 5, identify the key issue, decision, and precedent related to the determination of a 'permanent establishment'.",
+        "answers": [
+            "Whether a fixed place of business constitutes a permanent establishment",
+            "Defines 'permanent establishment' and its exclusions",
+            "Provides criteria for determining if a fixed place of business is a permanent establishment and exceptions to the rule"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A union official encourages employees to strike despite the Maintenance of Railway Operations Act being in effect. Identify the key issue, the decision that would likely result, and the relevant precedent based on the Act.",
+        "answers": [
+            "Whether the union official's actions violate the prohibition on strikes during the extended collective agreement term.",
+            "The union official and potentially the union could be found in violation of the Act, subject to fines outlined in Section 19.",
+            "The Act itself, specifically sections prohibiting strikes and lockouts during the extended collective agreement period, serves as the precedent."
+        ]
+    },
+    {
+        "task": "Analyze section 8 of the Payment Clearing and Settlement Act, Validity etc: Identify 1) Key issue 2) Decision 3) Legal Precedent (if any).",
+        "answers": [
+            "Validity and binding nature of settlement rules in designated clearing and settlement systems.",
+            "Settlement rules are valid and binding on the clearing house, participants, a central counterparty and the Bank.",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze the Nelson House First Nation Flooded Land Act. Identify: 1) The key issue the Act addresses, 2) The decision the Act makes regarding the Flood Agreement, 3) Whether the Act establishes a new precedent or clarifies existing law.",
+        "answers": [
+            "Settlement of matters arising from the flooding of land related to the Flood Agreement.",
+            "The Act validates the agreement and provides exemptions.",
+            "Clarifies existing law by exempting certain payments and land transfers from sections of the Indian Act, in relation to the specific agreement."
+        ]
+    },
+    {
+        "task": "Analyze the scenario where an employee was disciplined on November 20, 1997. Identify: 1) Key issue 2) Decision 3) Precedent (if any) from the Postal Services Continuation Act 1997.",
+        "answers": [
+            "Discipline of employee during a specific period",
+            "Employee can submit the matter for final settlement to an arbitrator.",
+            "Sections 58 to 61 and 63 to 66 of the Canada Labour Code apply with any modifications that the circumstances require in respect of an arbitrator to whom a matter is submitted under subsection 3"
+        ]
+    },
+    {
+        "task": "Analyze the role of the Canadian Nuclear Safety Commission (CNSC) in the context of its mandate related to nuclear facilities. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Prevention of unreasonable risks to the environment, health, safety, and national security associated with nuclear facilities.",
+            "The CNSC regulates the development, production, and use of nuclear energy and substances to ensure compliance with safety standards and international obligations.",
+            "The Act establishes a framework for licensing, inspection, and enforcement, setting a precedent for regulatory oversight of nuclear facilities."
+        ]
+    },
+    {
+        "task": "Analyze the Mi'kmaq Education Act: 1) What is the main objective of the Act? 2) How does the Act define 'community'? 3) Does the Indian Act apply to communities operating under the Mi'kmaq Education Act?",
+        "answers": [
+            "Enable communities to exercise jurisdiction in relation to education as provided in the Agreement.",
+            "A band that is named in the schedule.",
+            "No, sections 114 to 122 of the Indian Act do not apply."
+        ]
+    },
+    {
+        "task": "Analyze Article 4, Paragraph 2 of Schedule 1 related to determining residency for individuals resident in both contracting states and identify: 1) The primary criterion 2) A secondary criterion if the primary cannot be determined. 3) A final criterion if neither of the first two apply.",
+        "answers": [
+            "Permanent home available",
+            "Centre of vital interests",
+            "Nationality"
+        ]
+    },
+    {
+        "task": "Analyze the purpose of the Preclearance Act according to the preamble. Identify: 1) Key Issue 2) Decision 3) Precedent",
+        "answers": [
+            "Facilitate cross-border travel and movement of goods between Canada and the United States.",
+            "To permit the administration of preclearance laws in Canada subject to Canadian constitutional safeguards.",
+            "Agreement between the Government of Canada and the Government of the United States of America on Air Transport Preclearance was entered into on May 8, 1974"
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario: The Board enters into a transaction with a company where one of the directors holds a significant financial interest, but this interest was not disclosed beforehand. Identify the key issue, potential decision, and relevant precedent.",
+        "answers": [
+            "Conflict of interest due to undisclosed financial interest.",
+            "Determine the validity and fairness of the transaction.",
+            "Section 20 of the Public Sector Pension Investment Board Act concerning disclosure of directors' interests."
+        ]
+    },
+    {
+        "task": "Analyze Section 5(1): Identify the general rule regarding inconsistent laws.",
+        "answers": [
+            "Inconsistency between the Part/Agreement and other laws",
+            "The provisions of this Part and the Agreement prevail",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze the legal text of the Manitoba Claim Settlement Implementation Act Norway House Cree Nation. Identify: 1) The key issue addressed by the Act; 2) The main decision enacted by the Act; 3) Any relevant precedent mentioned in the Act.",
+        "answers": [
+            "Settlement of matters arising from the flooding of land affecting the Norway House Cree Nation",
+            "Implementation of an agreement with the Norway House Cree Nation",
+            "Flood Agreement concluded on December 16, 1977"
+        ]
+    },
+    {
+        "task": "Identify the key issue, decision, and precedent related to the validity of Nisga'a law in a hypothetical court case.",
+        "answers": [
+            "Validity of Nisga'a law",
+            "Judicial notice shall be taken of Nisga'a laws; A copy of a Nisga a law purporting to be deposited in the public registry of Nisga a laws referred to in the Nisga a Government Chapter of the Nisga a Final Agreement is evidence of that law and of its contents unless the contrary is shown",
+            "Nisga'a Final Agreement"
+        ]
+    },
+    {
+        "task": "Given the information about the Act, identify the following if a case involved a foreign national seeking refugee protection: 1) Key issue 2) Decision 3) Relevant section of the Act",
+        "answers": [
+            "Eligibility for refugee protection",
+            "Grant or denial of refugee protection",
+            "Part 2 of the Immigration and Refugee Protection Act"
+        ]
+    },
+    {
+        "task": "Analyze Section 5 (1) of the Income Tax Conventions Implementation Act 2001 regarding the Canada-Slovenia Income Tax Convention. Identify the key issue it addresses.",
+        "answers": [
+            "Inconsistency between the Part or the Convention and other laws",
+            "The provisions of this Part and the Convention prevail to the extent of the inconsistency",
+            "Not applicable"
+        ]
+    },
+    {
+        "task": "Based on Section 7, analyze a hypothetical case where a Kanesatake Mohawk law regarding zoning conflicts with a provincial law. Identify the: 1) Key issue, 2) Decision according to the Act, and 3) Relevant precedent.",
+        "answers": [
+            "Conflict between Kanesatake Mohawk law and provincial law regarding zoning.",
+            "The Kanesatake Mohawk law prevails to the extent of the inconsistency or conflict according to section 17(2) if not other provincial law as specified in 17(1).",
+            "This Act itself serves as precedent for future conflicts, interpreting the relationship between Kanesatake Mohawk laws, provincial laws, and federal laws."
+        ]
+    },
+    {
+        "task": "Based on the provided text regarding the Pest Control Products Act, identify the key issue that this act aims to address.",
+        "answers": [
+            "The potential risks to human health, safety, and the environment posed by the availability and use of pest control products."
+        ]
+    },
+    {
+        "task": "A military member suffered an injury during Class B Reserve Service for 150 days, resulting in the loss of a foot. The Minister is satisfied that the injury is attributable to the person's service, the loss resulted directly from the injury, the loss was not self-inflicted, the person survived for at least 30 days, and the loss occurred within 90 days. Task: Identify the key issue, the decision, and the precedent based on the Injured Military Members Compensation Act.",
+        "answers": [
+            "Entitlement to compensation under the Injured Military Members Compensation Act for loss of a foot during Class B Reserve Service.",
+            "The Minister must decide whether the military member is entitled to compensation.",
+            "Injured Military Members Compensation Act SC 2003 c 14"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a First Nation attempts to impose a tax on a supply made outside of their lands. Identify: 1) Key issue 2) Decision 3) Relevant legislation.",
+        "answers": [
+            "Whether the First Nation has the authority to impose the tax given the supply's location.",
+            "The First Nation cannot impose the tax unless the conditions in subsection 4(2) are met, linking the supply to their lands.",
+            "First Nations Goods and Services Tax Act, specifically section 4."
+        ]
+    },
+    {
+        "task": "A public service employee feels they were unfairly denied a promotion due to bias. Analyze the situation according to the Act, identify the key issue, possible decision, and relevant precedent.",
+        "answers": [
+            "Unfair denial of promotion due to bias.",
+            "Investigation and potential corrective action, including possible revocation of appointment if bias is confirmed.",
+            "The Public Service Employment Act outlines processes for addressing complaints of bias in appointments."
+        ]
+    },
+    {
+        "task": "Consider a hypothetical dispute between a Canadian athlete and a national sport organization regarding eligibility for competition.  How would the Sport Dispute Resolution Centre of Canada be involved? Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Eligibility dispute between athlete and sport organization",
+            "Resolution through mediation or arbitration facilitated by the Centre",
+            "Established procedures and past decisions of the Centre in similar cases"
+        ]
+    },
+    {
+        "task": "Analyze the following scenario and identify the key legal issue, the likely decision based on the Act, and any relevant precedent: A province claims its population was undercounted by Statistics Canada, affecting its allocated funding for medical equipment. What are the legal considerations?",
+        "answers": [
+            "Dispute over population count affecting funding allocation under the Act",
+            "Decision would likely involve relying on Statistics Canada's official estimate as per the Act",
+            "The Act itself serves as the precedent for determining population and allocating funds."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a traveler refuses to comply with a quarantine officer's order for medical examination. Identify: 1) The key legal issue 2) The potential decision a court might make 3) Relevant precedent from the Quarantine Act.",
+        "answers": [
+            "Refusal to comply with a quarantine officer's order",
+            "Court may order the traveler to undergo medical examination if it is appropriate to prevent or control a risk of significant harm to public health and other reasonable means are not available.",
+            "Sections 22 and 31 of the Quarantine Act."
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue regarding section 15 2) Decision 3) Precedent (if any)",
+        "answers": [
+            "An issue arises in a judicial or administrative proceeding regarding the interpretation or validity of the Agreement or the validity or applicability of the Act, the Labrador Inuit Land Claims Agreement Act (NL), or any Inuit law or bylaw.",
+            "The issue shall not be decided until notice has been served on the Attorney General of Canada, the Attorney General of Newfoundland and Labrador, and the Nunatsiavut Government.",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Based on Part 1: Identify: 1) The meaning of fiscal equalization payment as it pertains to calculating payments to Nova Scotia 2) Which fiscal years are covered by additional offset payments under section 7 3) One of the conditions that needs to be met between 2012 and 2020 for additional offset payments to be made.",
+        "answers": [
+            "The fiscal equalization payment that would be received by the Province for a fiscal year under Part I of the Federal Provincial Fiscal Arrangements Act if the Province's total per capita fiscal capacity were the amount determined by the formula A-B+C-F where A, B, C, and F have the same meaning as in the definition total per capita fiscal capacity in subsection 3(5.1) of that Act.",
+            "April 1, 2006 and March 31, 2012",
+            "The province receives a fiscal equalization payment for that fiscal year"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a dispute arises concerning inconsistent laws, one being the International Interests in Mobile Equipment Aircraft Equipment Act and the other being the Cannabis Act. Identify: 1) Key issue 2) Which law prevails 3) Legal precedent (if applicable)",
+        "answers": [
+            "Conflict between International Interests in Mobile Equipment Aircraft Equipment Act and the Cannabis Act",
+            "The Cannabis Act prevails",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: The Minister of National Defence makes an order requiring a licensee to interrupt services due to concerns about the defence of Canada. The licensee challenges this order, arguing it will cause significant financial losses.",
+        "answers": [
+            "Whether the Minister of National Defence has the authority to order the interruption of services based on reasonable grounds related to national defence.",
+            "The Minister of National Defence's order is valid if based on reasonable grounds that the continuation of the operation would be injurious to the defence of Canada or the safety of Canadian Forces.",
+            "The Remote Sensing Space Systems Act provides the legal framework for the Minister of National Defence to issue such orders in specific circumstances."
+        ]
+    },
+    {
+        "task": "Based on the Public Servants Disclosure Protection Act, identify the key elements related to disclosures of wrongdoings.",
+        "answers": [
+            "Wrongdoing identification",
+            "Disclosure to supervisor, senior officer, or commissioner",
+            "Protection against reprisal"
+        ]
+    },
+    {
+        "task": "Analyze the 'First Nations Oil and Gas and Moneys Management Act' Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "How to provide First Nations with the option of managing and regulating oil and gas exploration and exploitation and of receiving moneys otherwise held for them by Canada",
+            "Enactment of the First Nations Oil and Gas and Moneys Management Act",
+            "Existing aboriginal and treaty rights of the aboriginal peoples of Canada recognized and affirmed by section 35 of the Constitution Act, 1982"
+        ]
+    },
+    {
+        "task": "Analyze the scenario where a First Nation seeks to enact a property taxation law but has not yet established a financial administration law approved by the First Nations Financial Management Board. Identify the key issue, the relevant decision to be made based on the text, and the precedent set by the First Nations Fiscal Management Act.",
+        "answers": [
+            "Whether the First Nation can enact a property taxation law without an approved financial administration law.",
+            "The First Nation cannot enact a property taxation law until a financial administration law is in place and approved.",
+            "Section 4 of the First Nations Fiscal Management Act establishes this requirement."
+        ]
+    },
+    {
+        "task": "Analyze the conflict resolution outlined in section 3 of the Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Conflict between an individual agreement and any Act of Parliament OR Conflict between this Act and any other Act of Parliament",
+            "Individual agreement prevails over any Act of Parliament to the extent of the conflict OR This Act prevails over any other Act of Parliament to the extent of the conflict",
+            "Establishes priority of agreements and this Act in cases of conflict, setting a precedent for interpreting jurisdictional precedence."
+        ]
+    },
+    {
+        "task": "Based on the text of the Mackenzie Gas Project Impacts Act, identify the following regarding director appointments: 1) Key eligibility restriction for directors 2) Decision-making power of the Minister 3) Precedent for director compensation",
+        "answers": [
+            "A person is not eligible to be appointed as a director if they are a member of the Senate, the House of Commons, or the legislature of a province, or an employee/agent of Her Majesty in right of Canada or a province, or not ordinarily resident in Canada.",
+            "The Minister is responsible for providing notice to regional organizations before appointing the first director and considering nominees from those organizations.",
+            "Directors' remuneration and benefits are in accordance with section 108 of the Financial Administration Act."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where a business uses a mark similar to an Olympic mark without authorization. Identify: 1) The key legal issue 2) The likely decision based on the Act 3) The relevant precedent set by the Act",
+        "answers": [
+            "Unauthorized use of Olympic mark",
+            "Injunction and damages",
+            "Protection of Olympic and Paralympic marks"
+        ]
+    },
+    {
+        "task": "Based on the text of the Kyoto Protocol Implementation Act, identify the following: 1) The main goal of the Act. 2) What is required of the Minister of the Environment. 3) What are the potential consequences of not following the rules established by the Act?",
+        "answers": [
+            "To ensure Canada takes effective and timely action to meet its obligations under the Kyoto Protocol",
+            "Prepare a Climate Change Plan",
+            "Offences and Penalties"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a heritage lighthouse is being considered for demolition due to safety concerns. Identify: 1) Key issue 2) Decision 3) Relevant sections of the Heritage Lighthouse Protection Act",
+        "answers": [
+            "Whether the demolition can proceed given the heritage status.",
+            "The Minister must determine if there is no reasonable alternative to demolition and ensure a public meeting is held.",
+            "Sections 14(1) and 14(2)"
+        ]
+    },
+    {
+        "task": "Based on Section 10, outline a scenario where notice must be served to the Attorney General of Canada and Makivik.",
+        "answers": [
+            "Issue arises in respect of the interpretation or validity of the Agreement or the validity or applicability of this Act",
+            "A party raising the issue must serve notice",
+            "Section 10"
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Lack of awareness and recognition for blood donors.",
+            "Establishment of National Blood Donor Week.",
+            "N/A - This Act creates a week of recognition rather than resolving a dispute."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical case where a non-unionized employee believes they are not receiving equitable compensation. Identify: 1) Key issue 2) Potential decision 3) Relevant precedent from the Act.",
+        "answers": [
+            "Lack of equitable compensation for a non-unionized employee in a female predominant job class",
+            "The Federal Public Sector Labour Relations and Employment Board could order the employer to conduct an equitable compensation assessment and create a plan to resolve any inequities",
+            "Sections 5-11 of the Public Sector Equitable Compensation Act outline the obligations of employers to non-unionized employees and the process for addressing complaints."
+        ]
+    },
+    {
+        "task": "According to the text, identify: 1) Key activities needing a license 2) Activities to which this act doesn't apply  3) Factors that trigger the suspension or revocation of a licence",
+        "answers": [
+            "possessing, handling, using, producing, storing, permitting access to, transferring, importing, exporting, releasing, disposing",
+            "activities under the Transportation of Dangerous Goods Act, export of human pathogens/toxins authorized under the Export and Import Permits Act, a human pathogen or toxin that is in an environment in which it naturally occurs if it has not been cultivated or intentionally collected or extracted",
+            "A controlled activity is conducted in a manner that is contrary to this Act or the regulations or poses an undue risk to the health or safety of the public"
+        ]
+    },
+    {
+        "task": "Analyze the scenario where a winding-up order is made for an approved mortgage insurer. Identify the key issue, the Minister's potential decision, and the relevant precedent within the Protection of Residential Mortgage or Hypothecary Insurance Act.",
+        "answers": [
+            "Financial instability of the mortgage insurer following a winding-up order.",
+            "The Minister must elect to either make a payment to an approved mortgage insurer to enter into a contract of replacement insurance or satisfy future claims arising from the occurrence of such an event.",
+            "Subsections 16(3) of Protection of Residential Mortgage or Hypothecary Insurance Act."
+        ]
+    },
+    {
+        "task": "Based on the Restoring Mail Delivery for Canadians Act: 1) Identify the key issue the Act addresses. 2) Summarize the decision mandated by the Act regarding postal services. 3) Identify the relevant sections of the Canada Labour Code that the arbitrator has the powers and duties of.",
+        "answers": [
+            "Resumption and continuation of postal services following a labor dispute.",
+            "The Act mandates the resumption or continuation of postal services by the employer and employees.",
+            "paragraphs 60(1)(a), (a.2), (a.3), and (a.4) and section 61"
+        ]
+    },
+    {
+        "task": "Analyze Section 4(1) of the Justice for Victims of Terrorism Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether a person who suffered loss or damage as a result of terrorism can bring an action to recover damages.",
+            "A person can bring an action to recover an amount equal to the loss or damage suffered from a listed entity, foreign state (whose immunity is lifted), or other person who committed the act.",
+            "Establishes a cause of action for victims of terrorism."
+        ]
+    },
+    {
+        "task": "Based on the Integrated Cross border Law Enforcement Operations Act, outline a scenario where a vessel seized in the United States is brought into Canada. Identify the section of the Act that applies.",
+        "answers": [
+            "Operational or geographical necessity during an integrated cross border operation.",
+            "The vessel remains in the custody and control of the American designated officer.",
+            "Section 15 of the Act"
+        ]
+    },
+    {
+        "task": "Identify the key issue that the Protecting Air Service Act aims to address.",
+        "answers": [
+            "The potential disruption of air service operations due to strikes or lockouts."
+        ]
+    },
+    {
+        "task": "Analyze Section 14 of the Act: Identify the potential penalties for contravening the Act.",
+        "answers": [
+            "Individuals: fine up to $50,000 (officer/representative) or $1,000 (other). Employer/Union: fine up to $100,000 per day.",
+            "Summary conviction",
+            "Criminal Code of Canada, section 787(2)"
+        ]
+    },
+    {
+        "task": "Analyze a scenario where an individual requires access to non-designated land in the Northwest Territories for mineral exploration but the owner of the land refuses to grant access. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Dispute over access to non-designated land for mineral exploration",
+            "The Board makes orders setting out the terms and conditions on which an individual or entity may access those lands and waters and the appropriate compensation to be paid in respect of the access",
+            "The Northwest Territories Surface Rights Board Act SC 2013 c 14 s 11, sections related to access to non-designated land."
+        ]
+    },
+    {
+        "task": "Analyze the legal text related to 'Nunavut Planning and Project Assessment Act' and identify the following elements: 1) The main legal issue addressed by the Act. 2) The decision or purpose of the Act. 3) Mention any precedent or agreement that influences the Act.",
+        "answers": [
+            "land use planning and the assessment of ecosystemic and socio-economic impacts of projects in the Nunavut Settlement Area",
+            "To establish a regime for land use planning and project assessment that recognizes responsible economic development and conservation while considering the well-being of Inuit and other residents.",
+            "Nunavut Land Claims Agreement"
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether specific federal appointees must demonstrate proficiency in both official languages.",
+            "The Act mandates bilingualism for specific federal appointments.",
+            "The Act creates a legal requirement for bilingualism in certain federal positions, serving as a standard for future appointments."
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical case involving a dispute over land rights in the Northwest Territories, referencing the Northwest Territories Act. Identify: 1) Key issue 2) Decision 3) Relevant section of the Act",
+        "answers": [
+            "land rights",
+            "resolution based on Northwest Territories Act",
+            "relevant section of Northwest Territories Act"
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the actions of a person contravene the prohibitions outlined in Section 6 of the Act related to cluster munitions.",
+            "Whether the person is guilty of an offence under section 17.",
+            "This Act serves as a precedent for the interpretation and enforcement of international agreements related to prohibited weapons in Canada."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A person is found hunting wild animals within the Rouge National Urban Park, violating section 18(2)(b) of the Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Illegal hunting in the park",
+            "Enforcement action under the Act",
+            "Previous cases involving illegal activities in national parks"
+        ]
+    },
+    {
+        "task": "Analyze the High Risk Child Sex Offender Database Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Establishing a publicly accessible database containing information on high-risk child sex offenders",
+            "The Act mandates the establishment and administration of such a database by the Commissioner of the RCMP.",
+            "This Act establishes a new legal framework and does not directly rely on a single precedent. However, it is influenced by existing laws regarding sex offender registration and public safety concerns."
+        ]
+    },
+    {
+        "task": "Analyze a scenario where a Canadian citizen's passport is cancelled due to suspicion of terrorist activity abroad. Identify: 1) The key issue 2) The decision the judge must make 3) The relevant precedent set by the Canada Evidence Act",
+        "answers": [
+            "Whether the passport cancellation is reasonable based on available information.",
+            "Whether cancelling the passport is reasonable or unreasonable.",
+            "Sections 38.2 to 38.45 of the Canada Evidence Act."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A nuclear incident occurs during the transportation of nuclear material. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Liability for damages during transportation",
+            "The operator is liable for damages, limited by the Act.",
+            "The Act sets the precedent for liability in nuclear incidents."
+        ]
+    },
+    {
+        "task": "Based on section 4, identify: 1) The key issue regarding the Governor in Council's powers, 2) The Governor in Council's decision-making ability, and 3) The section that establishes this precedent.",
+        "answers": [
+            "Circumstances under which orders or regulations can be made",
+            "Governor in Council may make orders or regulations with respect to the restriction or prohibition of activities in relation to a foreign national if certain circumstances exist.",
+            "Section 4"
+        ]
+    },
+    {
+        "task": "Based on the text, identify key elements of the National Security and Intelligence Committee of Parliamentarians Act.",
+        "answers": [
+            "Establishment of the National Security and Intelligence Committee of Parliamentarians",
+            "Review national security matters",
+            "Compliance with security requirements and access to information"
+        ]
+    },
+    {
+        "task": "Analyze the National Strategy for Alzheimer's Disease and Other Dementias Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Development and implementation of a national strategy for Alzheimer's disease and other dementias",
+            "The Act mandates the development and implementation of a national strategy, conference, and advisory board",
+            "This Act itself can serve as a precedent for future national strategies addressing specific health conditions in Canada."
+        ]
+    },
+    {
+        "task": "Analyze Section 4(2) of the Invest in Canada Act. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Whether the Invest in Canada Hub is an agent of Her Majesty in right of Canada.",
+            "The Invest in Canada Hub is for all purposes an agent of Her Majesty in right of Canada.",
+            "This section establishes the legal status of the Invest in Canada Hub, potentially creating a precedent for other similar organizations."
+        ]
+    },
+    {
+        "task": "A traveller bound for the United States is in a preclearance area. A preclearance officer suspects they have concealed goods and wants to conduct a strip search. Identify: 1) the condition for conducting a strip search; 2) who must conduct the strip search; 3) the recourse available to the traveller",
+        "answers": [
+            "Reasonable grounds to suspect concealed goods or danger, and necessity for preclearance",
+            "A border services officer, unless unavailable",
+            "Inform Canadian senior officials of the Preclearance Consultative Group"
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A postal worker refuses to resume duties after the Act comes into force. Identify the key issue, the decision mandated by the Act, and the relevant precedent (if any, or state 'none').",
+        "answers": [
+            "Refusal to resume postal duties after the Act comes into force.",
+            "The employee must resume duties without delay.",
+            "none"
+        ]
+    },
+    {
+        "task": "According to section 18, what actions by a deputy head, stemming solely from the denial of a security clearance, trigger a notification requirement?  Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Denial of security clearance leading to employment repercussions",
+            "Deputy head must notify individual of security clearance denial",
+            "N/A"
+        ]
+    },
+    {
+        "task": "Analyze a hypothetical scenario where the Intelligence Commissioner approves a Foreign Intelligence Authorization, but the National Security and Intelligence Review Agency disagrees with the decision. Identify: 1) Key issue 2) Decision 3) Relevant legislation",
+        "answers": [
+            "Whether the Intelligence Commissioner's decision to approve the authorization was reasonable, given the information available to them.",
+            "The Intelligence Commissioner approved the Foreign Intelligence Authorization.",
+            "Intelligence Commissioner Act, Communications Security Establishment Act, National Security and Intelligence Review Agency Act"
+        ]
+    },
+    {
+        "task": "Based on Section 4 of the Indigenous Languages Act, concerning inconsistency or conflict, identify the following elements: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Conflict between the Act and a treaty (including land claims or self-government agreement)",
+            "Treaty or self-government agreement prevails to the extent of the inconsistency or conflict",
+            "Prior agreements are upheld"
+        ]
+    },
+    {
+        "task": "Identify: 1) Key issue 2) Decision 3) Precedent relating to section 4",
+        "answers": [
+            "Oil Tanker operation violating regulations",
+            "Violation of oil regulation",
+            "This act will serve as a precedent for the future"
+        ]
+    },
+    {
+        "task": "Analyze the role of the Federal Housing Advocate as defined in the National Housing Strategy Act. Identify: 1) Key issue the advocate addresses 2) Decision making power of advocate 3) Precedent the advocate must consider",
+        "answers": [
+            "Systemic housing issues, barriers faced by vulnerable groups, and homelessness",
+            "Power to review issues, request review panels, and submit reports with recommendations",
+            "The housing policy, the right to adequate housing, and the National Housing Strategy"
+        ]
+    },
+    {
+        "task": "Analyze the 'Poverty Reduction Act SC 2019 c 29 s 315'. Identify: 1) Key issue 2) Decision 3) Precedent",
+        "answers": [
+            "Poverty reduction in Canada",
+            "Enactment of legislation to support continuous efforts in and continuous monitoring of poverty reduction",
+            "N/A - This is a statute, not a case."
+        ]
+    },
+    {
+        "task": "Analyze the scenario: A strike occurs at the Port of Montreal after the coming into force of the Port of Montreal Operations Act, 2021. Identify: 1) Key issue 2) Decision 3) Relevant Section of the Act",
+        "answers": [
+            "Legality of the strike under the Act",
+            "The strike is illegal",
+            "Section 7"
+        ]
+    },
+    {
+        "task": "Analyze section 17.1 of the Public Complaints and Review Commission Act, and Identify: 1) Key issue related to privileged information 2) Example of privileged information 3) Section dealing with privileged information ",
+        "answers": [
+            "Access to privileged information by the Commission",
+            "Information subject to solicitor client privilege or informer privilege or medical information",
+            "Sections 17, 19 to 26"
+        ]
+    },
+    {
+        "task": "Based on Section 6.1 of the Haida Nation Recognition Act, identify the key issue, the decision made, and the precedent it may set.",
+        "answers": [
+            "Immunity from legal action for representatives and public officials of the Haida Nation.",
+            "No action lies against a representative of the Haida Nation or a public official unless bad faith is established.",
+            "Establishes a standard for immunity from legal action for representatives of the Haida Nation and public officials."
+        ]
+    },
+    {
+        "task": "Analyze the role of the National Council for Reconciliation in promoting reconciliation and monitoring the government's progress. Identify the key issue the council addresses, the decision to establish the council, and the precedent this Act sets.",
+        "answers": [
+            "Addressing assimilationist policies and achieving reconciliation with Indigenous peoples.",
+            "Establishment of an independent council to monitor and report on reconciliation progress.",
+            "Sets a precedent for an independent, non-political, permanent, and Indigenous-led organization to advance reconciliation."
+        ]
+    }
+]

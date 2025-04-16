@@ -1,0 +1,814 @@
+[
+    {
+        "scenario": "A user wants to find amending legislation for the Dominion Succession Duty Act on CanLII.",
+        "outcome": "No amending legislation is available on CanLII according to the provided text."
+    },
+    {
+        "scenario": "An officer retires voluntarily after 27 years of service. According to the Act, how is their pension calculated?",
+        "outcome": "The officer is entitled to a pension calculated as if they were retired compulsorily, with no additions for service beyond 35 years as per section 3.6. Pension is calculated based on provisions within section 3."
+    },
+    {
+        "scenario": "A railway company operating between Ontario and Quebec has failed to pay a supplier $500 for delivered goods, despite a written demand served 20 days prior. The supplier seeks legal recourse.",
+        "outcome": "The supplier can likely pursue legal action in the Exchequer Court, as the railway company operates between provinces, has failed to pay a debt exceeding $200 after a formal demand, and the required timeframe has elapsed. The court has concurrent jurisdiction with provincial courts."
+    },
+    {
+        "scenario": "A province applies for a provincial revenue stabilization payment more than eighteen months after the end of the fiscal year. What will be the outcome?",
+        "outcome": "The provincial revenue stabilization payment may not be paid to the province in respect of that fiscal year."
+    },
+    {
+        "scenario": "A ship is seized as prize and brought into Canadian territorial waters. The Attorney General of Canada does not provide consent for proceedings to enforce a claim for services rendered in retaking the ship.",
+        "outcome": "No proceedings can be instituted to enforce the claim for services rendered in retaking the ship; the claim cannot be made or relied upon in any proceedings (Section 6)."
+    },
+    {
+        "scenario": "A claimant fails to submit their statement of claim as per Article 23(1) without sufficient cause. What is the likely outcome according to the Commercial Arbitration Act?",
+        "outcome": "The arbitral tribunal shall terminate the proceedings as per Article 25(a)."
+    },
+    {
+        "scenario": "A member of the Competition Tribunal has a direct financial interest in a matter before the Tribunal.",
+        "outcome": "The member shall not take part in the matter before the Tribunal."
+    },
+    {
+        "scenario": "An inspector finds a large quantity of unmarked maple syrup at a farmer's market, exceeding what is reasonably for personal use. The farmer claims ignorance of the labeling regulations.",
+        "outcome": "The maple syrup will likely be seized, and the farmer may face penalties for violating the Canada Agricultural Products Act and related regulations, unless they can provide sufficient evidence to the contrary to prove the syrup was not for marketing. The farmer's claim of ignorance will likely not be a valid defense."
+    },
+    {
+        "scenario": "A Canadian resident earns income from immovable property located in Brazil. According to Article VI, which country has the right to tax this income?",
+        "outcome": "Brazil"
+    },
+    {
+        "scenario": "A farmer applies for a loan under the Canadian Agricultural Loans Act to purchase livestock. The lender does not secure the loan in the manner prescribed by the regulations.",
+        "outcome": "The Minister is not liable to make any payment to the lender in respect of any loss sustained as a result of the loan because the lender did not comply with the regulations, as per section 12(1)(a) of the Act."
+    },
+    {
+        "scenario": "Two divorce proceedings involving the same spouses are commenced on the same day in different provincial courts. Neither proceeding is discontinued within 40 days. One proceeding includes an application for a parenting order, and the child is habitually resident in Alberta. According to the Divorce Act, which court will retain jurisdiction?",
+        "outcome": "The court in Alberta will retain jurisdiction."
+    },
+    {
+        "scenario": "Air Canada wishes to change its name.",
+        "outcome": "Air Canada may continue to use and be legally designated by the name Air Canada"
+    },
+    {
+        "scenario": "An interest owner fails to appoint a representative when required by the Act. What can the Minister do?",
+        "outcome": "The Minister may designate one of the holders as the representative of the interest owner for those purposes."
+    },
+    {
+        "scenario": "A peace officer applies to the Minister for the release of information to investigate a child abduction case. The application includes an affidavit stating reasonable steps were taken to locate the child, but the officer fails to specify which offence of the criminal code the person commited. How is the scenario affected by the act?",
+        "outcome": "The Minister may deny the request because the documents did not conform to s.14(3)(a)."
+    },
+    {
+        "scenario": "A province experiences a severe flood and requests assistance from the federal government. The Governor in Council has declared the provincial emergency to be of concern to the federal government. What is a likely outcome according to the Act?",
+        "outcome": "The Governor in Council may authorize the provision of assistance, including financial assistance, to the province."
+    },
+    {
+        "scenario": "An animal pedigree association makes a by-law imposing a large fine on members who fail to submit breeding records on time. A member challenges the fine, citing the Animal Pedigree Act. What is the likely outcome?",
+        "outcome": "The fine would likely be deemed invalid because the Animal Pedigree Act prohibits associations from imposing fines or monetary penalties of any kind in respect of non-compliance with its by-laws. A fee is allowed, but not a fine."
+    },
+    {
+        "scenario": "A company is exploring for natural resources near arctic waters and has an accident causing a waste spill. The company promptly reports the spill and takes steps to contain it.",
+        "outcome": "The company is likely to be held liable for the costs and damages resulting from the spill, up to the limit prescribed by regulations, but its cooperation may be a mitigating factor in determining the extent of the liability."
+    },
+    {
+        "scenario": "A resident of Canada submits a petition to the Auditor General regarding an environmental matter related to sustainable development that falls under the responsibility of a designated entity.  What is the expected outcome, according to the Act?",
+        "outcome": "The Auditor General will record the petition and forward it to the appropriate Minister for the designated entity within fifteen days. The Minister will acknowledge receipt to the petitioner and send a copy to the Auditor General.  The Minister will then consider the petition and provide a response to the petitioner, copying the Auditor General, generally within 120 days."
+    },
+    {
+        "scenario": "A person with a visual impairment requests a copy of a government document. What must the government institution provide?",
+        "outcome": "The government institution should provide the document in an alternative format that is accessible to the person with a visual impairment."
+    },
+    {
+        "scenario": "A province proposes a project focused on improving agricultural technology in a specific rural area. The Minister agrees this aligns with ARDA's goals.",
+        "outcome": "The Minister can enter into an agreement with the province, subject to the Governor in Council's approval, and potentially provide contributions towards the project's cost, provided Parliament has appropriated money for that purpose."
+    },
+    {
+        "scenario": "A bill of exchange has the words 'Given for a patent right' printed on its face. The original purchaser of the patent right has a dispute with the seller. The bill is then transferred to a third party. What is the likely outcome for the third party?",
+        "outcome": "The third party takes the bill subject to any defence or set-off that existed between the original parties (purchaser and seller of the patent)."
+    },
+    {
+        "scenario": "A consignee receives a bill of lading for goods, but the goods were never actually shipped. The consignee was unaware of this fact. Can the master of the vessel be held liable based on the bill of lading?",
+        "outcome": "Yes, unless the master can prove the misrepresentation was without their fault and due to the shipper's or holder's fault, or unless the bill of lading had a stipulation to the contrary."
+    },
+    {
+        "scenario": "A group of 25 merchants in a district with a population of 3,000 wants to form a board of trade. They meet all other requirements outlined in the Boards of Trade Act.",
+        "outcome": "They will not be able to form a Board of Trade as they do not meet the minimum number of 30 persons required."
+    },
+    {
+        "scenario": "A company fails to report an accident on its bridge to the Minister within the specified time frame. What is the likely outcome according to the Bridges Act?",
+        "outcome": "The company will incur a fine not exceeding two hundred dollars for every day during which the omission to give the notice continues (Section 22)."
+    },
+    {
+        "scenario": "A person transmits a letter via electronic means.",
+        "outcome": "The exclusive privilege of the Canada Post Corporation does not apply to this transmission."
+    },
+    {
+        "scenario": "A province and the federal government disagree on water quality standards for an inter-jurisdictional water body after initially reaching an agreement and forming an agency.",
+        "outcome": "The agreement can be terminated, potentially leading the Governor in Council to designate the waters a water quality management area and authorize the Minister to name a federal agency to manage the water quality"
+    },
+    {
+        "scenario": "A dairy farmer consistently exceeds their allocated milk production quota. What actions might the Canadian Dairy Commission take?",
+        "outcome": "The Canadian Dairy Commission could impose levies or charges, suspend or cancel the farmer's license, or take other regulatory actions as outlined in the Act and its regulations."
+    },
+    {
+        "scenario": "A member of the Canadian Payments Association fails to comply with the by-laws, rules, and orders. What is a potential consequence, according to the text?",
+        "outcome": "The member may be subject to penalties, including the payment of interest or the making of restitution."
+    },
+    {
+        "scenario": "A director of the Canadian Wheat Board makes a decision that, in hindsight, causes financial loss to the Corporation. However, the director acted honestly and in good faith, relying on expert advice.",
+        "outcome": "Under Section 3.12(3), the director may not be liable for the loss if they relied in good faith on a report from a lawyer, accountant, or other expert."
+    },
+    {
+        "scenario": "The Board of Directors of the Cape Breton Development Corporation needs to authorize someone to act as President due to the current President's incapacity. The Board wants to authorize a director to act as President for 90 days without Governor in Council approval.",
+        "outcome": "The Board can only authorize an officer or a director of the Corporation to act as President for a period not exceeding sixty days without the approval of the Governor in Council, so the 90-day plan would not be permissible without this approval."
+    },
+    {
+        "scenario": "A student is receiving assistance under the Act and fails to meet the requirements for promotion. However, the Minister believes the failure was due to reasons beyond the student's control.",
+        "outcome": "The student may still be eligible for assistance, as per Section 7 of the Act."
+    },
+    {
+        "scenario": "A person has served two consecutive terms as Vice Chairperson of the Canada Council for the Arts. Can they be re-appointed immediately after their second term?",
+        "outcome": "No, they are not eligible to be re-appointed to the Council in the same capacity during the twelve months following the completion of the second term."
+    },
+    {
+        "scenario": "A UK court renders a judgment related to bankruptcy. A party seeks to enforce this judgment in Canada under the Canada-UK Civil and Commercial Judgments Convention. What is the likely outcome?",
+        "outcome": "Enforcement will likely be denied because the Convention does not apply to judgments regarding bankruptcy (Article II, Section 2(d)(v))."
+    },
+    {
+        "scenario": "A dealer imports prepackaged products into Canada without labels declaring the net quantity. What is the likely legal outcome according to the Consumer Packaging and Labelling Act?",
+        "outcome": "The dealer has contravened the Act and is guilty of an offence"
+    },
+    {
+        "scenario": "A corporation fails to file a return as required by the Corporations Returns Act. What is a potential consequence?",
+        "outcome": "The corporation is guilty of an offence and liable on summary conviction to a fine not exceeding two hundred and fifty dollars for each day of the default."
+    },
+    {
+        "scenario": "A shareholder wants to propose an amendment to the corporation's articles. According to the provided text, what must the shareholder do to ensure the proposal is considered?",
+        "outcome": "Follow the procedures outlined for shareholder proposals, including eligibility requirements and information disclosure as per section 137."
+    },
+    {
+        "scenario": "A law student in Yukon is representing a client on a summary conviction offence.  The Law Society of Yukon determines the extent to which the student can examine witnesses. What will be the legal effect?",
+        "outcome": "This is an approved program under section 802.1 of the Criminal Code"
+    },
+    {
+        "scenario": "A person applies for a job with a vulnerable sector. A police check reveals a suspended record for a Schedule 2 offence. The applicant consents to disclosure. What is the likely outcome?",
+        "outcome": "The police force or authorized body will request the record from the Commissioner, and the Minister may disclose the information to the person or organization responsible for the vulnerable sector to assess the application."
+    },
+    {
+        "scenario": "A producer organization makes an advance to a producer for a crop. The crop is subsequently damaged by hail.  What is the likely outcome according to the Act?",
+        "outcome": "The producer becomes liable to pay the portion of the advance and guaranteed interest attributable to the damaged portion of the crop."
+    },
+    {
+        "scenario": "A person is injured by a motor vehicle owned by the Crown while it was being driven on a highway. The driver of the vehicle was found to be negligent. Based on the Crown Liability and Proceedings Act, what is the likely outcome?",
+        "outcome": "The Crown is likely liable for the damages sustained by the injured person, as the driver's negligence creates a liability that would exist if the Crown were a private person."
+    },
+    {
+        "scenario": "A person attempts to pay a $50 debt using five hundred Canadian one-cent coins. Is this a legal tender?",
+        "outcome": "No, because according to section 8(2)(e) a tender of payment in one-cent coins is a legal tender for no more than twenty-five cents."
+    },
+    {
+        "scenario": "A company imports a drilling rig to the continental shelf of Canada. Duties and taxes are not paid. What will happen under the Customs and Excise Offshore Application Act?",
+        "outcome": "The drilling rig will be subject to federal customs laws as if it were being imported into Canada."
+    },
+    {
+        "scenario": "A Public Official who has served for 7 years in a Public Office retires at the age of 60. Immediately prior to their appointment, they were not a contributor under the Civil Service Superannuation Act or the Public Service Superannuation Act. What are their options for receiving benefits under the Diplomatic Service Special Superannuation Act?",
+        "outcome": "The Public Official is entitled to a return of the total contributions made by him under this Part together with interest"
+    },
+    {
+        "scenario": "A person dies intestate without any known heirs, and owns a valuable piece of land in Canada. What will likely happen to the land according to the Escheats Act?",
+        "outcome": "The land will likely escheat to Her Majesty the Queen in right of Canada, and the Attorney General of Canada may take possession of it."
+    },
+    {
+        "scenario": "A Canadian resident purchases an insurance policy from a company located in the United States. The insurance covers property located in Canada.",
+        "outcome": "The insurance premium will be subject to tax under the Excise Tax Act."
+    },
+    {
+        "scenario": "A regulation is made prohibiting the export of a specific type of pulpwood. This regulation is laid before Parliament as required by the Export Act, but Parliament is prorogued before the regulation can be approved by resolution. What is the outcome?",
+        "outcome": "The regulation remains in force until the day immediately succeeding the date of prorogation of that session of Parliament and no longer."
+    },
+    {
+        "scenario": "The Governor in Council wishes to establish a committee to advise the Minister of Foreign Affairs on international trade matters.",
+        "outcome": "According to section 6, the Governor in Council has the authority to establish advisory committees to assist the Minister."
+    },
+    {
+        "scenario": "A gas company fails to report service pressure at prescribed intervals, as required by the Electricity and Gas Inspection Act regulations. What is a likely outcome?",
+        "outcome": "The company may face penalties, such as fines or other enforcement actions, according to the regulations and potential legal proceedings."
+    },
+    {
+        "scenario": "A company transports crude oil out of its province of production without documentary evidence that the price paid is not greater than the prescribed price. What are the likely consequences under the Energy Administration Act?",
+        "outcome": "The company may be in contravention of section 27 of the Act and may face penalties, potentially including fines and/or imprisonment, according to section 31."
+    },
+    {
+        "scenario": "A person sells a fertilizer that contains destructive ingredients harmful to plant growth.",
+        "outcome": "This is a violation of the Fertilizers Act"
+    },
+    {
+        "scenario": "A farmer applies for a loan to purchase new livestock, but the lender fails to scrutinize the application carefully. The farmer defaults. Will the Minister cover the lender's losses?",
+        "outcome": "Likely no, because Section 3(c) requires the lender to scrutinize the application with due care."
+    },
+    {
+        "scenario": "A dispute arises regarding land administration in Nunavut. The land in question is not under the administration of another minister or agent corporation, nor is it under the control of the Commissioner of Nunavut. According to the Act, who has the administration of this land?",
+        "outcome": "The Minister of Indian Affairs and Northern Development"
+    },
+    {
+        "scenario": "A contractor working on a federal government project fails to pay the required fair wages to their employees. What is the likely outcome under the Fair Wages and Hours of Labour Act?",
+        "outcome": "The contractor will be required to pay Her Majesty as liquidated damages a sum of fifty dollars for every default, and the amount may be deducted from any moneys payable to the contractor under the contract."
+    },
+    {
+        "scenario": "A company begins oil exploration in Nunavut without obtaining an operating license or authorization.",
+        "outcome": "The company is in violation of Section 4 of the Canada Oil and Gas Operations Act and subject to potential penalties or enforcement actions."
+    },
+    {
+        "scenario": "A contractor fails to provide sufficient security for a public work contract under the Minister's control. According to the Department of Transport Act, what is the likely outcome?",
+        "outcome": "No sum of money shall be paid to the contractor on any contract and no work commenced until the contract has been signed by all the parties therein named and the requisite security has been given."
+    },
+    {
+        "scenario": "A veteran is seeking assistance with their pension application. Based on the Act, what is the likely outcome regarding support from the Bureau of Pensions Advocates?",
+        "outcome": "The Bureau of Pensions Advocates will likely assist the veteran in preparing their application and provide representation at hearings."
+    },
+    {
+        "scenario": "A company is authorized to carry out an undertaking under the Dominion Water Power Act and requires land not owned by the Crown. What process must the company follow to acquire the land?",
+        "outcome": "The company must obtain written permission from the Minister, then expropriate the land in accordance with the Expropriation Act. The company must also advise the appropriate minister in relation to Part I of the Expropriation Act."
+    },
+    {
+        "scenario": "The Parliament of Canada declares that certain lands within a national park in Alberta are no longer required for park purposes.",
+        "outcome": "The lands, mines, minerals, precious and base, and the royalties incident thereto specified in the declaration will belong to the Province of Alberta, and paragraph three of the agreement will apply to them from the date of the declaration."
+    },
+    {
+        "scenario": "The bonds issued by the Bridge Authority prior to July 1, 2020, are paid in full on August 1, 2025. What happens to the rights, powers, and jurisdiction of the Bridge Authority under this Act?",
+        "outcome": "They are terminated, and the property acquired or held by it within Canada becomes the property of Her Majesty in right of Canada."
+    },
+    {
+        "scenario": "The Province of Quebec commences construction on the bridge without submitting plans and drawings to the Governor in Council.",
+        "outcome": "Construction cannot commence until the plans and drawings are approved by the Governor in Council, therefore the province would be in violation of the Act."
+    },
+    {
+        "scenario": "The Canadian and US authorities decide to jointly widen the Blue Water Bridge. What section of the Act allows the Bridge Authority to enter into an agreement for this project?",
+        "outcome": "Section 25(2) allows the Bridge Authority to enter into contractual or other arrangements with any authority in the United States for widening, extending, adding to, or enlarging or otherwise altering the Blue Water Bridge."
+    },
+    {
+        "scenario": "A manufacturer applies for an employment support grant but is unable to fully comply with all applicable regulations. The Employment Support Board believes a grant would still align with the Act's purpose.",
+        "outcome": "The Board may recommend to the Governor in Council that a grant be authorized under the Act for that manufacturer."
+    },
+    {
+        "scenario": "A Canadian resident earns income from immovable property located in Belgium. According to the Convention, which country can tax this income?",
+        "outcome": "Belgium may tax this income."
+    },
+    {
+        "scenario": "A shareholder of the Cooperative Energy Corporation fails to make a payment in accordance with a demand for payment on their partly paid Class D shares. According to the Act, what is the likely outcome?",
+        "outcome": "The shareholder is liable to pay interest on the amount thereof at a rate established by the directors of the Corporation from the day appointed for payment to the day of payment, and the directors of the Corporation may declare forfeited all of the securities whether fully paid or partly paid of the holder of the shares in respect of which the demand is made."
+    },
+    {
+        "scenario": "A company resident in Canada earns profits from operating ships in international traffic involving Germany. According to Article 8, where will these profits be taxed?",
+        "outcome": "Only in Canada."
+    },
+    {
+        "scenario": "A resident of Canada derives income from immovable property situated in Korea. According to Article 6, which country can tax this income?",
+        "outcome": "Korea"
+    },
+    {
+        "scenario": "A company resident in Canada earns profits attributable to a permanent establishment in the United States. The United States seeks to impose an additional tax on these earnings. According to Article X (Dividends), what is the maximum percentage of additional tax the United States can impose on the amount of such earnings which have not been subjected to such additional tax in previous taxation years?",
+        "outcome": "10 percent"
+    },
+    {
+        "scenario": "A depositor applies for payment under the Act after April 1, 1986.",
+        "outcome": "No payment may be made, as applications must be received prior to April 1, 1986."
+    },
+    {
+        "scenario": "The Canada Development Investment Corporation wishes to sell its remaining shares of Bombardier Canadair Inc. What must occur for this sale to be authorized according to the Act?",
+        "outcome": "The terms and conditions of the sale must be approved by the Governor in Council."
+    },
+    {
+        "scenario": "A company fails to comply with a 'demand for information' as per section 113(1) of the Act. What is the likely outcome?",
+        "outcome": "According to section 113(5), a court order may be issued compelling compliance. Failure to comply with the court order could result in further legal consequences."
+    },
+    {
+        "scenario": "An operator fails to comply with a production order issued by the Board.",
+        "outcome": "Enforcement of Committee orders will occur."
+    },
+    {
+        "scenario": "The Minister directs Eldorado to sell securities of the new corporation. Eldorado fails to comply with the direction.",
+        "outcome": "Eldorado is not in compliance with the law, as the Act authorizes Eldorado to sell or dispose of securities of the new corporation in accordance with the direction and shall comply with the direction"
+    },
+    {
+        "scenario": "A provincial government requests the Board to investigate a railway accident within its jurisdiction, offering to cover the costs. According to the Act, can the Board proceed with the investigation?",
+        "outcome": "Yes, the Board may investigate if requested by the lieutenant governor in council of a province and if the province undertakes to be liable for any reasonable costs incurred by the Board in the investigation."
+    },
+    {
+        "scenario": "An employee in Prince Rupert refuses to resume their duties after the Act comes into force, despite being requested to do so by their employer. What is the likely outcome according to the Act?",
+        "outcome": "The employee may be in violation of the Act (Part II, section 15) and could face penalties as outlined in section 22."
+    },
+    {
+        "scenario": "If the Minister of Transport, with approval from the Governor in Council, sells all shares of Canada Harbour Place Corporation according to subsection 2(1), what happens to the directors of the Corporation?",
+        "outcome": "The directors of Canada Harbour Place Corporation cease to hold office at the close of the first meeting of shareholders held after the disposal of the shares."
+    },
+    {
+        "scenario": "A researcher wants to determine the official mandate of the Canadian Polar Commission in 2010.",
+        "outcome": "They would need to consult the version of the Act in force between April 1, 2005 and June 28, 2012."
+    },
+    {
+        "scenario": "Canada requests information from Mexico about a taxpayer. The information is not available in Mexico's tax files, but Mexico can obtain it through further investigation. What is the likely outcome according to Article 4?",
+        "outcome": "Mexico shall take all relevant measures to provide the applicant State with the information requested."
+    },
+    {
+        "scenario": "An inspector seizes an energy using product believing it violates the Act. 120 days pass, and no proceedings have been instituted. What is the likely outcome regarding the seized product?",
+        "outcome": "The seized product must be released as it cannot be detained after 120 days without proceedings being instituted or forfeiture occurring."
+    },
+    {
+        "scenario": "A designated airport authority attempts to seize an aircraft for unpaid fees. The aircraft is owned by a foreign government and is used for diplomatic purposes.",
+        "outcome": "The aircraft may be exempt from seizure based on the provisions outlined related to exemptions and international law, depending on the specific circumstances and applicable regulations."
+    },
+    {
+        "scenario": "A Canadian resident receives interest from an Argentine bond. According to the Canada-Argentina Income Tax Convention, what will be the tax outcome?",
+        "outcome": "The interest may be taxed in both Canada and Argentina, but the tax charged in Argentina cannot exceed 12.5% of the gross amount of the interest if the recipient is the beneficial owner, per Article 11."
+    },
+    {
+        "scenario": "A qualifying student applies for a certificate of eligibility but does not meet the satisfactory scholastic standard.",
+        "outcome": "The appropriate authority will not issue a certificate of eligibility."
+    },
+    {
+        "scenario": "A claim is made on September 15, 1995, for a movement of goods eligible for assistance under the Atlantic Region Freight Assistance Act.",
+        "outcome": "No payment may be made out of the Consolidated Revenue Fund."
+    },
+    {
+        "scenario": "A new policy initiative requires interdepartmental collaboration within the Government of Canada.",
+        "outcome": "The Minister of Industry, if involved, may leverage services, facilities, information, and expertise from other departments, boards, or agencies."
+    },
+    {
+        "scenario": "A federal body is acquiring new motor vehicles in 1998. According to the Alternative Fuels Act, what percentage of these vehicles should be capable of operating on alternative fuels, assuming it is cost-effective and operationally feasible?",
+        "outcome": "60%"
+    },
+    {
+        "scenario": "A person attempts to acquire 30% of the voting shares of CN.",
+        "outcome": "The articles of continuance of CN shall contain a provisions imposing constraints on the issue transfer and ownership including joint ownership of voting shares of CN to prevent any one person together with the associates of that person from holding beneficially owning or controlling directly or indirectly otherwise than by way of security only in the aggregate voting shares to which are attached more than 25 of the votes that may ordinarily be cast to elect directors of CN"
+    },
+    {
+        "scenario": "An international inspector, authorized under the Convention, arrives at a Canadian facility to conduct an inspection, but the facility manager refuses entry despite the inspector presenting their certificate. A representative of the National Authority is present.",
+        "outcome": "The representative of the National Authority may seek a warrant under section 15(2) of the Chemical Weapons Convention Implementation Act to authorize entry. If exigent circumstances exist, a warrant may not be required under section 15(3)."
+    },
+    {
+        "scenario": "A corporation with 25% Canadian voting interest operating in the USA seeks a loan from the Business Development Bank of Canada.",
+        "outcome": "Loan approval is unlikely unless the Canadian voting interest is at least one third as per section 14(4a)."
+    },
+    {
+        "scenario": "A company is served a notice of violation for contravening the Safe Food for Canadians Act. They choose to enter into a compliance agreement with the Minister but fail to meet the terms of the agreement. What is the likely outcome?",
+        "outcome": "The Minister will serve a notice of default, and the company will either be liable to pay twice the amount of the original penalty or forfeit any security given under the compliance agreement to Her Majesty in right of Canada."
+    },
+    {
+        "scenario": "A private sector employer fails to file an annual report as required by the Employment Equity Act. What is the likely outcome?",
+        "outcome": "The employer may face compliance audits and potential penalties."
+    },
+    {
+        "scenario": "A new policy relating to employment services is being implemented. The Minister of Human Resources Development seeks the Canada Employment Insurance Commission's input and action.",
+        "outcome": "The Commission is obligated to follow the directions given by the Minister regarding the exercise of its powers or the performance of its duties and functions."
+    },
+    {
+        "scenario": "The Canadian Association of Former Parliamentarians wishes to establish a scholarship program to promote the study of parliamentary democracy.",
+        "outcome": "The Association is authorized to establish and award scholarships or fellowships for study related to its objects, as per section 7(d) of the Act."
+    },
+    {
+        "scenario": "A person is caught importing a substance listed in Schedule II without authorization. They argue that they were unaware that a permit was required. What is the likely outcome according to the Controlled Drugs and Substances Act?",
+        "outcome": "The person is likely to be charged with an indictable offence and is liable to imprisonment for life, as stated in Section 6(3)(a) of the Act, provided the Crown can establish the necessary mens rea (guilty mind)."
+    },
+    {
+        "scenario": "A Canadian company wants to challenge a regulation under Part I of the Canada Israel Free Trade Agreement Implementation Act.",
+        "outcome": "The company cannot initiate proceedings without the consent of the Attorney General of Canada."
+    },
+    {
+        "scenario": "A legal document references the 'Winding up Act' without further clarification after July 31, 1996.",
+        "outcome": "The reference should be interpreted as a reference to the 'Winding up and Restructuring Act', unless the context indicates otherwise."
+    },
+    {
+        "scenario": "A producer applies for a guaranteed advance, but has previously defaulted on a repayment agreement under the same program. Is the producer eligible for the advance?",
+        "outcome": "No, the producer is likely ineligible as they must not be in default under a repayment agreement to be eligible for a guaranteed advance."
+    },
+    {
+        "scenario": "A farmer applies for mediation under the Farm Debt Mediation Act. The administrator appoints a guardian of the farmer's assets. During the stay of proceedings, a creditor, without knowledge of the stay, attempts to seize the farmer's equipment. What is the likely outcome regarding the creditor's actions?",
+        "outcome": "The creditor's actions would be considered null and void under section 22 of the Farm Debt Mediation Act, and the farmer may seek remedies against the creditor."
+    },
+    {
+        "scenario": "A director of the Canada Foundation for Innovation is elected to the House of Commons.",
+        "outcome": "The director ceases to be a director."
+    },
+    {
+        "scenario": "A Canadian citizen served with a United Nations peacekeeping force in a foreign country. The Minister of National Defence nominates them for the Canadian Peacekeeping Service Medal.",
+        "outcome": "The Governor in Council may award the Canadian Peacekeeping Service Medal to the citizen, provided they meet the qualifications outlined in the Act and regulations."
+    },
+    {
+        "scenario": "An individual is found to have contravened section 6 of the Anti-Personnel Mines Convention Implementation Act.",
+        "outcome": "The individual is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding eighteen months or to both, or on conviction on indictment to a fine not exceeding $500,000 or to imprisonment for a term not exceeding five years or to both, as per section 21(1) of the Act."
+    },
+    {
+        "scenario": "A depository bill is presented to a clearing house. The acceptor's signature is forged. The clearing house attempts to enforce the bill against the acceptor. What is the likely outcome?",
+        "outcome": "The acceptor is not liable, as a forged signature is a valid defense against enforcement by the clearing house. (Based on section 20)"
+    },
+    {
+        "scenario": "An entity is providing cadastral surveying services on Canada Lands without holding a permit. According to the Canada Lands Surveyors Act, what is the likely outcome?",
+        "outcome": "The entity is in violation of the Act (Section 57) and could face legal consequences, including injunctions (Section 68)."
+    },
+    {
+        "scenario": "A person's membership in the Association was cancelled due to professional misconduct. According to the Act, how long must they wait before applying for reinstatement?",
+        "outcome": "They must wait at least two years after the date of cancellation before applying for reinstatement (Section 41)."
+    },
+    {
+        "scenario": "A cooperative is incorporated under the Canada Cooperatives Act.  Later, a member requests to inspect the cooperative's records.",
+        "outcome": "According to Part 4, Registered Office and Records, the member has the right to inspect and copy certain records, subject to the provisions outlined in sections 32 and 33."
+    },
+    {
+        "scenario": "The Governor in Council authorizes the Canada Development Investment Corporation to sell shares of one of its wholly owned subsidiaries. What part of the Budget Implementation Act 1998 provides the legal basis for this action?",
+        "outcome": "Part 2, Authorization of Divestiture, specifically section 48(1)(a)"
+    },
+    {
+        "scenario": "A representative of the National Authority enters a mining site without showing their certificate of designation when requested by the site manager.",
+        "outcome": "The representative is in violation of Section 9(4) of the Comprehensive Nuclear Test Ban Treaty Implementation Act, which requires them to show the certificate on request."
+    },
+    {
+        "scenario": "A Canadian company makes a payment to a foreign official to expedite the approval of a legitimate business permit. The payment is not illegal in the foreign country.  What would be the likely outcome under the Corruption of Foreign Public Officials Act?",
+        "outcome": "The Canadian company could still be prosecuted under the Corruption of Foreign Public Officials Act, despite the payment being legal in the foreign country because of section 3(1)."
+    },
+    {
+        "scenario": "A lender fails to pay the registration fee for a loan. What is the likely outcome according to the Canada Small Business Financing Act?",
+        "outcome": "The Minister is not liable to make any payment to a lender in respect of any loss sustained by it as a result of a loan made by it unless the lender has in respect of that loan paid to the Minister the registration fee in accordance with section 11."
+    },
+    {
+        "scenario": "A company applies for a production license after the transfer date on land subject to an existing federal interest and a declaration of commercial discovery was made before the transfer date. The application is made 45 days after the transfer date.",
+        "outcome": "The application will be disposed of in accordance with the Canada Petroleum Resources Act, but it may be rejected because it was made outside of the 30-day period specified after the transfer date."
+    },
+    {
+        "scenario": "An individual is provisionally arrested in Canada based on a request from an extradition partner. The extradition partner's request is based on an extradition agreement that specifies a period within which the request for extradition and supporting documents must be made. The extradition partner makes the request and provides the documents within the specified period, but the Minister does not issue an authority to proceed within 30 days after the expiry of that period. What is the likely outcome regarding the individual's detention?",
+        "outcome": "The person who has been provisionally arrested whether detained or released on judicial interim release must be discharged."
+    },
+    {
+        "scenario": "An institution in Canada applies for indemnification for a travelling exhibition. The total fair market value of objects borrowed from outside Canada is less than those borrowed from inside Canada, and the exhibition is only shown in one province.",
+        "outcome": "The Minister may not enter into an indemnification agreement because the exhibition does not meet the criteria of a travelling exhibition as defined in the Act."
+    },
+    {
+        "scenario": "A company fails to comply with a 'Notice requiring information' as outlined in Part 3 of the Canadian Environmental Protection Act, 1999. What is a likely outcome?",
+        "outcome": "The company may face penalties or legal action for non-compliance, as detailed in the Act."
+    },
+    {
+        "scenario": "A First Nation listed in the schedule of the Budget Implementation Act 2000 passes a by-law to impose a direct tax on fuel sold on its reserve, but fails to enter into an administration agreement with the Government of Canada. What is the likely outcome regarding the validity and enforceability of the by-law?",
+        "outcome": "The by-law is invalid and unenforceable because an administration agreement is a prerequisite for the by-law to come into force, according to subsection 24(4)(b) of the Act."
+    },
+    {
+        "scenario": "The Cape Breton Development Corporation has been dissolved. A legal proceeding is initiated concerning a liability the Corporation incurred before dissolution.",
+        "outcome": "The legal proceeding can be continued against Her Majesty."
+    },
+    {
+        "scenario": "An individual is accused of obstructing justice before the International Criminal Court by bribing a witness. What is the likely outcome under Canadian law, specifically the Crimes Against Humanity and War Crimes Act?",
+        "outcome": "The individual is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years."
+    },
+    {
+        "scenario": "The Federal Court determines that a certificate signed by the Minister and the Minister of National Revenue is reasonable. What is the likely outcome for the applicant charity?",
+        "outcome": "The applicant is ineligible to become a registered charity, or the registration of the registered charity will be revoked, as the case may be."
+    },
+    {
+        "scenario": "A company wants to dispose of waste in a marine conservation area without a permit.",
+        "outcome": "This action is prohibited under section 14 of the Canada National Marine Conservation Areas Act."
+    },
+    {
+        "scenario": "A small winery produces wine exclusively for personal use and sells a small quantity to neighbors. What is the likely outcome under the Excise Act 2001?",
+        "outcome": "The winery would be in violation of the Excise Act 2001, specifically section 63, which prohibits the sale of wine produced for personal use, leading to potential penalties or legal action."
+    },
+    {
+        "scenario": "A company resident in Canada pays dividends to a resident of Kuwait. The Kuwaiti resident is the beneficial owner of the dividends and owns 15% of the company's voting stock. What is the maximum tax rate that Canada can charge on these dividends according to the agreement?",
+        "outcome": "15%"
+    },
+    {
+        "scenario": "A Canadian resident earns income from immovable property located in Mongolia. According to the Convention, can Mongolia tax this income?",
+        "outcome": "Yes, according to Article 6, income derived from immovable property situated in the other Contracting State may be taxed in that other State."
+    },
+    {
+        "scenario": "A company resident in Canada earns profits from operating ships in international traffic. According to Article 8, where can these profits be taxed?",
+        "outcome": "Only in Canada"
+    },
+    {
+        "scenario": "A company resident in Canada has a permanent establishment in Moldova. According to the Canada-Moldova Tax Convention, where will the profits attributable to the permanent establishment be taxed?",
+        "outcome": "The profits may be taxed in Moldova, but only so much of them as is attributable to that permanent establishment, as per Article 7."
+    },
+    {
+        "scenario": "A Canadian resident attempts to export rough diamonds to a non-participant country without a Canadian Certificate. What is the likely outcome under the Export and Import of Rough Diamonds Act?",
+        "outcome": "The export will be in violation of the Act, and the individual may face penalties including fines or imprisonment, and the rough diamonds may be seized. A Canadian Certificate will not be issued for export to a non-participant country."
+    },
+    {
+        "scenario": "A First Nation in Alberta enters into an agreement with Her Majesty in right of Canada to have land set apart as a reserve. The agreement falls under the Claim Settlements Alberta and Saskatchewan Implementation Act. The council of the First Nation adopts a resolution assenting to the application of this Act.",
+        "outcome": "The Minister may set apart the land as a reserve, as per Section 5(1) of the Act."
+    },
+    {
+        "scenario": "A municipal government applies for funding under the Canada Strategic Infrastructure Fund for a project to build a new sewage treatment plant.",
+        "outcome": "The municipal government may be eligible to receive funding if the project meets the definition of an 'eligible project' as defined in the Act, and the Minister approves the contribution agreement."
+    },
+    {
+        "scenario": "A passenger acquires an air transportation service in Canada that includes multiple chargeable emplanements. The tickets are issued by different designated air carriers. Which carrier is responsible for collecting the charge?",
+        "outcome": "The designated air carrier operating the aircraft on which the individual first makes a chargeable emplanement."
+    },
+    {
+        "scenario": "If a province meets the terms of the trust indenture established under the Budget Implementation Act 2003, what is the predicted outcome?",
+        "outcome": "The province may receive a share of the funding for acquiring diagnostic and medical equipment and related specialized staff training."
+    },
+    {
+        "scenario": "A Canadian research team plans to conduct geological surveys in Antarctica, including collecting rock samples. They do not have a permit but believe their work is crucial for understanding climate change. What is the likely outcome under the Antarctic Environmental Protection Act?",
+        "outcome": "The research team is likely in violation of the Antarctic Environmental Protection Act, as the Act prohibits activities related to mineral resources without a permit, even if the activity is framed as scientific research. They could face penalties and legal action."
+    },
+    {
+        "scenario": "If a member of The Financial Advisors Association of Canada violates the association's ethical guidelines, what potential actions could the association take based on the Act?",
+        "outcome": "The Act grants the corporation the power to promote and encourage ethical behaviour by its members"
+    },
+    {
+        "scenario": "An inspector, while executing a warrant to enter a dwelling house under the Biological and Toxin Weapons Convention Implementation Act, encounters resistance. The warrant does not explicitly authorize the use of force.",
+        "outcome": "The inspector cannot use force to execute the warrant."
+    },
+    {
+        "scenario": "A family applies for a Canada Learning Bond for their child. The child was born in 2005, and the family's adjusted income qualifies them for the maximum bond amount. What is the likely outcome?",
+        "outcome": "The family will receive a Canada Learning Bond for their child, subject to meeting all other eligibility criteria outlined in the Act and regulations."
+    },
+    {
+        "scenario": "A clinic is found to be purchasing sperm from donors. What is the likely legal outcome under the Assisted Human Reproduction Act?",
+        "outcome": "The clinic and the individuals involved could face significant fines and/or imprisonment, as purchasing sperm is a contravention of section 7(1) of the Act."
+    },
+    {
+        "scenario": "A federal election is called. Can the Minister announce a new grant or contribution during the election period?",
+        "outcome": "No, no grant or contribution shall be announced from the date that a federal election has been called until the day after voting day."
+    },
+    {
+        "scenario": "A same-sex couple, domiciled in the United States, gets married in Canada. Their state of domicile does not recognize same-sex marriage. What is the likely outcome regarding the validity of their marriage in Canada?",
+        "outcome": "The marriage is valid in Canada"
+    },
+    {
+        "scenario": "The Minister of Employment and Social Development wants to enter into an agreement with a provincial public body to coordinate a program. Is this permissible under the Act?",
+        "outcome": "Yes, the Minister may enter into agreements with a province or a provincial public body for the purpose of facilitating the formulation, coordination, and implementation of any program or policy relating to the powers, duties, and functions conferred by this Act."
+    },
+    {
+        "scenario": "A company resident in Canada pays dividends to a resident of Gabon. The gross amount of the dividends is $10,000. According to the Convention, what is the maximum amount of tax that Canada can charge on these dividends if the beneficial owner of the dividends is a resident of Gabon?",
+        "outcome": "$1,500"
+    },
+    {
+        "scenario": "A company resident in Canada earns profits from operating aircraft in international traffic. According to the Canada-Armenia Tax Convention, in which state will these profits be taxed?",
+        "outcome": "Only in Canada"
+    },
+    {
+        "scenario": "A Canadian resident receives dividends from an Omani company. According to the agreement, under what conditions might the dividends be taxed in Canada?",
+        "outcome": "The dividends may be taxed in Canada as the resident is resident in Canada."
+    },
+    {
+        "scenario": "A company resident in Canada earns profits from a business activity in Finland through a permanent establishment. According to the Canada-Finland Tax Convention, where can these profits be taxed?",
+        "outcome": "The profits may be taxed in Finland, but only so much of them as is attributable to that permanent establishment."
+    },
+    {
+        "scenario": "A company resident in Canada pays dividends to a resident of Mexico. The Mexican resident owns 15% of the voting power in the Canadian company. Predict the maximum tax rate that Canada can charge on these dividends under the Canada-Mexico Tax Convention.",
+        "outcome": "5%"
+    },
+    {
+        "scenario": "A minister of the Crown receives a gift valued at $1,500 from a foreign corporation. According to the Conflict of Interest Act, what is the likely outcome regarding the gift?",
+        "outcome": "The gift will be forfeited to Her Majesty in right of Canada, unless otherwise determined by the Commissioner, because it exceeds $1,000 and is not a normal expression of courtesy or protocol."
+    },
+    {
+        "scenario": "A mining company violates a regulation incorporated from provincial law under the Donkin Coal Block Development Opportunity Act.",
+        "outcome": "The company is guilty of an offence against this Act and liable to the same punishment as is imposed by or under an Act of the Province for the contravention of that provision, and prosecution will be conducted by the Attorney General of the Province."
+    },
+    {
+        "scenario": "A Canadian court attempts to seize property entrusted to the Bank for International Settlements in relation to a civil proceeding, but the Governor in Council has not made any determination under section 4.",
+        "outcome": "The Bank's property and the property entrusted to it would be immune from attachment and execution, as per subsection 3(2) of the Act."
+    },
+    {
+        "scenario": "Newfoundland and Labrador makes the election under subsection 3.7(3) of the Federal-Provincial Fiscal Arrangements Act.",
+        "outcome": "Section 172 of the Budget and Economic Statement Implementation Act comes into force on April 1 of the fiscal year in respect of which the election is made."
+    },
+    {
+        "scenario": "The Governor in Council wishes to suspend certain rights granted to Peru under the Canada-Peru Free Trade Agreement due to a dispute.",
+        "outcome": "According to Section 15 (1) of the Canada Peru Free Trade Agreement Implementation Act, the Governor in Council may, by order, suspend rights or privileges granted by Canada to the Republic of Peru or to goods of the Republic of Peru under the Agreement or any federal law, modify or suspend the application of any federal law with respect to the Republic of Peru or to goods of the Republic of Peru, extend the application of any federal law to the Republic of Peru or to goods of the Republic of Peru and take any other measure that the Governor in Council considers necessary for that purpose."
+    },
+    {
+        "scenario": "A participating province wants to withdraw from the establishment of the Canadian securities regulation regime. What will happen?",
+        "outcome": "The Act does not explicitly detail the process or implications of a province withdrawing its participation. The transition office will proceed with their duties outlined in the act."
+    },
+    {
+        "scenario": "A not-for-profit corporation incorporated under the Canada Not-for-Profit Corporations Act seeks to amend its articles of incorporation. What type of resolution is typically required for such an amendment?",
+        "outcome": "A special resolution"
+    },
+    {
+        "scenario": "A claimant referred to in subsection 55(7) of the Employment Insurance Regulations has a benefit period that begins after September 11, 2010.",
+        "outcome": "The maximum number of weeks for which benefits may be paid will not be determined in accordance with Schedule 10 of the Budget Implementation Act 2009."
+    },
+    {
+        "scenario": "A Canadian resident earns income from immovable property located in Colombia. According to the Convention, which country has the right to tax this income?",
+        "outcome": "Colombia may tax the income"
+    },
+    {
+        "scenario": "A company resident in Canada pays dividends to a resident of Greece. The beneficial owner of the dividends is a company that holds directly 30% of the capital of the company paying the dividends. According to the convention, what is the maximum tax rate that Canada can charge on these dividends?",
+        "outcome": "5%"
+    },
+    {
+        "scenario": "A Canadian resident receives dividends from a Turkish company. According to the Canada-Turkey Tax Convention, can Turkey tax these dividends?",
+        "outcome": "Yes, but the tax charged cannot exceed 15% of the gross amount of the dividends if the beneficial owner is a company holding at least 10% of the voting power of the company paying the dividends, or 20% in all other cases."
+    },
+    {
+        "scenario": "A company knowingly sells a batch of children's toys that contain lead levels exceeding the regulated limit, potentially endangering children's health. The company is aware of the issue but continues to sell the toys.",
+        "outcome": "The company has violated section 8 of the Canada Consumer Product Safety Act, which prohibits selling a consumer product that they know is a danger to human health or safety. This could result in penalties, including fines and potential forfeiture of the toys."
+    },
+    {
+        "scenario": "The Governor in Council wants to suspend rights granted to the Republic of Colombia under the Canada Colombia Free Trade Agreement. What action can they take according to section 15(1)?",
+        "outcome": "The Governor in Council may, by order, suspend rights or privileges granted by Canada to the Republic of Colombia or to goods of the Republic of Colombia under the Agreement or any federal law."
+    },
+    {
+        "scenario": "A provision in the Eeyou Marine Region Land Claims Agreement conflicts with a section of the Eeyou Marine Region Land Claims Agreement Act. Which provision prevails?",
+        "outcome": "The Agreement prevails over the Act."
+    },
+    {
+        "scenario": "A producer delivers grain to the Canadian Wheat Board during a pool period. Later, the sum certain payable to producers for that grade of grain is increased. What is the likely outcome for the producer?",
+        "outcome": "The producer will receive the amount of the increase for each tonne of grain delivered during the pool period before the increase became effective."
+    },
+    {
+        "scenario": "A company resident in Canada pays dividends to a resident of Namibia. The Namibian resident is the beneficial owner of the dividends and does not have a permanent establishment in Canada. What is the maximum tax rate that Canada can charge on these dividends if the Namibian resident owns less than 25% of the share capital of the Canadian company?",
+        "outcome": "15% of the gross amount of the dividends"
+    },
+    {
+        "scenario": "A Canadian resident earns income from immovable property located in Serbia. According to the Canada-Serbia Tax Convention, where can this income be taxed?",
+        "outcome": "The income may be taxed in Serbia."
+    },
+    {
+        "scenario": "A company resident in Canada pays dividends to a resident of Poland. According to the Convention, what is the maximum tax rate that Canada can charge on these dividends if the beneficial owner holds less than 10% of the capital?",
+        "outcome": "15% of the gross amount of the dividends"
+    },
+    {
+        "scenario": "A company resident in Canada earns profits from operating ships in international traffic. According to the Canada-Hong Kong Tax Agreement, in which jurisdiction will these profits be taxed?",
+        "outcome": "Only in Canada"
+    },
+    {
+        "scenario": "The Minister of Transport, acting under section 202 of the Economic Action Plan 2013 Act, decides to sell all the securities of Ridley Terminals Inc. to a private company. What is the likely outcome regarding the operation of the terminal?",
+        "outcome": "The terminal will be operated by a private company, with the government aiming to obtain the best value for the business and ensure long-term, sustainable operation with open access to its services."
+    },
+    {
+        "scenario": "A party requests the Board to file a certified copy of its order in the Federal Court. The Board believes there is no indication of failure to comply with the order. What is the likely outcome regarding the filing of the order?",
+        "outcome": "The Board will likely not file the order in the Federal Court."
+    },
+    {
+        "scenario": "A dispute arises regarding the power of Her Majesty to dispose of Dominion Coal Blocks, citing limitations in the Crow's Nest Pass Act.",
+        "outcome": "The Crow's Nest Pass Act does not limit Her Majesty's power to dispose of the Dominion Coal Blocks."
+    },
+    {
+        "scenario": "A Canadian law conflicts with a provision in the Canada-United States Enhanced Tax Information Exchange Agreement Implementation Act. The conflicting Canadian law is not Part XVIII of the Income Tax Act.",
+        "outcome": "The provisions of the Canada-United States Enhanced Tax Information Exchange Agreement Implementation Act and the Agreement prevail to the extent of the inconsistency."
+    },
+    {
+        "scenario": "A veteran received an earnings loss benefit but it did not account for the disability pension they were receiving under the Pension Act. What will occur under the Economic Action Plan 2014 Act No. 1?",
+        "outcome": "The veteran is entitled to receive an amount determined in accordance with a specified formula to compensate for the disability pension."
+    },
+    {
+        "scenario": "The Governor in Council seeks to suspend benefits granted to the Republic of Korea under the Agreement.",
+        "outcome": "The Governor in Council may issue an order to suspend rights or privileges, modify or suspend federal law application, or extend the application of federal law."
+    },
+    {
+        "scenario": "The Minister of Health fails to publish the report outlining the federal framework on the Agency's website within one year after its development.",
+        "outcome": "The Act does not specify penalties for failing to meet the publication deadline, but it would be considered non-compliance with the legislative requirements."
+    },
+    {
+        "scenario": "An entity makes a payment to a public office holder of a payee. Under the Extractive Sector Transparency Measures Act, how is this payment treated?",
+        "outcome": "The payment is deemed to have been made to the payee, as per section 3(a) of the Act."
+    },
+    {
+        "scenario": "A promoter charges a fee exceeding the maximum, is reported, and convicted under section 7.",
+        "outcome": "The promoter is liable on summary conviction to a fine of not less than 100 and not more than 200 of the total of all amounts by which the fee exceeds the maximum fee amount."
+    },
+    {
+        "scenario": "A victim in a criminal case expresses their views about a potential plea bargain to the prosecutor. The prosecutor, facing a heavy caseload, does not explicitly acknowledge or address the victim's concerns before finalizing the plea bargain. Does this violate the Canadian Victims Bill of Rights?",
+        "outcome": "Potentially, yes. Section 14 of the Canadian Victims Bill of Rights grants victims the right to convey their views about decisions that affect their rights and to have those views considered. The prosecutor's failure to acknowledge or address the victim's concerns could be seen as a violation of this right, although the extent of consideration required is subject to reasonable interpretation (Section 20)."
+    },
+    {
+        "scenario": "A budget projects a deficit due to a recession. What measures, if any, take effect according to the Federal Balanced Budget Act?",
+        "outcome": "There is to be no increase in the operating budget of any government entity to fund annual wage increases, and there is to be no increase in the pay for the Prime Minister, ministers, ministers of State, and deputy ministers. These measures take effect on the first day of the fiscal year that follows the fiscal year in which the recession ends and remain in effect until a balanced budget is recorded in the Public Accounts."
+    },
+    {
+        "scenario": "A Canadian resident receives dividends from a company resident in Israel. The Canadian resident directly holds 30% of the capital of the Israeli company. According to Article 10, what is the maximum tax rate that Israel can charge on these dividends?",
+        "outcome": "5%"
+    },
+    {
+        "scenario": "A Canadian resident earns income from immovable property located in Taiwan. According to the Arrangement, where may this income be taxed?",
+        "outcome": "This income may be taxed in Taiwan."
+    },
+    {
+        "scenario": "A private company seeks investment from the Canada Infrastructure Bank for a toll highway project. The project is projected to generate substantial revenue but faces opposition due to environmental concerns and potential impact on local communities. What is the likely outcome based on the stated purpose and functions of the Bank?",
+        "outcome": "The Bank will likely assess whether the project will be in the public interest by supporting economic growth and contributing to the sustainability of infrastructure, while also considering the environmental and social concerns. The Bank is expected to assess if this project foster evidence-based decision making (7(1)(d)). The final investment decision will likely depend on balancing the revenue potential with the environmental and social impacts."
+    },
+    {
+        "scenario": "A province accepts the federal proposal to strengthen health care on December 10, 2017. The Minister of Health notifies the Minister of Finance on March 20, 2018.",
+        "outcome": "The Minister of Finance must pay the province amounts for home care services and mental health services for the fiscal year beginning on April 1, 2017, as determined by the formulas provided in subsections 195(2) and 195(3)."
+    },
+    {
+        "scenario": "A section of the Canada Labour Code is repealed before coming into force.",
+        "outcome": "The section is removed from the legislation and has no legal effect."
+    },
+    {
+        "scenario": "A person was convicted of gross indecency in 1960 involving consensual activity with another adult male. They apply for expungement under the Act.",
+        "outcome": "If the criteria in section 25 are met and there is no evidence the activity is currently prohibited under the Criminal Code, the Board must order expungement of the conviction."
+    },
+    {
+        "scenario": "A report on the effectiveness of the federal framework is completed by the Agency. What is the next step mandated by the Act?",
+        "outcome": "The Agency must cause a report on its findings to be laid before each House of Parliament within the next 10 sitting days after the review is completed."
+    },
+    {
+        "scenario": "An individual over the age of 18 is found in a public place possessing 35 grams of dried cannabis. According to the Cannabis Act, what is the likely outcome?",
+        "outcome": "The individual is in contravention of subsection 8(1)(a) and subject to the penalties outlined in subsection 8(2)."
+    },
+    {
+        "scenario": "A Cree beneficiary wishes to waive their tax exemption on property located on Category IA land in favor of a non-Cree individual. What are the legal requirements for this waiver to be valid?",
+        "outcome": "The Cree beneficiary must provide a written waiver, and the Cree First Nation must consent to the waiver and its terms and conditions in accordance with the Cree Constitution."
+    },
+    {
+        "scenario": "An Indigenous governing body gives notice of its intention to exercise legislative authority over child and family services. What is a likely outcome according to the Act?",
+        "outcome": "The Indigenous governing body may request a coordination agreement with the federal and provincial governments. Sections 21 and 22 of the act may apply, giving force of federal law to the Indigenous law."
+    },
+    {
+        "scenario": "A person makes a complaint to the College about a licensee's conduct. The College believes the complaint relates to professional misconduct. What will happen next?",
+        "outcome": "The College may refer a complaint to the Complaints Committee."
+    },
+    {
+        "scenario": "An investigator requires a person to provide information related to an investigation into a licensee's conduct. The person refuses to provide the information. What are the possible consequences?",
+        "outcome": "The person may be subject to penalties for obstruction and false statements, as it is prohibited to obstruct or hinder an investigator who is performing their functions."
+    },
+    {
+        "scenario": "The Minister of Indigenous Services wants to disclose data collected under the Act to a not-for-profit entity controlled by Indigenous individuals. The data contains personal information that is publicly available.",
+        "outcome": "The Minister may disclose the information as the exception in subsection 12(3)(a)(i) applies since the personal information is publicly available."
+    },
+    {
+        "scenario": "A First Nations community seeks to negotiate a self-government agreement with the Canadian government. Based on the Department of Crown Indigenous Relations and Northern Affairs Act, what is a likely outcome regarding the Minister's involvement?",
+        "outcome": "The Minister of Crown Indigenous Relations is likely to be involved in negotiating the agreement, as the Act assigns responsibility for negotiating treaties and agreements to advance the self-determination of Indigenous peoples."
+    },
+    {
+        "scenario": "A contractor submits a proper invoice to Her Majesty for construction work. Her Majesty does not provide a notice of non-payment within the specified timeframe. What is the likely outcome according to the Act?",
+        "outcome": "Her Majesty is obligated to pay the contractor for the construction work within 28 days of receiving the proper invoice."
+    },
+    {
+        "scenario": "A claim for exemption under the Hazardous Materials Information Review Act was pending before the Chief Screening Officer immediately before the commencement day. What happens to this claim?",
+        "outcome": "The claim is to be taken up before the Minister of Health and continued in accordance with that Act as it reads on that day."
+    },
+    {
+        "scenario": "An individual applies for the Canada Recovery Benefit. They meet all eligibility criteria except that they quit their job voluntarily on September 28, 2020, and are applying for benefits for a period in October 2020. According to section 3(1)(k)(i), what is the likely outcome?",
+        "outcome": "The individual will likely be deemed ineligible for the Canada Recovery Benefit because they quit their employment without reasonable cause on or after September 27, 2020."
+    },
+    {
+        "scenario": "A dispute arises between Canada and Mexico regarding the interpretation of a provision in the CUSMA. A Canadian company wishes to bring a case before an international tribunal to resolve the dispute, citing the CUSMA directly.",
+        "outcome": "The Canadian company cannot bring a case without the consent of the Attorney General of Canada, as per section 8(2) of the Canada United States Mexico Agreement Implementation Act."
+    },
+    {
+        "scenario": "A worker applies for CERB after quitting their job voluntarily due to concerns about COVID-19, but not directly affected. They meet all other eligibility criteria.",
+        "outcome": "The worker is not eligible for CERB because employed workers who voluntarily quit their employment are excluded."
+    },
+    {
+        "scenario": "A student applies for the Canada Emergency Student Benefit but is also receiving employment insurance benefits during the same period. What is the likely outcome according to the Act?",
+        "outcome": "The student will likely be deemed ineligible for the Canada Emergency Student Benefit for that period, unless exceptions apply through ministerial discretion or regulatory allowances."
+    },
+    {
+        "scenario": "An individual received a Canada Worker Lockdown Benefit but did not file their 2021 and 2022 tax returns by December 31, 2023. What will be the likely outcome according to the Act?",
+        "outcome": "The person will be deemed not to have been entitled to the lockdown benefit in respect of that week beginning in 2022."
+    },
+    {
+        "scenario": "A person receives confidential information under the Agreement and is compelled to produce evidence relating to that information in a court proceeding. The information is subject to a claim of confidentiality.",
+        "outcome": "The person is not to be compelled to give or produce the evidence unless the proceeding relates to the enforcement of this Act or another Act of Parliament, according to subsection 8(3)."
+    },
+    {
+        "scenario": "A First Nation enacted a land code under the First Nations Land Management Act (chapter 24 of the Statutes of Canada, 1999) before it was repealed. A dispute arises regarding land use within that First Nation's territory after the repeal.",
+        "outcome": "The land code enacted under the former Act remains in force and is not affected by the repeal, according to the transitional provisions outlined in the Fall Economic Statement Implementation Act, 2022."
+    },
+    {
+        "scenario": "The Minister fails to table the framework report within 12 months of the Act coming into force.",
+        "outcome": "The Act specifies that the Minister 'must' prepare and table the report, implying a legal obligation. Failure to do so could potentially lead to legal challenges or political repercussions, but the Act itself doesn't prescribe a specific penalty."
+    },
+    {
+        "scenario": "The Minister of Health wishes to transfer COVID-19 tests acquired in March 2021. Can this transfer be authorized under SC 2022 c 2?",
+        "outcome": "No, because section 2 specifies the tests must be acquired on or after April 1, 2021."
+    },
+    {
+        "scenario": "A person took out a CEBA loan and defaulted on June 1, 2023. According to the Economic and Fiscal Update Implementation Act, 2021, what is the deadline for commencing legal action to recover the money owing, assuming no acknowledgment of liability or suspension of the limitation period?",
+        "outcome": "Six years from the date of default, i.e., June 1, 2029."
+    },
+    {
+        "scenario": "A new calculation under the Electoral Boundaries Readjustment Act results in a different number of House of Commons members for a particular province compared to the old calculation. What is the immediate legal consequence according to section 5(2) of S.C. 2022, c. 6?",
+        "outcome": "Any report prepared in respect of the province on the basis of the old calculation and anything done under sections 19 to 23 of the Electoral Boundaries Readjustment Act on the basis of the report are nullities."
+    },
+    {
+        "scenario": "A First Nation enacts a law regarding citizen selection that conflicts with a pre-existing section of the Indian Act.",
+        "outcome": "Based on section 5(1) and 7(2)(3), the Anishinabek law regarding citizen selection will prevail, and sections 8 to 14 or 74 to 79 of the Indian Act cease to apply depending on which paragraph is being applied."
+    },
+    {
+        "scenario": "An individual applies for the Canada Disability Benefit but fails to provide the Minister with required information regarding their application. What is the likely outcome based on the Canada Disability Benefit Act?",
+        "outcome": "The application may be denied, as the Act mandates applicants to provide any information the Minister requires."
+    },
+    {
+        "scenario": "The Minister of Health fails to table the report setting out the federal framework within the specified timeframe.",
+        "outcome": "This would be a failure to comply with the requirements of the Federal Framework on Autism Spectrum Disorder Act and would likely result in parliamentary scrutiny."
+    },
+    {
+        "scenario": "A Canadian company fails to submit its annual report detailing the steps taken to prevent forced labour in its supply chain. What is the likely outcome according to the Act?",
+        "outcome": "The company is likely guilty of an offence punishable on summary conviction and liable to a fine of not more than $250,000."
+    },
+    {
+        "scenario": "The Minister requests the Sustainable Jobs Partnership Council to research and report on the impact of automation on sustainable job creation in the manufacturing sector. What is the expected outcome according to the Act?",
+        "outcome": "The Council will research and provide a report to the Minister on the specified matter."
+    },
+    {
+        "scenario": "A First Nations community seeks funding for a culturally appropriate early learning program.",
+        "outcome": "The government is committed to working in collaboration with Indigenous peoples and supporting them in their efforts to provide such programs and services that are affordable, inclusive, and of high quality."
+    },
+    {
+        "scenario": "A Canadian company operating in Ukraine is accused of violating labour standards. A complaint is filed under the established process. What is the likely outcome according to the Act?",
+        "outcome": "The Minister must follow the established process for receiving and responding to complaints of non-compliance with the principles and guidelines outlined in the Act and the Agreement."
+    }
+]
