@@ -1,6 +1,6 @@
 # Canada-Law-Benchmark-Generation
 
-Dataset: here(https://github.com/ChrisJoel10/Canada-Law-Benchmark-Generation/tree/main/Dataset)
+Dataset: [here](https://github.com/ChrisJoel10/Canada-Law-Benchmark-Generation/tree/main/Dataset)
 
 ## Usage
 
