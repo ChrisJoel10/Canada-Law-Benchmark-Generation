@@ -1,4 +1,4 @@
-# Canada-Law-Benchmark-Generation
+# Canadaian Law Benchmark Dataset Generation
 
 Dataset: [here](https://github.com/ChrisJoel10/Canada-Law-Benchmark-Generation/tree/main/Dataset)
 
@@ -11,7 +11,7 @@ pip install langgraph google-generativeai beautifulsoup4 webdriver-manager reque
 
 ```
 
-### 1. Fetch Links and Store in JSON file
+### 1. Fetch Links and Store in a JSON file
 Command Line
 ```
 python get_links.py --savepath=links.json
