@@ -1,4 +1,4 @@
-# Canadaian Law Benchmark Dataset Generation
+# Canadian Law Benchmark Dataset Generation
 
 Dataset: [here](https://github.com/ChrisJoel10/Canada-Law-Benchmark-Generation/tree/main/Dataset)
 
